@@ -1,0 +1,15 @@
+# Ham veri: boyutu büyük ve kaynaklarından betiklerle yeniden indirilebiliyor
+data/raw/
+
+# Hackmageddon kayıtlarının tam dökümü (üçüncü taraf içerik, yeniden dağıtılmıyor)
+data/processed/hackmageddon_kriz_donemleri.csv
+
+# Öneri metni taslakları (depoya dahil değil)
+ONERI_GUNCEL_BOLUMLER.md
+
+# Çalışma kayıtları ve sistem dosyaları
+outputs/*.log
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
