@@ -48,6 +48,10 @@ python3 src/birlestir.py
 python3 src/gdelt_gerginlik.py
 python3 src/pilot_analiz.py
 python3 src/hipotez_testleri.py
+
+# 4. Sağlamlık analizleri
+python3 src/hackmageddon_genislet.py   # ±90 gün için ek Hackmageddon ayları (src klasöründen çalıştırın)
+python3 src/saglamlik.py
 ```
 
 Aday haberlerin gerçekten bir saldırıyı anlatıp anlatmadığına insan karar veriyor; bu adım otomatik değil.
@@ -193,9 +197,38 @@ H4 gerginlik endeksiyle (Goldstein ve ton z-puanlarının ortalaması; `gerginli
 test ediliyor. H1 eğim modelinde kriz sonrası eğim negatif (IRR/gün 0,94, p = 0,043): saldırılar krizin hemen ardından yoğunlaşıp sönümleniyor.
 EuRepoC'deki Türkiye kayıtlarında başlangıç tarihi yalnızca ay düzeyinde olanların oranı: devlet destekli %79, hacktivist %21.
 
+### Sağlamlık analizleri (15.11.2026)
+
+`src/saglamlik.py`, sonuçlar `data/processed/saglamlik.csv`. H1 = Poisson IRR (kriz sabit etkili), H2 = Fisher (tek yönlü).
+
+| Senaryo | Tüm olaylar (önce → sonra) | IRR, p | Karşı tarafa (önce → sonra) | p | H2 | p |
+|---|---|---|---|---|---|---|
+| Pencere ±30 | 4 → 10 | 2,42; 0,135 | 1 → 7 | 0,074 | 1/4 → 7/8 | 0,067 |
+| Pencere ±45 | 6 → 17 | 2,77; 0,032 | 1 → 12 | 0,018 | 1/5 → 12/15 | 0,031 |
+| Pencere ±60 (ana) | 6 → 19 | 3,11; 0,015 | 1 → 14 | 0,011 | 1/5 → 14/17 | 0,021 |
+| Kriz tarihi −7 gün (±53) | 4 → 19 | 4,66; 0,005 | 0 → 13 | 0,0001 | 0/3 → 13/17 | 0,031 |
+| Kriz tarihi 0 (±53) | 6 → 18 | 2,94; 0,022 | 1 → 13 | 0,014 | 1/5 → 13/16 | 0,025 |
+| Kriz tarihi +7 gün (±53) | 12 → 13 | 1,06; 0,878 | 7 → 8 | 0,824 | 7/11 → 8/11 | 0,500 |
+| Yalnız veri tabanları ±60 | 1 → 11 | 10,82; 0,023 | 0 → 8 | 0,004 | 0/1 → 8/9 | 0,200 |
+| Yalnız veri tabanları ±90 | 1 → 12 | 11,87; 0,018 | 0 → 8 | 0,004 | 0/1 → 8/10 | 0,273 |
+| Rusya hariç | 4 → 7 | 1,72; 0,386 | 0 → 6 | 0,016 | 0/4 → 6/7 | 0,015 |
+| Hollanda hariç | 2 → 14 | 6,89; 0,011 | 1 → 10 | 0,029 | 1/1 → 10/12 | 1,000 |
+| Barış Pınarı hariç | 6 → 17 | 2,79; 0,031 | 1 → 12 | 0,018 | 1/5 → 12/15 | 0,031 |
+
+Yorum:
+- **Pencere:** Yön her pencerede aynı. ±30 günde olay sayısı azaldığı için anlamlılık sınırın altına iniyor; ±45 ve ±60 günde anlamlı.
+- **Kriz tarihi:** Tarih bir hafta öne alınınca etki güçleniyor (Skorsky'nin 23.11.2015 saldırısı da "sonra"ya geçiyor), bir hafta
+  sonraya alınınca kayboluyor. Saldırılar krizin ilk haftasında yoğunlaştığı için tarih sonraya kaydırılınca bu saldırılar "önce"
+  dönemine düşüyor. Yani kırılma kriz tarihinin hemen çevresinde; etki gecikmeli değil, ani ve kısa süreli (eğim modeliyle tutarlı).
+- **±90 gün:** Yalnız veri tabanı kaynaklarıyla ±60 ve ±90 gün sonuçları neredeyse aynı. 60–90 gün arasında 13 aday kayıttan yalnızca
+  biri sayıma girdi (Turk Hack Team, Ferrari müzesi, +61. gün); kodlama gerekçeleri `olaylar_bant_60_90.csv` dosyasında. Ek dönemler için
+  Hackmageddon'dan 6 zaman çizelgesi daha indirildi (`src/hackmageddon_genislet.py`).
+- **Kriz dışarıda bırakma:** Toplam saldırı artışı büyük ölçüde Rusya krizine dayanıyor; Rusya çıkarılınca anlamlı değil. Buna karşılık
+  karşı tarafa yönelik saldırı artışı ve hedef kayması (H2) Rusya olmadan da anlamlı. Hollanda çıkarılınca H2 test edilemiyor, çünkü
+  kriz öncesinde yalnızca bir Türk hacktivist saldırısı kalıyor.
+
 ## Henüz yapılmayanlar
 
-- 30 ve 90 günlük pencerelerle ve kriz tarihini bir hafta kaydırarak sağlamlık analizi
 - 2015–2025 kriz dışı dönemle karşılaştırma
 - PCA ağırlıklı gerginlik endeksi
 - İkinci kodlayıcı için Cohen's Kappa hesabı

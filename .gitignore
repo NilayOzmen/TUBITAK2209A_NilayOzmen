@@ -3,6 +3,7 @@ data/raw/
 
 # Hackmageddon kayıtlarının tam dökümü (üçüncü taraf içerik, yeniden dağıtılmıyor)
 data/processed/hackmageddon_kriz_donemleri.csv
+data/processed/hackmageddon_genis.csv
 
 # Öneri metni taslakları (depoya dahil değil)
 ONERI_GUNCEL_BOLUMLER.md
