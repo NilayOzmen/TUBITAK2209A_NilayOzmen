@@ -46,7 +46,7 @@ def son_veri_seti():
     d = d.drop(columns=[c for c in ["mukerrer_aday", "karsi"] if c in d.columns])
     d = d.sort_values(["kriz", "tarih"]).reset_index(drop=True)
     d.insert(0, "olay_id", [f"{k[:3].upper()}-{n:02d}" for n, k in enumerate(d.kriz, 1)])
-    d.to_csv(P / "olaylar_v02.csv", index=False)
+    d.to_csv(P / "olaylar_v03.csv", index=False)
     return d
 
 

@@ -1,9 +1,9 @@
 kriz,kapsam,once,sonra,p_tek_yonlu
-2015 Rusya,tüm olaylar,1,10,0.0059
-2015 Rusya,yalnız kriz ikilisi,0,7,0.0078
-2017 Hollanda,tüm olaylar,3,3,0.6562
-2017 Hollanda,yalnız kriz ikilisi,0,2,0.25
+2015 Rusya,tüm olaylar,2,12,0.0065
+2015 Rusya,yalnız kriz ikilisi,1,8,0.0195
+2017 Hollanda,tüm olaylar,4,5,0.5
+2017 Hollanda,yalnız kriz ikilisi,0,4,0.0625
 2019 Barış Pınarı,tüm olaylar,0,2,0.25
 2019 Barış Pınarı,yalnız kriz ikilisi,0,2,0.25
-Üç kriz birlikte,tüm olaylar,4,15,0.0096
-Üç kriz birlikte,yalnız kriz ikilisi,0,11,0.0005
+Üç kriz birlikte,tüm olaylar,6,19,0.0073
+Üç kriz birlikte,yalnız kriz ikilisi,1,14,0.0005

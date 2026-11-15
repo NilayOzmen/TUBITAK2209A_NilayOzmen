@@ -1,0 +1,916 @@
+Taranan dosya: 2710 | Türkçe haber: 703942 | aday kayıt: 1050 | tekil başlık: 914
+Günlük Türkçe 'siber' temalı haber ort.: önce 167.4 → sonra 159.5
+ -14 x1   [tur] hackerlar engellenen hesaplari aciyor 26 subat 2017 pazar
+ -14 x1   [tur] dunya capinda aranan hacker teknoloji 2403027
+ -13 x2   [tur] turk hackerlardan ermenistana hocali soku bilgi ve yazismalari ele gecirildi 283890
+ -12 x1   [tur] hackerlar paraniza goz dikmis 39995
+ -12 x1   [tur] 201702271027399091 oscar odulleri torenini de rusya hackledi
+ -12 x1   [ces] 183467 hackerske utoky proti rakousku provadel turek zijici v usa
+ -12 x2   [ces] na rakousky parlament letiste i urady utocil turecky hacker kvuli nepratelstvi
+ -12 x2   [deu] tuerkischer terrorist nach cyberattacke enttarnt oesterreich als ziel story 556347
+ -11 x1   [spa] 576994 hacker turco ataco sitios del gobierno desde eu austria
+ -11 x1   [spa] 604518 hacker turco ataco sitios del gobierno desde eu austria
+ -11 x1   [spa] austria hacker turco ataco sitios del gobierno desde eu
+ -11 x2   [deu] Heer soll Polizeiarbeit gegen tuerkischen Hacker torpediert haben
+ -11 x1   [spa] hacker turco ataco sitios del gobierno austriaco desde eeuu
+ -11 x1   [tur] hackerlar engellenen hesaplari aciyor 1 mart 20107 carsamba
+ -11 x1   [spa] hacker turco ataco sitios del gobierno desde eu austria
+ -11 x1   [tur] turk bankacilik kullanicilari hackerlarin hedefinde 3767
+ -11 x1   [deu] cyber attacken tuerkischer nationalist entlarvt
+ -11 x1   [tur] facebook hesabiniz baskasi tarafindan ele gecirilmis olabilir 2098h
+ -10 x1   [tur] o hacker tespit edildi h91646
+ -10 x1   [tur] atasehir de 1 milyon tl degerinde sahte icki ele gecirildi h894836
+ -10 x1   [tur] siber saldirilarin arkasindan turk cikti
+ -10 x1   [tur] siber saldirilariyla avusturya da ortaligi birbirine katan turk hacker bulundu h25884
+ -10 x1   [tur] atasehir de 1 milyon tl degerinde sahte icki ele gecirildi 148954
+ -10 x1   [tur] son dakika avusturya siber saldirilarin arkasindaki turk hacker bulundu 1706436
+ -10 x1   [spa] hacker turco ataco sitios del gobierno desde estados unidos asegura austria
+ -10 x1   [tur] haber avusturya siber saldirilarin arkasindaki turk 9317286
+ -10 x1   [tur] 2270536 1 milyon tl degerinde sahte icki ele gecirildi
+ -10 x1   [tur] 2269587 avusturyayi karistiran turk hacker iddiasi
+ -10 x1   [tur] turk hacker avusturyayi karistirdi 284700
+ -10 x1   [tur] turk hacker avrupa ulkesini karistirdi 1043703 dunya
+ -10 x1   [tur] turk dusmaninin sitesi hacklendi
+ -10 x1   [tur]  siber saldirilarin arkasindaki dunya 2405550
+ -10 x1   [tur] avusturya ordusuna siber saldiri yapan turk hacker 86648h
+ -10 x1   [tur] avusturya siber saldirilarin arkasindaki turk hacker bulundu h148508
+ -10 x1   [tur] avusturya yi karistiran turk hacker iddiasi haberi 898234
+ -10 x1   [tur] avusturya ya saldiran turk hacker bulundu iddiasi general osman adiyla biliniyor haberi 1272902
+ -10 x1   [tur] avusturya yi turk hacker karistirdi 800428
+ -10 x1   [tur] avusturya siber saldirilarin arkasindaki turk hacker bulundu 40380811
+ -10 x1   [tur] avusturya siber saldirilarin arkasindaki turk hacker bulundu 2906755 1
+ -10 x1   [tur] avusturya siber saldirilarin arkasindaki turk hacker bulundu 143006h
+ -10 x1   [spa] 577481 hacker turco ataco sitios del gobierno desde estados unidos asegura austria
+ -10 x1   [tur] facebook ve twitter neden yavas siber saldiri mi var 1 mart 2017 carsamba
+ -10 x1   [tur] 1 milyon tl degerinde sahte icki ele gecirildi haber 1192131
+ -10 x1   [tur] 1 milyon tl lik sahte icki ele gecirildi 800791
+ -10 x1   [tur] avusturyaya siber saldiri yapan turk cikti 4008732h
+ -10 x1   [tur] avusturyayi karistiran turk hacker iddiasi 40380836
+ -10 x1   [tur] avusturyada turk hacker alarmi 284882
+ -10 x1   [tur] avusturyayi karistiran turk hacker soylentisi 284652
+ -10 x1   [tur] atasehirde 1 milyon tl degerinde sahte icki ele gecirildi 1708470
+ -10 x1   [tur] avusturya parlamentosunu cokerten turk hackerin kimligi aciklandi h 20058
+ -10 x1   [tur] avusturya siber saldirilarin arkasindaki turk 9317286 haberi
+ -10 x1   [tur] avusturya siber saldirilarin arkasindaki turk hacker bulundu
+ -10 x2   [tur] atasehirde 1 milyon tl degerinde sahte icki ele gecirildi
+ -10 x1   [tur] avrupa ulkesini tek basina karistiran turk hacker 166611
+ -10 x2   [tur] siber saldirilarin arkasindaki turk hacker bulundu 143353
+ -10 x1   [tur] siber saldirilarin ardindan turk hacker cikti
+ -10 x1   [tur] turk hacker avusturyayi karistirdi 347489
+ -10 x1   [tur] dha istanbul atasehirde 1 milyon tl degerinde sahte icki ele gecirildi
+ -10 x2   [tur] dha istanbul atasehir de 1 milyon tl degerinde sahte icki ele gecirildi h894833
+  -9 x1   [ron] serviciul secret german bnd invita hackerii sa i sparga serverele si ii recruteaza pe cei care reusesc
+  -9 x1   [tur] goruntulu haber atasehir de 1 milyon tl degerinde sahte icki ele gecirildi h894847
+  -9 x1   [tur] siber saldirilarin arkasindaki turk hacker bulundu
+  -9 x1   [tur] sirin ayiciklar hackerlarin yeni hedefi oldular h 20071
+  -9 x1   [tur] atasehir de 1 milyon tl degerinde sahte icki ele gecirildi 1044007 gundem
+  -9 x1   [tur] atasehirde 1 milyon tl degerinde sahte icki ele gecirildi 187373
+  -9 x1   [tur] atasehirde bir depoda 1 milyon liralik sahte icki ele gecirildi 42545 haber
+  -9 x1   [zho] lotte cyber attack china 0302 thursday idCNKBS1690KE
+  -9 x1   [tur] atasehirde 1 milyon tl degerinde sahte icki ele gecirildi,z1dQDq1PLkamAc0r7of5lA
+  -9 x1   [tur] 1 milyon tl degerinde sahte icki ele gecirildi
+  -9 x1   [tur] 1 milyon tl degerinde sahte icki ele gecirildi 2908665 1
+  -9 x1   [tur] istanbulda ele gecirildi teneke kutularda piyasaya suruyorlar 359207 haber
+  -9 x1   [tur] avusturyayi birbirine katan turk hacker bulundu
+  -9 x1   [tur] hackerlarin yeni hedefi elektronik oyuncaklar oldu h25938
+  -9 x1   [tur] feto sosyal medyada siber saldirisina devam ediyor 18477
+  -8 x1   [tur] hackerler 12 milyon franki kendi hesaplarina aktardi 167081
+  -8 x1   [tur] hackerler rekor parayi kendi hesaplarina aktardi h235676
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi 801422
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi haberi 1273713
+  -8 x1   [tur] turkiyeyi siber saldirilardan onlar koruyor haberi
+  -8 x1   [tur] turkiyenin hackersavar merkezi kapilarini gazetecilere acti 301987
+  -8 x1   [tur] hackersavar merkezi kapilarini gazetecilere acti 690898
+  -8 x3   [deu] hacker drohen erdogans chaos jetzt auch bei uns wir sind bereit story 557103
+  -8 x1   [tur] hackersavar merkezi kapilarini gazetecilere acti 9327990 haberi
+  -8 x1   [tur] hackersavar merkezi kapilarini gazetecilere acti 9327180 haberi
+  -8 x1   [tur] hackerler rusya nin basina bela oldu 9328877 haberi
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi 279261h
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi 782428h
+  -8 x1   [tur] iste siber saldirilari gerceklesmeden haber veren siber fuzyon merkezi h 20112
+  -8 x1   [tur] hackerler 1 2 milyon franki aktardi 735419h
+  -8 x1   [tur] facebook ve twitter neden yavas siber saldiri mi var 3 mart 2017 cuma
+  -8 x1   [tur] hackersavar merkezi kapilarini gazetecilere acti 296040h
+  -8 x1   [tur] hackersavar merkezi ankarada kapilarini acti haberi 352330
+  -8 x1   [tur] hackersavar merkezi ankara da kapilarini acti 9330294 haberi
+  -8 x2   [tur] hackersavar merkezi kapilarini gazetecilere acti
+  -8 x1   [ron] alte 32 de milioane de conturi yahoo au cazut victima hackerilor
+  -8 x1   [tur] yahoo hesaplarin ele gecirildigini dogruladi 79867
+  -8 x1   [tur] trumpin yardimcisinin e posta hesabi hacklenmis 285807
+  -8 x2   [tur] haber hackerler 12 milyon franki kendi hesaplarina aktardi 628341
+  -8 x1   [tur] hackerlar bir gecede 44 milyon tlyi cebe indirdi 302064
+  -8 x2   [tur] haber hackerler rusyanin basina bela oldu 628376
+  -8 x2   [tur] haber hackerler rusyanin basina bela oldu 628364
+  -8 x1   [tur] hackerlar 4 4 milyon tlyi hesaplarina gecirdi 684570h
+  -8 x1   [tur] pencein resmi yazismalarda kullandigi hesabi hacklenmis haberi
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi 79276h
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina 9328049 haberi
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina 9328057 haberi
+  -8 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi 1102
+  -8 x1   [tur] hackerler rusyanin basina bela oldu h1418247
+  -8 x1   [tur] hackerler rusyanin basina bela oldu 735490h
+  -8 x1   [tur] hackerler rusyanin basina bela oldu 279291h
+  -8 x1   [tur] hackerler rusyanin basina bela oldu 217447h
+  -8 x1   [tur]  hackersavar merkezi ankara da kapilarini acti haberi 6173091
+  -8 x1   [tur] hackerler rusyanin basina bela oldu 782667h
+  -8 x1   [tur] hackerlerlar bir gecede 4 4 milyon tlyi kendi hesaplarina gecirdiler 1407933h
+  -8 x1   [tur] hackerler rusyanin basina bela oldu h307328
+  -8 x1   [tur] siber saldiridan salon kapatmaya iste almanyanin turkiye dusmanliginin kodlari 42805 haber
+  -8 x1   [tur] hackerler rusyanin basina bela oldu h238209
+  -8 x1   [tur] hackerler rusya nin basina bela teknoloji 2406967
+  -8 x4   [tur] hackerler rusyanin basina bela oldu
+  -8 x1   [tur] hackerler rusyanin basina bela oldu 1712709
+  -8 x1   [tur] pencein resmi yazismalarda kullandigi hesabi hacklenmis,hPvLwUZ98UG6uVuNFzSf7Q
+  -7 x1   [tur] rusyanin basi hackerlar ile dertte
+  -7 x1   [tur] rusya 525 milyon siber saldiriyi etkisiz hale getirdi h896829
+  -7 x1   [tur] rusya 52 milyon defa hacklendi 285861
+  -7 x1   [tur] rusya 52 5 milyon siber saldiriyi etkisiz hale getirdi,4d6pYpbLX022A1tScBBbYA
+  -7 x1   [tur] hackerler 1 2 milyon franki kendi hesaplarina aktardi 775119
+  -7 x1   [tur] rusya 52 5 milyon siber saldiriyi etkisiz hale getirdi 1713960
+  -7 x1   [tur] rusya 525 milyon siber saldiriyi etkisiz hale getirdi
+  -7 x1   [tur] hackerler rusya nin basina bela oldu 775148
+  -7 x1   [tur] turkiye nin siber fuzyon merkezi hackersavar 1044691 gundem
+  -7 x1   [tur] hackersavar us goreve hazir ekonomi 2407132
+  -7 x1   [tur] hacker lar bir gecede 44 milyon tl yi kendi hesaplarina h71837
+  -7 x1   [tur] siber orduya ilk 15 grup geliyor
+  -7 x1   [tur] hackerler rusyanin basina bela oldu 296084h
+  -7 x1   [tur] hackerlar engellenen hesaplari aciyor 4 mart 2017 cumartesi
+  -7 x1   [tur] tum zamanlarin en tehlikeli 5 hackeri h26034
+  -6 x1   [tur] aleyna tilki nin instagram hesabi ikinci kez hacklendi 691258
+  -6 x1   [tur] aleyna tilki nin instagram hesabi hacklendi h75056
+  -6 x1   [tur] turk hackerlardan almanyaya dev siber operasyon sunucuyu cokerttiler 286424
+  -6 x1   [tur] aleyna tilki nin instagram hesabi ele gecirildi haberi 1024006
+  -6 x1   [tur] turk hackerlardan almanyaya dev siber operasyon sunucuyu cokerttiler
+  -6 x1   [deu]  new york times barack obama befahl hackerangriffe auf nordkorea
+  -6 x1   [tur] rusya 52 5 milyon siber saldiriyi etkisiz hale getirdi
+  -6 x1   [ron] stiri actual un ecran publicitar a difuzat imagini porno dupa ce a fost tinta unor hackeri 313627
+  -6 x1   [tur] 201703051027497970 patrusev rusya siber saldiri
+  -6 x1   [tur] instagram hesabi ikinci defa hacklendi 735913h
+  -5 x1   [tur] umit ozdagin yayinina siber saldiri 1717646
+  -5 x1   [deu] erneut hacker attacke auf aussenministerium
+  -5 x1   [tur] umit ozdagin yayinina siber saldiri
+  -5 x1   [tur] umit ozdagin yayinina siber saldiri 0603171200
+  -5 x1   [tur] fransa da secimler icin siber saldiri endisesi h201682
+  -5 x1   [tur] fransada secimler icin siber saldiri endisesi buyuyor 2624255
+  -5 x1   [tur] fransa da secimler icin siber saldiri endisesi h147614
+  -5 x1   [tur] fransada secimler icin siber saldiri endisesi 2017 03 06
+  -5 x1   [deu] Tuerkische Hacker legen Seite von Aussenministerium lahm
+  -5 x1   [deu] Tuerkische HackerAttacke auf Aussenministerium
+  -5 x1   [deu] Tuerkische Hacker Attacke auf Aussenministerium
+  -5 x1   [tur] fransa da secimler icin siber saldiri endisesi 9339934 haberi
+  -5 x1   [ita] austria attacco hacker turco contro ministero esteri 121515058
+  -5 x1   [spa] cuidado con ese cajero automatico hackearlo es mas facil de lo que imaginas
+  -5 x1   [tur] haber fransa da secimler icin siber saldiri endisesi 680186
+  -4 x7   [deu] tuerkische hackergruppe greift oesterreich an
+  -4 x1   [tur] wikileaksten cia belgeleri hack sirlari ifsa ediliyor 2919474 1
+  -4 x1   [tur] yeni wikileaks sizintisi cia herkesi hackleyebiliyor
+  -4 x1   [tur] avusturya turk hackerlar disisleri bakanligina saldirdi 188018
+  -4 x2   [ron] ministerul austriac de externe vizat de un atac cibernetic al hackerilor turci
+  -4 x1   [tur] cianin dunya capinda siber saldirilarda kullandigi araclar var 90517h
+  -4 x1   [tur] 1 milyon google ve yahoo hesabi hacklendi haberi 40089320h
+  -4 x1   [deu] vault 7 wikileaks praesentiert liste der cia hacker werkzeuge
+  -4 x1   [tur] fbi a gore rus hackerlar abd li teknoloji 2409145
+  -4 x1   [tur] umit ozdagin yayinina siber saldiri 2917419 1
+  -4 x1   [tur] umit ozdag canli yayindayken siber saldiri
+  -4 x1   [tur] siber saldiri iddiasi 23649541
+  -4 x1   [tur] hackerlar engellenen hesaplari aciyor 7 mart 2017 sali
+  -4 x1   [deu] Tuerkische Hacker Gruppe greift sterreich an 17510194
+  -4 x1   [tur] Ruslar durmuyor ABDli liberal gruplara hack saldirisi yapildi
+  -3 x1   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi h180237
+  -3 x1   [tur] cia in hack operasyonlarinda frankfurt u us olarak 9345137 haberi
+  -3 x1   [tur] cia in hack operasyonlarinda frankfurt u us olarak kullandigi iddiasi
+  -3 x1   [tur] frankfurt ciain hack operasyonlari merkezi olmus
+  -3 x1   [tur] wikileaks cia frankfurttan siber saldırılar düzenledi
+  -3 x1   [tur] abdnin hack ussu frankfurtta
+  -3 x1   [tur] abd nin hack ussu frankfurt ta iddiasi haberi 1274912
+  -3 x1   [tur] wikileaks ciain hack sirlarini ifsa etti 302715
+  -3 x1   [tur] haber cia in hack operasyonlarinda frankfurt u us olarak kullandigi iddiasi 680651
+  -3 x1   [deu] 2732071 Internet Wikileaks CIA hat massives Hacking Arsenal
+  -3 x1   [tur] wikileaks sizintilari frankfurttaki abd konsoloslugu ciain gizli hacker ussu olarak calisiyor,392608
+  -3 x1   [tur] 236654 ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi
+  -3 x1   [ces] 431446 server rakouskeho ministerstva opet napadli turecti hackeri
+  -3 x2   [tur] wikileaksten yeni iddialar cia akilli telefonlari tvleri hackledi 143529
+  -3 x1   [ces] 2051712 wikileaks o americke spionazi server odhalil jak pracuji hackeri cia
+  -3 x1   [tur] 201703081027549195 obamanin sucladigi rus hackerlar meger cianin kendisiymis
+  -3 x1   [tur] cia akilli telefonlari tvleri hackledi 23649562
+  -3 x1   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi 348624
+  -3 x1   [tur] cia hacklendi iphone samsung htc ve sony telefonlar dinleniyor v890
+  -3 x1   [tur] cia in hack operasyonlarinda frankfurt u us olarak haberi 900730
+  -3 x2   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi 106099
+  -3 x3   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi
+  -3 x1   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi 1408443h
+  -3 x1   [tur] cia telefon ve tvleri hackleyip istihbarat topluyor haber 1194509
+  -3 x1   [tur] cia akilli telefonlari tvleri hackledi
+  -3 x1   [spa] cajeros automaticos seguridad informatica hacking rooted con 2017 0 620138407
+  -3 x2   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi 534949h
+  -3 x1   [tur] istanbulda 500 bin dolarlik sahte parfum ele gecirildi 280307h
+  -3 x1   [tur] ciain hack operasyonlarinda frankfurtu us olarak kullandigi iddiasi 737170h
+  -2 x1   [tur] 201703091027564525 lavrov siber saldirilarla ilgili rusyaya yonlendirilen suclamalarin tumu yersiz
+  -2 x1   [tur] cinden abdye siber saldiri tepkisi haber 1194942
+  -2 x3   [tur] cinden abdye siber saldiri tepkisi
+  -2 x1   [tur] 236770 cinden abdye siber saldiri tepkisi
+  -2 x1   [deu] geheimdienste wikileaks will hersteller ueber cia hacks informieren
+  -2 x2   [deu] wikileaks will hersteller ueber cia hacks informieren 185758
+  -2 x1   [tur] cinden amerikaya siber saldiri tepkisi 287896
+  -2 x1   [tur] cinden abdye siber saldiri tepkisi 1076961h
+  -2 x1   [tur] cinden abdye siber saldiri tepkisi haber 1194845
+  -2 x2   [tur] cinden abdye siber saldiri tepkisi 770231
+  -2 x1   [tur] cin den abd ye siber saldiri tepkisi 3762753
+  -2 x1   [tur] cia apple google ve microsoftu hackladi mi
+  -2 x1   [tur] cin den abd ye siber saldiri tepkisi 9352533 haberi
+  -2 x3   [tur] rusya elit bir siber savasci birligi seferber etti
+  -1 x1   [tur] hackerlar kenyanin 300 milyon dolarini caldi haber 1195204
+  -1 x1   [tur] wikileaks ciain hack araclarini apple ile paylasacak 68370
+  -1 x1   [tur] 236894 kenya hackerlara yaklasik 300 milyon dolar kaptirdi
+  -1 x1   [tur] wikileaks ten yeni belgeler cia herkesi hack leyebiliyor makale,5409
+  -1 x1   [tur] hackerlar seneler boyunca ayni ulkeyi soyup sogana cevirdiler h 20278
+  -1 x1   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi 803800
+  -1 x2   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi 770552
+  -1 x1   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi 303209
+  -1 x1   [tur] cin abdyi siber saldirilara son vermesi konusunda uyardi h 20251
+  -1 x1   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi haberi
+  -1 x1   [tur] kenya hackerlara 300 milyon dolar kaptirdi 2626329
+  -1 x1   [tur] anonymous tan mukemmel hareket cocuk pornosu iceren 10 bin siteyi hacklediler 760862
+  -1 x1   [tur] hackerlara 300 milyon dolar kaptirdi haberi 353255
+  -1 x1   [tur] hackerlara yaklasik 300 milyon teknoloji 2411141
+  -1 x1   [tur]  kenya hackerlara 300 milyon dolar kaptirdi 43680
+  -1 x3   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi
+  -1 x2   [tur] kenya hackerlara 300 milyon dolar kaptirdi
+  -1 x1   [tur] bir siber saldiri dugumunun cozulmesi hikayesi
+  -1 x1   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi 349069
+  -1 x1   [tur] kenya hackerlara yaklasik 300 milyon dolar kaptirdi h180899
+  +0 x1   [ron] hackerii de la cia bitdefender rezista nebuneste
+  +0 x1   [tur] turk hackerlar uskudarda toplandi 359855 haber
+  +0 x1   [tur] turk hackerlar uskudar da toplandi 9360048 haberi
+  +0 x1   [tur] turk hackerlar uskudarda toplandi 1727771
+  +0 x1   [tur] turk hackerlar uskudarda toplandi 2926313 1
+  +0 x1   [tur] hackerlara 300 milyon dolar kaptirdi 1760474h
+  +0 x1   [tur] beyaz sapkali hackerlar toplandi 1474731
+  +0 x1   [tur] cia herkesi hack leyebiliyor haberi 1276191
+  +0 x1   [tur] dha istanbul turk hackerlar uskudar da toplandi 9360095 haberi
+  +0 x1   [tur] en son haber turk hackerlar uskudarda toplandi son dakika haberleri 1474545
+  +1 x1   [nld] Website luchthaven Rotterdam niet gehackt
+  +1 x1   [nld] Website Rotterdam The Hague Airport onbereikbaar vliegveld ontkent Turkse hack
+  +1 x1   [tur] 201703121027603415 turk hacker grubundan hollandaya siber saldiri
+  +1 x1   [tur] haber turk hackerlerdan hollanda ya siber saldiri 9365700
+  +1 x1   [tur] turk hackerlardan hollandaya siber saldiri n286399
+  +1 x1   [tur] turk hackerlardan hollandaya saldiri 2017 03 12
+  +1 x1   [tur] turk hackerlardan onemli uyari teknoloji 2412183
+  +1 x1   [tur] turk hackerler hollanda ya savas acti 177931
+  +1 x1   [tur] turk hackerlerdan hollandaya siber saldiri 739368h
+  +1 x1   [tur] turk hackerlerdan hollandaya siber saldiri h398937
+  +1 x1   [tur] turk hackerlerdan hollandaya siber saldiri 1409037h
+  +1 x1   [tur] turk hackerlerdan hollandaya siber saldiri 281223h
+  +1 x1   [tur] turk hackerlerdan hollandaya siber saldiri
+  +1 x1   [tur] turk hackerlerdan hollanda ya siber saldiri 9365700 haberi
+  +1 x1   [tur] turk hackerlerdan hollanda ya siber saldiri 776791
+  +1 x1   [tur] turkiyeden hollandaya siber saldiri 1303171200
+  +1 x1   [tur] hollanda ya siber saldiri 3768125
+  +1 x1   [tur] hollandaya turk hacker soku 617932h
+  +1 x1   [tur] hollanda ya darbe rotterdam resmi sitesi hacklendi 9697
+  +1 x1   [tur] hollanda ya turk hacker soku 804416
+  +1 x1   [tur] hollandaya turk hacker soku haber 1195909
+  +1 x1   [tur] hollandaya turk hacker soku izmir 1645556
+  +1 x1   [tur] hollanda ya turk hacker soku 9364256 haberi
+  +1 x1   [tur] hollanda ya turk hackerlerdan sok 177868
+  +1 x1   [tur] hollandaya darbe vuruldu turk hackerlar rotterdam havayollarinin sitesini hackledi
+  +1 x1   [ces] 431803 cia planovala hackovani aut
+  +1 x1   [tur] turk hackerlerdan hollanda ya siber saldiri 739368h
+  +1 x1   [tur] hollandaya turk hacker soku h150631
+  +1 x1   [tur] turk hackerlerdan hollanda ya saldiri 804507
+  +1 x1   [tur] turk hackerlar hollanda ya resmen savas acti h901866
+  +1 x1   [tur] Turk Hackerlar Hollandaya darbe indirdi 298658
+  +1 x1   [tur] 2279341 turk hackerlar hollandaya darbe indirdi
+  +1 x1   [tur] haber turk hackerlardan hollandaya siber saldiri 630109
+  +1 x1   [tur] haber aslan neferler tim adli hacker grubu turkiyenin intikamini aldi 630007
+  +1 x1   [tur] hackerlar engellenen hesaplari aciyor 13 mart 2017 pazartesi
+  +1 x1   [tur] akincilar hacker grubu hollanda nin devlet sitelerine h5239
+  +1 x1   [tur] haber aslan neferler tim adli hacker grubu turkiye 9362854
+  +1 x1   [tur] turk hacker grubu akincilardan hollandaya siber saldiri 618157h
+  +1 x1   [tur] turk hacker grubu akincilardan hollandaya siber saldiri 2928908 1
+  +1 x2   [tur] turk hacker grubu akincilardan hollandaya siber saldiri
+  +1 x2   [tur] turk hackerlar hollandaya darbe indirdi 771003
+  +1 x1   [tur] turk hackerlar hollandaya darbe indirdi 808h
+  +1 x1   [tur] turk hackerlar hollanda ya darbe indirdi h202070
+  +1 x1   [tur] turk hackerlar hollanda ya darbe indirdi h398795
+  +1 x1   [tur] turk hackerlar hollanda ya darbe indirdi
+  +1 x1   [tur] turk hackerlar hollandaya resmen savas acti 288952
+  +1 x1   [tur] turk hacker timi hollanda icin harekete gecti 4010443h
+  +1 x1   [tur] turk hacker grubundan hollandaya siber saldiri,393343
+  +1 x1   [tur] turk hacker grubu akincilar dan hollanda ya siber 9365693 haberi
+  +1 x1   [tur] turk hacker grubu akincilar dan hollanda ya siber saldiri haberi 1276445
+  +1 x1   [ita] Arresto alla Casa Bianca Ho informazioni sugli hacker russi 
+  +1 x1   [tur] turk hackerlar harekete gecti hollandaya buyuk sok 349357
+  +1 x1   [tur] turk hacker grubu akincilardan hollandaya siber saldiri h1426564
+  +1 x1   [tur] turk hacker grubundan hollanda ya siber saldiri h45614
+  +1 x1   [tur] turk hacker grubu akincilardan hollandaya siber saldiri istanbul 1645781
+  +1 x1   [tur] turk hacker grubu akincilardan hollandaya siber saldiri haber 612279
+  +1 x1   [tur] turk hackerlar affetmedi hollandaya ikinci dalga haber 1196010
+  +1 x1   [tur] aslan neferler tim hollandayi hackledi239820 239820
+  +1 x1   [tur] aslan neferler tim hollandayi hackledi 288829
+  +1 x1   [tur] aslan neferler tim hollandayi hackledi 2627133
+  +1 x1   [tur] rotterdam havayollarinin sitesi hacklendi 288758
+  +1 x1   [tur] aslan neferler tim adli hacker grubu turkiye 9362854 haberi
+  +1 x1   [tur] aslan neferler tim adli hacker grubu turkiyenin intikamini aldi 79615h
+  +1 x1   [tur] aslan neferler timi hollanda yi hackledi
+  +1 x1   [tur] turk hackerlar hollandaya karsi taarruza gecti 168699
+  +1 x1   [tur] turk hackerlar hollandaya karsi harekete gecti
+  +1 x1   [tur] turk hackerlar hollandaya darbe indirdi
+  +2 x1   [tur] 201703131027609716 boris johnson ingilterenin elinde rusyanin siber saldiri gerceklestridigine dair kanit yok
+  +2 x1   [nld] 1047633 turkse hackers plaatsen dreigement op nederlandse sites
+  +2 x1   [nld] Turken hacken Nederlandse website en dreigen nog 1500 sites plat te leggen 823ea700
+  +2 x1   [deu] tuerkische hacker sind zu mieten
+  +2 x1   [ron] nyt spionajul rus ar fi lucrat cu cel mai cautat hacker din lume 686300
+  +2 x1   [ces] c1 65655150 hackeri odhalili otce proruskych akci v cesku
+  +2 x1   [tur] beyaz sapkali hackerler uskudarda toplandi
+  +2 x1   [nld] nederlandse websites gehackt rel nederland en turkije
+  +2 x1   [nld] nederlandse websites mogelijk gehackt rel nederland en turkije
+  +2 x1   [ron] new york times guvernul de la kremlin ar fi colaborat cu evgeniy m bogachev unul dintre cei mai cautati hacker
+  +2 x2   [nld] gehackte nederlandse websites verspreiden turks dreigement
+  +2 x1   [tur] johnson ingilterenin elinde rusyanin siber saldiri gerceklestirdigine dair kanit yok 144531h
+  +2 x1   [ron] consilier al lui trump discutie cu hackerul care a spart serverele partidului democrat
+  +2 x1   [tur] turkler hollandanin telekomunikasyon sirketini hackledi 289284
+  +2 x1   [tur] hollandaya siber saldiri h60302
+  +2 x1   [tur] hollandaya siber saldiri 23649654
+  +2 x1   [nld] Turken hacken website Nederlands Limburgs bedrijf en dreigen nog 1500 sites plat te leggen 167b4ff9
+  +2 x1   [nld] turken hacken nederlandse website en dreigen nog 1 500 sites plat te leggen
+  +2 x2   [nld] 20052 turkse hackers nemen limburgs autobedrijf op de korrel
+  +2 x1   [por] 1866006 hacker mais procurado do mundo e mantido como trunfo pela russia.shtml
+  +2 x1   [nld] turken hacken ons helemaal de
+  +2 x1   [tur] turk hackerlerdan hollandaya siber saldiri 22096 haberi
+  +2 x1   [tur] turkiye nin beyaz sapkali hackerlardan onemli uyari
+  +2 x1   [nld] 1047599 honderden nederlandse sites getroffen door turkse hackers
+  +2 x1   [nld] 2162995 wraakactie van turkse hackers treft nederlandse bedrijven
+  +2 x1   [tur] turk hackerlardan hollandaya siber saldiri
+  +2 x1   [tur] turk hackerlardan hollandaya siber saldiri 79637h
+  +2 x1   [tur] fbi in aradigi hacker rusya ile birlikte calisiyor 804771
+  +2 x1   [nld] turkse hackers wij leggen 1 500 nederlandse sites plat
+  +2 x1   [tur] 2280400 turk hackerlardan hollanda cikarmasi
+  +2 x1   [tur] 237131 fbiin aradigi hacker kremlin ile birlikte calisiyor
+  +2 x1   [nld]  Website Rumag.nl gehackt 
+  +2 x1   [tur] turk hacker grubundan hollandaya siber saldiri 44600 haber
+  +2 x1   [tur] turk hackerlardan hollanda cikarmasi 2627746
+  +2 x1   [nld] Gehackte site Rumagnl toont pro Turkse tekst
+  +2 x1   [tur] turk hackerlardan hollandaya hucum
+  +2 x1   [tur] turk hackerlardan hollandaya saldiri 194944
+  +2 x1   [tur] rusya nin siber saldiri gerceklestirdigine dair kanit yok
+  +2 x1   [fra] le hacker le plus recherche au monde employe par la russie 1120861
+  +2 x1   [nld]  Aangifte om Turkse hack 
+  +3 x3   [tur] cyber warrior hack grubu hollanda merkez bankasina erdoganin fotografini koydu haber 613894
+  +3 x1   [fra] hacker recherche monde russie espionner etats unis
+  +3 x1   [nld] 2163055 turkse hack was waarschijnlijk online vandalisme
+  +3 x1   [tur] cyber warrior hack grubu hollanda merkez bankasina 9372443 haberi
+  +3 x1   [tur] hackerlardan hollandaya darbe
+  +3 x1   [tur] hollanda nin telekomunikasyon sirketi hacklendi
+  +3 x1   [tur] hollanda merkez bankasi hack lendi haberi 6187083
+  +3 x3   [tur] hollanda merkez bankasi hacklendi
+  +3 x1   [tur] hollanda merkez bankasinin sitesi hacklendi anasayfaya erdoganin fotografi konuldu 44931 haber
+  +3 x2   [tur] hollanda merkez bankasi hack lendi dunya 2413650
+  +3 x1   [tur] hollanda yi hacklediler erdogan in fotografini 1048121 dunya
+  +3 x1   [tur] hollandanin telekomunikasyon sirketi hacklendi haber 1196422
+  +3 x1   [tur] hollanda merkez bankasi cyber warrior tarafindan hacklendi 90784h
+  +3 x1   [tur] haber cyber warrior hack grubu hollanda merkez bankasina erdoganin fotografini koydu 630466
+  +3 x1   [tur] tuk hackerlar israil kanallarini ezan sesi ile inletti
+  +3 x2   [tur] anasayfaya oyle bir resim kondu ki hollanda merkez bankasi hacklendi 771795
+  +3 x1   [tur] hackerlar hollanda merkez bankasina erdogan fotografi koydular 289583
+  +3 x1   [tur] haber tuk hackerlar israil kanallarini ezan ile inletti 683093
+  +3 x1   [tur] turk hackerlar israil kanallarini ezan sesi ile inletti
+  +3 x1   [tur] 240756 hollanda merkez bankasinin sitesi hacklendi
+  +3 x1   [tur] hollanda sokta merkez bankasinin sitesi hacklendi 349713
+  +3 x1   [tur] 2281267 hollanda merkez bankasi hacklendi
+  +4 x1   [spa] 192588 hackeo masivo en twitter afecto a cuenta oficial de la segegob
+  +4 x1   [tur] 107810 borussia dortmundun twitter hesabi hacklendi
+  +4 x1   [fra] 13 france des hackers piratent des comptes twitter de ministeres
+  +4 x1   [ita] hacker turchi attaccano twitter aperta uninchiesta 095819289
+  +4 x1   [ita] hacker turchi attaccano twitter aperta uninchiesta 137198
+  +4 x1   [ita] hacker turchi attaccano twitter aperta uninchiesta pn 20170315 00067
+  +4 x1   [ita] hacker turchi attaccano twitter istituzioni europei e internazionali
+  +4 x1   [ita] hacker turchi attaccano twitter simboli nazisti su decine di account
+  +4 x1   [ces] nizozemci voli parlament krajni pravice chce posilit a z hackeru jde strach
+  +4 x1   [nor] norsk forfatter nazi hacket
+  +4 x1   [spa] noticia hackers turcos atacan cuentas twitter organizaciones humanitarias 20170315094207
+  +4 x1   [ita] voto in olanda su twitter hacker turchi contro i paesi bassi
+  +4 x1   [ita] voto olanda hacker
+  +4 x1   [swe] twitterkonton kapade av turkiska hackare unt4582025
+  +4 x1   [tur] unlu derginin hesabi ele gecirildi
+  +4 x1   [spa] 201703151067604179 hackeo medios rt turquia
+  +4 x1   [spa] piratas informaticos hackearon centenares de cuentas de twitter
+  +4 x1   [deu] politik eilmeldung hacker 50849782.bild
+  +4 x1   [spa] Por que se dio el hackeo de miles de cuentas de Twitter
+  +4 x1   [ron] o mica palma otomana pentru voi hackerii turci au spart mai multe conturi certificate pe twitter
+  +4 x1   [ron] o multime de conturi de twitter ale unor organizatii institutii si echipe au fost atacate de hackeri pro erdog
+  +4 x1   [deu] offenbar hacker angriff auf niederlaendische smartvote seiten 131115671
+  +4 x1   [ron] olanda doua site uri electorale au fost sparte de hackeri 1185682
+  +4 x3   [swe] organisationers twitterkonton hackade
+  +4 x3   [ron] atac masiv pe twitter sute de conturi ale organismelor oficiale au fost vizate de hackerii turci 179803
+  +4 x1   [nor] profilerte twitter kontoer hacket la ut tyrkisk propaganda og nazi symboler
+  +4 x11  [deu] promis betroffen gehackte twitterkonten verbreiten erdogan propaganda zr 7759578
+  +4 x1   [fra] qui es le hacker turc derriere le piratage massif de twitter 1889419
+  +4 x1   [spa] quien hizo el mayor hackeo en la historia de twitter
+  +4 x1   [ron] razboiul turcia europa duce mediul online conturile twitter institutii organizatii internationale sparte hacke
+  +4 x1   [fra] piratage comment des hackers turcs ont pu detourner des comptes twitter 1889340
+  +4 x1   [fra] piratage de twitter et si vous arretiez de faciliter le travail des hackers 39849832
+  +4 x1   [spa] hackean twitter javi martinez
+  +4 x1   [spa] hackean twitter mensajes pro erdogan simbolos nazis
+  +4 x1   [spa] hackean cuenta de twitter del ministerio frances de economia
+  +4 x1   [spa] hackean cuentas de twitter con mensajes pro erdogan
+  +4 x1   [spa] hackean cuentas de twitter y lanzan mensajes contra holanda
+  +4 x2   [spa] hackean cuentas en twitter con mensajes pro erdogan el universal
+  +4 x1   [ita] Twitter attacco hacker pro Erdogan account aziende istituzioni
+  +4 x1   [ita] twitter attacco hacker turco in tutto il mondo
+  +4 x3   [spa] hackeo masivo de cuentas twitter con mensajes pro erdogan y simbolos nazis elespectador com
+  +4 x1   [spa] hackeo twitter mensajes pronazis
+  +4 x1   [deu] hacker angriff auf twitter
+  +4 x2   [ita] hacker attaccano twitter sui profili istituzionali appare un post turco riferimenti nazisti 2319194
+  +4 x1   [spa] hackean cuentas twitter mensajes pro erdogan
+  +4 x2   [spa] hackean el twitter de rt en espanol y otros medios con declaraciones antieuropeas de erdogan rt en espanol not
+  +4 x2   [spa] hackean importantes perfiles de twitter el debate
+  +4 x1   [spa] hackean twitter con mensajes pro erdogan
+  +4 x1   [deu] USJustiz klagt Russen wegen Hackerattacken auf Yahoo an
+  +4 x1   [spa] 233317 hackeo cuenta twitter rt turquia
+  +4 x1   [tur] 2281968 fransa ekonomi bakanliginin hesabi hacklendi
+  +4 x1   [ita] hacker turchi attaccano twitter aperta uninchiesta
+  +4 x1   [ita] hacker filoturchi in azione su twitter
+  +4 x1   [deu] hacker geben sich als tuerkische aktivisten aus und kapern mehrere twitter accounts 46762380
+  +4 x1   [spa] hackeo de twitter para publicar mensaje de presidente turco IY6155138
+  +4 x1   [spa] hackeo masivo de cuentas certificadas de twitter con mensajes pro erdogan
+  +4 x1   [ita] hacker turchi bucano account twitter di eni fs italo parlamento eu 9793
+  +4 x2   [deu] Weltweite Hacker Attacken von Erdogan Unterstuetzern
+  +4 x1   [deu] weltweite hacker attacken von erdogan unterstützern
+  +4 x1   [spa]  realizan el mayor hackeo masivo en la historia de twitter
+  +4 x1   [tur]  yahoo yu 2 rus ajani hackledi 1048452 dunya
+  +4 x1   [ces] yahoo hackeri spioni obvineni kradez ucty fie 
+  +4 x2   [deu] wie hacker twitter mit tuerkeiflaggen fluteten
+  +4 x1   [tur] unlu derginin hesabini ele gecirdiler 1503171200
+  +4 x1   [por] twitter confirma que contas foram hackeadas com mensagens pro erdogan
+  +4 x1   [tur] twitter da hacklenen hesaplarda nazi mesaji 805650
+  +4 x1   [ita] twitter ecco il vademecum sul come difendersi dagli hacker 137200
+  +4 x1   [ita] twitter ecco il vademecum sul come difendersi dagli hacker pn 20170315 00060
+  +4 x1   [sqi] tusk turqit larg realitetit twitter pushtohet nga hacker at
+  +4 x1   [ita] francia attacco hacker al governo mezzaluna e messaggi pro erdogan
+  +4 x2   [ita] francia attacco hacker su twitter bandiera e scritte turche su profili governativi 160589498
+  +4 x1   [ita] francia attacco hacker su twitter del governo messaggio in turco bandiera 468714
+  +4 x1   [tur] abd de rus ajanlarina yahoo ya siber saldiri 9378405 haberi
+  +4 x1   [tur] abd siber saldirida 2 rus ajanini sucluyor 693323
+  +4 x1   [tur] abd siber saldirida ruslari sucladi haberi
+  +4 x1   [tur] turk hackerlerden osmanli tokadi bakanligi hacklediler 22171 haberi
+  +4 x1   [tur] turk hackerlarin hackledigi hesaplar twitter tarafindan dogrulandi haberi 1277469
+  +4 x2   [spa] twitter confirma hackeo con mensajes a favor de erdogan eltiempo com
+  +4 x1   [spa] twitter confirma hackeo masivo de cuentas con mensajes pro erdogan y simbolos nazis la nacion chile
+  +4 x1   [spa] Twitter confirma hackeo masivo de cuentas con mensajes proErdogan y simbolos nazis
+  +4 x1   [tur] fransa ekonomi bakanliginin hesabi hacklendi h72429
+  +4 x1   [tur] abd siber saldirinin ardindan dava acti 740884h
+  +4 x1   [tur] abd siber saldirinin ardindan dava acti 805885
+  +4 x1   [tur] abd siber saldirinin ardindan dava acti 9378794 haberi
+  +4 x1   [tur] abd siber saldirinin ardindan dava acti h400150
+  +4 x1   [tur] abd siber saldirinin ardindan dava acti haberi 903718
+  +4 x1   [nld] 705801 twitteraccount brandweer fryslan gehackt
+  +4 x2   [deu] 879622 Erdogan Propaganda ueber gehackte Twitter Kanaele
+  +4 x1   [tur] haber abd yahoo a yapilan siber saldirida 2 rus ajanini sucluyor 683619
+  +4 x1   [deu] fussball hackerangriff auf twitter account von borussia dortmund auch becker betroffen 15092203
+  +4 x2   [deu] Gehackte Twitter Accounts
+  +4 x2   [deu] gehackte twitter konten verbreiten nachrichten erdogan anhaengern 32220106
+  +4 x1   [deu] Gehackte Twitter Konten verbreiten Nachrichten von Erdogan Anhängern article3508885
+  +4 x4   [ita] gli hacker turchi colpiscono i profili twitter di politici e vip svastiche e post contro naziolanda 2
+  +4 x2   [tur] fransa ekonomi bakanligi nin hesabi hacklendi 771986
+  +4 x1   [tur] fransa ekonomi bakanliginin hesabi hacklendi
+  +4 x3   [spa] hackers turcos realizan ataque masivo a cuentas oficiales de twitter 2328364
+  +4 x1   [spa] Hackers cuentas Twitter organizaciones humanitarias 0 1008199403
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi h236260
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi h317954
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi haber 614344
+  +4 x1   [tur] dortmundun twitter hesabi hacklendi 2628570
+  +4 x1   [tur] dortmundun twitter hesabi turkler tarafindan hacklendi 1409310h
+  +4 x1   [tur] turk hackerlardan avrupada korsan saldiri 2934155 1
+  +4 x1   [tur] dunyada turkiye paylasimli hack saldirisi 693240
+  +4 x1   [tur] dunyada turkiye paylasimli hack saldirisi 882023
+  +4 x1   [spa] ee uu imputara cargos a varios hackers por el pirateo de yahoo httpst co0zhb0t1fgi
+  +4 x1   [ell] eidhseis tech diethnes nazi germania nazi ollandia tourkoi hacker n 15380562
+  +4 x1   [tur] hacklenen hesaplar twitter tarafindan dogrulandi 217995h
+  +4 x1   [spa] hackers se toman cuentas twitter enviar mensajes pro turquia
+  +4 x2   [spa] hackers turcos atacan cuentas twitter organizaciones humanitarias
+  +4 x1   [spa] hackers turcos atacan numerosas cuentas de twitter entre ellas la del navarro javi martinez
+  +4 x1   [deu] ErdoganAnhaenger hackten TwitterKonten von Prominenten
+  +4 x4   [deu] Erdogan Anhaenger hacken tausende Twitter Konten
+  +4 x2   [deu] erdogan anhaenger hacken tausende twitter konten 17751492
+  +4 x1   [deu] erdogan anhaenger hacken tausende twitter konten zr 7759825
+  +4 x1   [deu] erdogan anhaenger hacken twitter accounts vom bvb und klaas
+  +4 x1   [deu] erdogan anhaenger hacken twitter konten 22026 art1497580
+  +4 x1   [tur] dunya genelinde twitter profillerine turklerden hack saldirisi bu size osmanli tokati olsun h26577
+  +4 x1   [tur] dunyada turkiye paylasimli hack saldirisi
+  +4 x3   [ita] francia attacco hacker via twitter bandiera e scritte turche su profili governativi 2
+  +4 x1   [ita] francia hacker azione contro account twitter governativi 074313241
+  +4 x1   [ita] franciahacker su profili istituzionali
+  +4 x1   [tur] fbi gazetecileri hackleyecek 23649736
+  +4 x1   [tur] forbesin twitter hesabini turkler hackledi h314039
+  +4 x1   [tur] forbesun twitter hesabini turkler hackledi 1735294
+  +4 x1   [deu] erdogan anhanger hacken tausende twitter konten
+  +4 x1   [deu] Erdogan Anhänger hacken tausende Twitter Konten article3508885
+  +4 x1   [spa] cuenta en twitter del ministerio frances de economia fue hackeada,8b5e4bf889a6d21062bdf296fa894e0a00fq25v0
+  +4 x1   [spa] cuentas de twitter fueron hackeadas con mensajes a favor de erdogan telam
+  +4 x1   [nld] de turken hacken twitter
+  +4 x1   [tur] hollanda merkez bankasina hack soku h618144
+  +4 x3   [deu] hakenkreuz hetzbotschaften twitter bestaetigt hacker angriff auf boris becker und co 26197498
+  +4 x1   [tur] Hollanda Merkez Bankasi hacklendi 298776
+  +4 x1   [tur] hollanda merkez bankasi hacklendi erdogan fotografi koydular h317893
+  +4 x1   [tur] hacklenen hesaplar twitter tarafindan dogrulandi 5849
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi 169278
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi 281738h
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi 296967h
+  +4 x1   [tur] dortmundun sosyal medya hesabi hacklendi 620492h
+  +4 x1   [fra] des hackers pro erdogan lancent une vaste operation de piratage
+  +4 x1   [fra] des hackers pro erdogan lancent une vaste operation de piratage sur twitter
+  +4 x1   [por] dezenas de contas de twitter hackeadas com mensagens antiholanda 1765259
+  +4 x1   [por] contas hackeadas no twitter postam suasticas e apoiam erdogan
+  +4 x2   [tur] abd yahooya siber saldirida 2 rus ajanini sucluyor
+  +4 x1   [tur] abd yahooya siber saldirida 2 rus ajanini sucluyor 740851h
+  +4 x1   [tur] abd yahooya siber saldirida 2 rus ajanini sucluyor h181817
+  +4 x1   [tur] abd yahooya siber saldirida 2 rus ajanini sucluyor haber 1197102
+  +4 x1   [tur] abd siber saldirinin ardindan dava acti 281889h
+  +4 x1   [nld] duizenden twitter accounts misbruikt door hack twittercounter
+  +4 x2   [tur] dortmund un sosyal medya hesabi hacklendi 3772490
+  +4 x1   [tur] dortmund unicef toyota ve forbesin twitter hesaplari hacklendi,393803
+  +4 x1   [tur] turk hackerlar yabanci siteleri hackledi haberi 1024660
+  +4 x1   [tur] turk hackerlar hollandanin oy sayim islemine sizdi 289860
+  +4 x1   [tur] abdde rus ajanlarina yahooya siber saldiri suclamasi 2934722 1
+  +4 x1   [tur] abdden rus ajanlarina siber saldiri davasi 2017 03 16
+  +4 x1   [ita] account twitter hackerati messaggi contro il nazismo in turco 1026455
+  +4 x1   [tur] abd yahoo a yapilan siber saldirida 2 rus ajanini 9378470 haberi
+  +4 x1   [tur] abd yahoo ya siber saldirida 2 rus ajanini sucluyor 426505
+  +4 x1   [tur] abd yahooa yapilan siber saldirida 2 rus ajanini sucluyor,lNKRJcNjt0y5hYQVhoaPBg
+  +4 x1   [por] contas do twitter hackeadas devido aos protestos entre a turquia e a alemanha
+  +4 x2   [spa] cientos de cuentas de twitter hackeadas lanzan mensajes contra holanda radioformula
+  +4 x1   [spa] cientos de cuentas verificadas de twitter son hackeadas para difundir propaganda nazi
+  +4 x2   [deu] inhalt.twitter konten gehackt weltweite hacker attacken von erdogan anhaengern.ad5c5024 37c3 48cd 8daa 08f4f66
+  +4 x1   [tur] irkci uygulama sonrasi turk hackerlar hollanda merkez bankasini hacklediler
+  +4 x1   [deu] Im Tuerkei Zwist viele Twitter Konten gehackt
+  +4 x2   [deu] inhalt.boris becker bvb und co das sind die betroffenen der hacker attacke auf twitter.2bda8853 0fe5 4619 ab98
+  +4 x1   [deu] inhalt.boris becker klaas heufer umlauf nazideutschland twitter accounts von promis gehackt.cd92d975 c7e6 4dfc
+  +4 x1   [tur] ak parti nin internet sitesine buyuk bir siber saldiri yapildi
+  +4 x1   [tur] ak parti nin resmi internet sayfasina siber saldiri haberi 310418
+  +4 x1   [tur] ak parti nin sitesine siber saldiri 3773909
+  +4 x1   [tur] ak partinin resmi internet sayfasina siber saldiri
+  +4 x1   [tur] ak partinin resmi internet sayfasina siber saldiri 1761709h
+  +4 x1   [tur] ak partinin resmi internet sitesinde siber saldiri 2017 03 15
+  +4 x1   [spa] confirman masivo hackeo de cuentas certificadas de twitter con mensajes pro erdogan.shtml
+  +4 x2   [ron] conflictul dintre turcia si olanda se extinde pe twitter conturi high profile sparte de hackeri 2042648
+  +4 x1   [tur] amerika yahoo ya siber saldirida 2 rus ajanini sucluyor haberi 1277477
+  +4 x1   [spa] amnistia internacional justin bieber y starbucks sufren hackeo en twitter
+  +4 x3   [tur] ak partinin sitesine siber saldiri
+  +4 x1   [tur] ak partinin sitesine siber saldiri 169317
+  +4 x1   [tur] ak partinin sitesine siber saldiri 4010856h
+  +4 x1   [tur] akpnin hackerleri twitter hesaplarina saldiri duzenledi 189073
+  +4 x1   [tur] aktroller hackledi unicef borussia dortmund toyota h92657
+  +4 x1   [tur] ak parti internet sitesine buyuk siber saldiri
+  +4 x1   [tur] hacklenen hesaplar twitter tarafindan dogrulandi 9377709 haberi
+  +4 x1   [tur] hacklenen hesaplar twitter tarafindan dogrulandi h 2628845
+  +4 x1   [tur] hacklenen hesaplar twitter tarafindan dogrulandi h1429687
+  +4 x1   [tur] hacklenen hesaplar twitter tarafindan dogrulandi haber 615009
+  +4 x1   [tur] hacklenen playstation hesaplari satisa cikti
+  +4 x1   [deu] hakenkreuz bei boris becker gehackte konten verbreiten tweets von erdogan anhaengern 26197834
+  +4 x1   [tur] turk hacker hollandayi hackledi 2628447
+  +4 x1   [tur] alman devine turk hacker soku 349876
+  +4 x1   [spa] Miles de cuentas de Twitter sufren un hackeo de sus cuentas con mensajes a favor de Erdogan
+  +4 x1   [spa] Miles de usuarios de Twitter sufren un hackeo de sus cuentas con mensajes a favor de Erdogan
+  +4 x1   [nld] military boekelo slachtoffer van turkse hackersgroep
+  +4 x1   [deu] tausende accounts betroffen hackerangriff auf twitter profile 58c8f512a5e74263e13ac02e
+  +4 x1   [ita] attacco hacker pro turchia germania e olanda 140210.shtml
+  +4 x1   [ita] attacco hacker su twitter con svastiche e slogan pro erdogan
+  +4 x1   [ita] attacco hacker twitter turchia
+  +4 x1   [ron] atac masiv pe twitter sute de conturi ale organismele oficiale au fost vizate de hackerii turci 5167360
+  +4 x1   [deu] Nazi Vorwuerfe Gehackte Twitter Konten verbreiten Nachrichten von Erdogan Anhaengern 156582
+  +4 x1   [deu] Nazialmanya Erdogan Fans hacken Twitter Konten
+  +4 x4   [deu] nazialmanya erdoganfans hacken twitterkonten
+  +4 x1   [deu] nazideutschland twitter accounts von zahlreichen promis gehackt
+  +4 x1   [deu] nazideutschland twitteraccounts von zahlreichen promis gehackt 6010162 4729180
+  +4 x1   [spa] ministro frances de economia sufre hackeo de su cuenta de twitter
+  +4 x1   [deu] mutmassliche tuerkei unterstuetzer hacken weltweit twitter accounts 100
+  +4 x1   [deu] nach twitter hackverbundene apps pruefen 17751492
+  +4 x1   [hun] torokbarat hackerek tamadtak a twitteren
+  +4 x1   [tur] turk hackerlar bir cok hesabi hackledi 805798
+  +4 x1   [tur] turk hackerlar bir cok twitter hesabini hackledi
+  +4 x1   [tur] turk hackerlar bir cok twitter hesabini hackledi 281833h
+  +4 x1   [tur] turk hackerlar bir cok twitter hesabini hackledi 740776h
+  +4 x1   [tur] turk hackerlar borussia dortmund ve hollanda twitter hesaplarini hackledi h 20373
+  +4 x1   [tur] turk hackerlar borussia dortmundun hesabindan erdogan paylasimi yapti 289766
+  +4 x1   [deu] Nazi Parolen Tausende Twitter Konten gehackt
+  +4 x1   [deu] inhalt.niederlande gehackte twitter konten verbreiten nachrichten von erdogan anhaengern.6502003f 632a 43bd 9b
+  +4 x1   [fra] centaines de comptes twitter hackes pro erdogan
+  +4 x1   [spa] CHILE Hackers se toman cuentas de Twitter para enviar mensajes pro Turquia rss 15032017
+  +4 x1   [rus] borussiahacker
+  +4 x1   [deu] angriff tausende twitter accounts offenbar von erdoan anhaenger gehackt 1.3420269
+  +4 x1   [deu] tausende twitter accounts gehackt
+  +4 x1   [ita] ti prendo a schiaffi come un giannizzero le minacce hacker allue 1587768
+  +4 x1   [hun] torok kormannyal rokonszenvezo hackerek inditottak tamadast twitteren
+  +4 x3   [ron] hackeri din turcia pro erdogan au spart conturile de twitter ale amnesty international si unicef sua ce mesaj 
+  +4 x2   [ron] hackeri pro erdogan au spart conturile de twitter ale amnesty international si unicef sua 345892
+  +4 x1   [ita] hacker violano centinaia di account twitter
+  +4 x1   [deu] hackerangriff bvb und boris becker betroffen
+  +4 x1   [deu] hackerangriff mit tuerkischer propaganda
+  +4 x1   [deu] hackerangriff prominente twitter accounts verbreiten hakenkreuz tweet
+  +4 x1   [deu] hackerangriff promis tweeten hakenkreuz und anfeindungen 21331328
+  +4 x1   [spa] grupo nazi turco realiza mayor hackeo masivo historia twitter
+  +4 x6   [swe] twitterkonton kapade av turkiska hackare om4546910
+  +4 x1   [tur] twitter hesaplarina siber saldiri h314042
+  +4 x1   [deu] Twitter Konten fuer Propaganda gehackt article19746414
+  +4 x1   [spa] twitter se inunda propaganda favor del presidente turco tras hackeo de cuentas articulo 684693
+  +4 x1   [dan] twitter stopper kilde hack spredning nazisymboler
+  +4 x4   [dan] twitter stopper kilde til hack og spredning af nazisymboler
+  +4 x1   [tur] haber turk hacker hollanda yi hackledi 683342
+  +4 x1   [tur] haber turk hackerlarin hackledigi hesaplar twitter tarafindan dogrulandi 630683
+  +4 x1   [nld] turkse hackers plaatsen swastikas populaire twitter accounts
+  +4 x1   [tur] twitterda hacklenen hesaplarda nazi mesaji n286754
+  +4 x1   [tur] twitterda hacklenen hesaplarda nazi mesaji,If0whZ8Bn0 63CGEUv2Z3g
+  +4 x2   [swe] twitterkonton kapade av turkiska hackare
+  +4 x2   [swe] twitterkonton kapade av turkiska hackare 10473217
+  +4 x1   [swe] twitterkonton kapade av turkiska hackare 4582025
+  +4 x1   [swe] twitterkonton kapade av turkiska hackare 782245
+  +4 x3   [swe] twitterkonton kapade av turkiska hackare nm4490252
+  +4 x2   [spa] twitter bajo ataque de hackers turcos eltiempo com
+  +4 x1   [deu] twitter bestaetigt pro tuerkische hackerangriffe 71978
+  +4 x2   [deu] twitter bestaetigt pro tuerkische hackerangriffe und ermittelt
+  +4 x3   [deu] twitter bestaetigt pro tuerkische hackerangriffe und ermittelt 131115254
+  +4 x1   [tur] turkler dortmund un hesabini hackleyip erdogan fotografi paylasti
+  +4 x1   [tur] turkler dunya capindaki twitter profillerini hackliyor bu size osmanli tokadi olsun 9728
+  +4 x1   [tur] turkler fransa ekonomi bakanligini hackledi 169253
+  +4 x1   [nld] turkse hackers openen aanval op nederlandse sites 470305
+  +4 x1   [ita] Hacker turchi su twitter
+  +4 x1   [deu] hacker machen front gegen deutschland und die niederlande
+  +4 x1   [ita] hacker pro erdogan violano migliaia account twitter 1375362
+  +4 x1   [ita] hacker pro turchia attaccano account twitter tra questi juppe e forbes
+  +4 x1   [ita] Hacker su dozzine di account Twitter in tutto il mondo scritte in turco a8ea1332 82a5 4a75 a972 8fac987f73c2
+  +4 x1   [ita] hacker turchi attaccano profili twitter di media e istituzioni europei e internazionali
+  +4 x1   [ita] hacker turchi attaccano twitter aperta inchiesta
+  +4 x1   [por] twitter tem contas hackeadas e passa a exibir mensagens nazistas 90660
+  +4 x1   [deu] twitter tuerkei hacking 101
+  +4 x1   [ara] twitter hacked
+  +4 x1   [spa] twitter hackeo erdogan turquia 163253
+  +4 x1   [spa] twitter hackeo turquia alemania holanda nazi bbc amnistia internacional milenio 0 920308042
+  +4 x1   [deu] twitter hacker attacke auf tausende accounts so schuetzt man sich 7369290
+  +4 x1   [ell] twitter hackers anevasan tourkikes simeies kai svastikes sta twitter twn forbes kai bbc
+  +4 x1   [ita] twitter ecco il vademecum sul come difendersi dagli hacker top10 20170315 110454
+  +4 x1   [ita] twitter ecco vademecum sul come difendersi hacker
+  +4 x1   [fra] twitter hack attaque,56158
+  +4 x1   [deu] twitter hack nazialmanya pro erdogan propaganda 3197586
+  +4 x1   [deu] twitter hack sicherheit 100
+  +4 x1   [deu] twitter hack tuerkei erdogan propaganda 100
+  +4 x1   [deu] twitter hack tuerkei erdogan propaganda 100~ node 203af9ae 619d 4828 b28b a6c20fc61235 9b3a76910b6a22c237c7ea1
+  +4 x1   [nld] 41020 burgemeester vindt turkse hack brainport twitter verschrikkelijk
+  +4 x1   [slk] 423204 usa obvini dvoch ruskych spionov z hackerskeho utoku na yahoo
+  +4 x1   [ces] 432224 spojene staty obvinily dva ruske spiony kvuli hackerskemu utoku na yahoo
+  +4 x1   [ita] 46350 hacker turchi all attacco di twitter svastische e commenti nazi sugli account
+  +4 x1   [deu] 2436148 Becker BVB und Bieber Erdogan Anhaenger hacken Twitter Accounts
+  +4 x1   [deu] 28206 tausende gehackte twitter accounts posten pro erdogan propaganda 2017 03 15
+  +4 x1   [fra] 32001 20170315ARTFIG00091 des hackers pro erdogan lancent une vaste operation de piratage sur twitter
+  +4 x2   [spa] 391972 hackers atacaron cientos de cuentas de twitter
+  +4 x1   [tur] 237291 abd yahooya siber saldirida 2 rus ajanini sucluyor
+  +4 x2   [deu] zahlreiche twitter accounts von erdogan anhaengern gehackt
+  +5 x1   [tur] twitter hesabinizi hackerlara karsi nasil korursunuz 23649754
+  +5 x1   [tur] twitter hesabinizi hackerlara karsi nasil korursunuz haber 1197310
+  +5 x1   [deu] twitter hack verantwortlich
+  +5 x1   [spa] 1321985.usan hackers cuentas para atacar a holanda
+  +5 x1   [tur] 201703161027664612 kremlin abdden yahooya siber saldiriyla suclanan ruslar hakkinda bilgi bekliyoruz
+  +5 x1   [deu] region artikel, Hacker demonstriert Datenunsicherheit in Dellmensingen arid,10632700 toid,228
+  +5 x1   [spa] nueva vulnerabilidad en whatsapp y telegram es arreglada mientras cuentas en twitter son hackeadas
+  +5 x1   [ita] voto in olanda su twitter hacker turchi contro i paesi bassi 2
+  +5 x1   [ita] per gli hacker turchi berlino e laja sono naziste
+  +5 x1   [tur] sirketler ddos icin birbirlerini sucluyor
+  +5 x1   [spa] movimiento nazi hackea cientos de cuentas de twitter
+  +5 x1   [tur] bakan arslan turkiye ye yonelik siber saldirilar 2016da 6 kat daha artti
+  +5 x1   [tur] bakan arslan turkiyeye yonelik siber saldirilar 2016da 6 kat daha artti haber 1197412
+  +5 x1   [spa] necaxa hackeado grupo nazi turquia
+  +5 x1   [ita] mcdonalds insulta trump su twitter ce la mano di un hacker
+  +5 x1   [deu] mutmassliche tuerkische hacker knacken zahlreiche twitter konten weltweit
+  +5 x1   [tur] buyuk hack skandali 144923h
+  +5 x1   [tur] buyuk hack skandali emma watsonin ozel fotograflari internette 1738396
+  +5 x1   [spa] amnistia internacional justin bieber starbucks sufren hackeo en twitter
+  +5 x1   [tur] irak birlesik gucleri musulda demir kopruyu ele gecirdi(17,n,12526877,331)
+  +5 x1   [tur] ak partinin sitesine siber saldiri haber 1197262
+  +5 x1   [tur] ak partinin sitesine siber saldiri 290021
+  +5 x1   [tur] telefonunuz hatta arabaniz bile hacklenebilir 304212
+  +5 x1   [tur] telefonunuz hatta arabaniz bile hacklenebilir 297010h
+  +5 x1   [tur] turk hackerlar bir cok twitter hesabini hackledi 777315
+  +5 x1   [spa] necaxa es victima de hackers nazis de turquia
+  +5 x1   [spa] twitter cuentas medios comunicacion hackeadas holanda nazismo
+  +5 x1   [spa] hackean cuentas de twitter del parlamento europeo forbes bbc y unicef
+  +5 x1   [spa] hackean twitter de medios y celebridades
+  +5 x1   [spa] hackean cuentas twitter para acusar nazis holanda alemania 641295
+  +5 x1   [tur] whatsapp hesaplari kolayca ele gecirilebiliyor h 20389
+  +5 x1   [tur] whatsapp ile gelen resimli mesajla hesabiniz hacklenebilir
+  +5 x1   [tur] turk hackerlarin saldirisi
+  +5 x1   [tur] turk hackerlardan osmanli tokadi
+  +5 x1   [tur] turkiye ye yonelik siber saldirilarda buyuk artis
+  +5 x1   [tur] abd siber saldirinin ardindan dava acti 777368
+  +5 x1   [tur] haber ak partinin sitesine siber saldiri 630797
+  +5 x1   [spa] grupo nazi turco hackeo redes sociales del necaxa
+  +5 x1   [ita] gli usa accusano yahoo attaccata da 007 e hacker russi
+  +5 x1   [tur] abd siber saldiriya karsilik bakin ne yapti 1409371h
+  +5 x1   [tur] turkiyeye yonelik siber saldirilar 6 kat artti 693538
+  +5 x1   [spa] hackean cientos de cuentas en twitter con esvasticas
+  +5 x1   [tur] turkiyeye yonelik siber saldirilar 2016da 6 kat daha artti 169501
+  +5 x1   [tur] turkiyeye yonelik siber saldirilar 2016da 6 kat daha artti 106750
+  +5 x1   [spa] twitter se inunda de propaganda favor del presidente turco tras hackeo de cuentas articulo 684693
+  +5 x1   [tur] hackerlar ses dalgalari ile telefonunuzu ele geciriyor 68469
+  +5 x1   [tur] hackerlardan 20 tl lik hoparlor ile kullaniciya hayati zindan edecek hack yontemi h26649
+  +5 x1   [spa] hackean cuentas de la bbc forbes y unicef en twitter
+  +5 x2   [tur] Hacker lar Dark Web de Gmail ve Yahoo sifrelerini satisa sundu
+  +5 x1   [tur] Uzmanlar Yakin Gelecekteki Siber Saldirilar Konusunda Uyardi
+  +5 x1   [spa] y a ti te hackearon la cuenta de twitter con simbolos nazis
+  +5 x1   [spa] hackean cientos cuentas en twitter esvasticas
+  +5 x1   [tur] whatsappta guvenlik acigi gelen resimli bir mesajla hesabiniz ele gecirilebilir,394113
+  +5 x2   [tur] yapilan ddos saldirilarinin sebebi 108963
+  +5 x1   [tur] emma watson in ozel fotograflari hacklendi 806188
+  +5 x1   [tur] dunyayi hackledi ama twitterdan tik alamadi 1603171200
+  +5 x1   [deu] erdogan anhänger hacken tausende twitter konten 080424532
+  +5 x1   [tur] emma watson da hack kurbani oldu 80232
+  +5 x1   [tur] abdde rus ajanlarina yahooya siber saldiri suclamasi 144861h
+  +5 x1   [ita] twitter account di alto profilo sotto attacco hacker titolo giu in borsa
+  +5 x1   [tur] turk hackerlar is basinda h618255
+  +5 x1   [fra] des hackers turcs attaquent twitter
+  +5 x2   [tur] Dortmund un sosyal medya hesabi hacklendi
+  +6 x1   [deu] Ausseminister Kurz verurteilt Hacker Attacke auf oe24 at
+  +6 x1   [spa] hoyla hackers tomaron la cuenta de mcdonald s y tuitearon una ofensa a trump que fue celebrada por muchos 2017
+  +6 x1   [deu] Tuerkische Hacker greifen oe24 an
+  +6 x1   [deu] tuerkische hacker attackieren oe24at
+  +6 x1   [ces] trest pro hackera ktery vykradal emailove schranky celebrit pr4 
+  +6 x1   [deu] tuerkische hacker legten zeitungswebseite oe24 at lahm
+  +6 x1   [deu] tuerkischer hackerangriff nachrichtenseite 8036554
+  +6 x1   [tur] bakan arslan siber saldirilar 6 kat artti 80261
+  +6 x1   [deu] Tuerkische Hacker legten Zeitungswebseite oe24at lahm
+  +6 x1   [deu] Angeblich tuerkischer Hackerangriff auf oe24at
+  +6 x1   [tur] turkiyenin maruz kaldigi siber saldirilar artiyor h 20418
+  +6 x2   [ita] violati account twitter di eni ferrovie dello stato e italo treno da hacker turchi
+  +6 x1   [deu] Attacke auf oe24 Tuerkische Hacker bekennen sich
+  +6 x1   [zho] 20170314int russian hacker
+  +6 x1   [ita] hacker turchi dietro le violazioni numerosi account twitter
+  +6 x1   [deu] 2438877 Soeder will Gemeinden vor Cyber Attacken schuetzen
+  +6 x1   [deu] oe24 at nach hacker angriff stundenlang lahmgelegt
+  +6 x1   [tur] turkiyeye yonelik siber saldirilar 6 kat artti 240412
+  +6 x1   [tur] yahoo nasil hacklendi 80283
+  +6 x1   [tur] abdde rus ajanlarina yahooya siber saldiri suclamasi 1761992h
+  +6 x1   [tur] abdde rus ajanlarina yahooya siber saldiri suclamasi 40397736
+  +6 x1   [ita] forteto attacco hacker allavvocato difensore marchese
+  +6 x1   [ron] foto hackeri din turcia pro erdogan au spart conturile de twitter ale amnesty international si unicef sua ce m
+  +6 x1   [tur] turkiyeye yonelik siber saldirilar 2016da 6 kat daha artti 159345h
+  +6 x1   [tur] hackerlar hoparlor uzerinden her seyinizi caliyor 40397745
+  +7 x1   [tur] turk hackerlar ypgyi 3 ay takip etti sonra da hackledi 290945
+  +7 x1   [deu] Aussenminister Kurz verurteilt Hacker Attacke auf oe24 at
+  +7 x1   [spa] twitter hackean varias cuentas institucionales para que apoyen a erdogan n 81488
+  +7 x1   [tur] 18 03 2017 hackerlar engellenen hesaplari aciyor
+  +7 x1   [tur] hackerlar neden linux isletim sistemini tercih ediyorlar h26760
+  +7 x1   [tur] yeni macbook u hacklemeyi basaran hackerlara para odulu h26759
+  +7 x1   [tur] yeni macbook hacklendi 80303
+  +7 x1   [ita] hacker avvocato difensore marchese
+  +7 x1   [deu] steuertricks und cyberattacken im visier der weltmächte.csp
+  +7 x1   [tur] 237530 turkiyeye yonelik siber saldirilar 2016da 6 kat daha artti
+  +8 x1   [deu] Jagd auf Erdogans Hacker
+  +8 x1   [tur] ahlakli hacker lar yolda
+  +8 x1   [tur] beyaz hacker can yildizli sosyal medyada guvenli diye bir sey yok
+  +8 x1   [tur] bilgi guvenligi ve siber guvenlik te ddos saldirisi haberi 470282
+  +8 x1   [tur] turk hackerler israil hava kuvvetlerini hackledi 290981
+  +8 x1   [tur] haber ahlakli hacker lar geliyor 9393126
+  +8 x1   [tur] ahlakli hackerlar yolda
+  +8 x1   [tur] ahlakli hackerlar yolda 742269h
+  +8 x1   [tur] ahlakli hackerlar yolda 43894
+  +8 x1   [tur] ahlakli hackerlar yolda h182480
+  +8 x1   [tur] beyaz hacker can yildizli anlatti sosyal medyada guvenli diye bir sey yok
+  +8 x1   [tur] 2285338 ahlakli hackerlar yolda
+  +8 x1   [tur] ahlakli hacker lar geliyor 9393126 haberi
+  +9 x1   [tur] ahlakli hackerlar yolda 2630931
+  +9 x1   [tur] siber saldirilar hkude masaya yatirildi(17,n,12531062,341)
+  +9 x1   [tur] canakkale harbine katilak ne ise siber orduda yer almak da odur 46030 haber
+  +9 x1   [tur] ak parti nin sitesine siber saldiri 9396097 haberi
+  +9 x1   [tur] beyaz hacker can yildizli nin bir hackerin isterse neler yapabilecegi konusuna da degindigi roportaji h26792
+  +9 x1   [tur] macbook pronun touchbarini ele gecirmeyi basardilar 23649833
+  +9 x1   [tur] skandal buyuyor hackerlar daha cok unlunun ozel fotograflarini yayinladi h26805
+  +9 x1   [tur] siber saldirilar hkude masaya yatirildi
+  +9 x1   [tur] siber saldirilar hkude masaya yatirildi haberi 4989
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi 171457
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi 3783996
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi 626465h
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi 9401124 haberi
+ +10 x1   [tur] thaadlarin kurulumunun ardindan guney koreye siber saldiri 189795
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi h1435061
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi n287461
+ +10 x1   [tur] kucuk isletmelerin yarisi siber saldirinin hedefi(17,n,12532164,318)
+ +10 x1   [tur] ahlakli hackerlar yolda 320093h
+ +10 x1   [spa] ESPANA Anunciado Digimon Story Cyber Sleuth Hackers Memory 21032017
+ +10 x1   [tur] hackerlarin bir dakikada windows hesabinizi ele gecirebilecegi bir acik kesfedildi h26856
+ +10 x1   [tur] ekran karti ureticisi zotacin sitesi hacklendi
+ +10 x1   [tur] dr hakan kilinc bursa da konustu siber saldirilarin hedefi kucuk istemeler 808022
+ +11 x1   [tur] turk hackerlar appledan fidye istiyor
+ +11 x1   [tur] abdli hackerlardan trumpa dolayli saldiri 68543
+ +11 x1   [tur] turk hackerlar applei tehdit ederek fidye istedi h 20491
+ +11 x1   [tur] turk hackerlarin applei hackledigi iddia ediliyor 291997
+ +11 x1   [tur] turk hackerlarin apple i teknoloji 2418229
+ +11 x1   [tur] haber turk hacker grubundan apple a buyuk sok 68330
+ +11 x1   [deu] hacker angriff werden 300 millionen iphones geloescht 46058
+ +11 x1   [tur] turk hackerlar icloud hesaplarini ele gecirdi 179266
+ +11 x2   [tur] turk hackerlardan applea tehdit
+ +11 x1   [tur] turk hackerlar applei hackledi 7 nisana kadar sure verdi 1748382
+ +11 x1   [tur] turk hackerlar icloud hesaplarini hackledi 80382
+ +11 x2   [spa] hackers piden rescate a apple para no eliminar millones de cuentas icloud
+ +11 x1   [spa] hackers piden rescate apple para no eliminar millones de cuentas icloud
+ +11 x1   [por] hackers ameacam apagar milhoes de iphones se a apple nao pagar resgate 90996
+ +11 x1   [por] hackers ameacam apagar milhoes de contas do icloud se apple nao pagar resgate
+ +11 x1   [spa] hackers amenazan apple icloud
+ +11 x1   [fra] des hackers menacent apple de supprimer les donnees de plus de 300 millions de comptes icloud 1126986
+ +11 x1   [deu] computersicherheit hacker drohen mit fernloeschung von iphones ld.152926
+ +11 x1   [tur] turk hacker grubundan applea buyuk sok 40403949
+ +11 x1   [tur] hackerlarin korkulu ruyasi turk muhendis
+ +11 x1   [tur] hackerlarin korkulu ruyasi turk 808476
+ +11 x1   [rus] hackers apple
+ +11 x1   [tur] hackerlarin korkulu ruyasi turk egemen tas 40415
+ +11 x1   [deu] hacker drohen millionen iphones zu loeschen 50956090.bild
+ +11 x1   [deu] hacker erpressen apple mit loeschung der icloud konten,3419497
+ +11 x1   [spa]  hackers amenazan con borrar millones de cuentas de icloud
+ +11 x1   [tur] hack yoluyla alinan bylock bilgileri nasil delil olarak kullanilir 427049
+ +11 x1   [tur] turk hacker grubu 300 milyon i cloud hesabini ele gecirdi 46587 haber
+ +11 x1   [deu] Tuerkische Hacker wollen 300 Mio iPhones loeschen
+ +11 x2   [spa] apple esta siendo amenazada por un grupo de hackers que asegura tener mas de 300 millones de cuentas de icloud
+ +11 x1   [fra] chantage hackers menacent supprimer 300 000 comptes icloud
+ +11 x1   [tur] turk hackerlar appledan fidye istedi 68594
+ +11 x1   [tur] microsoft edge cok kolay hacklenebiliyor h 20497
+ +11 x1   [tur] turk hackerlar apple i hackledi haberi 905901
+ +11 x1   [tur] turk hackerlar apple i tehdit etti iddiasi
+ +11 x1   [por] 1868781 hackers ameacam apagar dados de usuarios da apple diz site.shtml
+ +11 x1   [por] 201703217948428 hackers resgate contas apple
+ +11 x1   [tur] 201703221027748544 turk hackerlardan apple tehdit
+ +11 x2   [fra] Apple victime d un chantage par des hackers
+ +11 x1   [fra] news 202105 hackers menacent apple desactiver millions diphone distance afin dobtenir rancon
+ +11 x2   [fra] apple victime chantage hackers
+ +11 x1   [por] serviço de inteligência da alemanha recruta hackers
+ +11 x2   [tur] turk hacker grubundan applea buyuk sok
+ +11 x4   [por] hackers ameacam apagar dados de usuarios da apple diz site
+ +11 x1   [nld] hackers chantage icloud accounts
+ +11 x1   [tur] uludagin eteklerindeki mahallelerde hirsizlik yapan sebeke cokertildi(17,n,12533552,978)
+ +11 x1   [deu] apple wird erpresst hacker wollen 300 mio iphones loeschen id6406583
+ +12 x1   [spa] se congregan hackers en mexico
+ +12 x1   [tur] appledan hacklendigi iddiasina yanit haber 1199845
+ +12 x1   [fra] 242930 des hackers peu credibles tentent dobtenir une rancon dapple en carte cadeau itunes
+ +12 x1   [deu] Apple Hacker drohen mit Daten Loeschung
+ +12 x1   [ces] apple reaguje na hrozbu od hackeru ujistuje ze nedoslo k zadnemu naruseni icloudu ci apple id
+ +12 x1   [tur] apple turk hackerlarin icloud iddialarina yanit verdi 80423
+ +12 x1   [deu] 160511 apple visier hacker drohen loeschung icloud accounts
+ +12 x1   [spa] apple hackers extorsion iphone
+ +12 x1   [tur] apple turk hackerlarin iddialarini yalanladi 40430
+ +12 x1   [spa] 300 millones de cuentas de icloud habrian sido hackeadas
+ +12 x1   [tur] turk hacker grubu apple a ait icloud hesaplarini hack ledi 808719
+ +12 x1   [ara] apple is being blackmailed by turkish hackers
+ +12 x1   [spa] 6473 se congregan hackers en mexico para abordar el tema de vulnerabilidades de sistemas informaticos
+ +12 x1   [tur] turkish crime family applei hackledi mi 1410140h
+ +12 x1   [fra] hack 300 millions comptes icloud menaces actualite 1940797
+ +12 x1   [tur] turk hacker grubundan applea buyuk sok haber 1199642
+ +12 x1   [spa] hackers amenazan con formatear millones de iphones
+ +12 x1   [por] hackers ameacam apagar dados de usuarios da apple diz motherboard
+ +12 x1   [spa] hackers tienen los pantalones para amenazar a apple
+ +12 x1   [por] hackers turcos ameacam apagar 220 milhoes de contas de icloud
+ +12 x1   [spa] hackers amenazan con borrar millones de cuentas de icloud
+ +12 x1   [spa] hackers amenazan a apple con hacer publicas 220 millones de cuentas
+ +12 x1   [fra] Des hackers turcs auraient menace de supprimer plus de 300 millions de comptes iCloud si Apple ne verse pas un
+ +12 x1   [fra] hackers detiendrait 300 milllions de comptes icloud otage 235055
+ +12 x1   [tur] apple turk hacker grubunun icloud hackini yalanladi 68621
+ +12 x1   [spa] intentan extorsionar apple supuesto hackeo 642569
+ +12 x1   [tur] turk hacker grubundan applea buyuk sok 143948
+ +12 x1   [tur] turk hackerlardan applea sok 19 491087 haber
+ +12 x1   [spa] apple desmiente reclamos de hackers
+ +12 x1   [deu] cb News Handy Apple iCloud Hacker drohen Millionen iPhones zu loeschen 17767241
+ +12 x1   [ita] apple sotto ricatto degli hacker la minaccia dei cybercriminali e sconvolgente 222920
+ +12 x1   [spa] La confusa historia de los hackers que amenazan con borrar los datos de millones de iPhones
+ +12 x1   [tur] apple turkish crime familynin hack iddiasini reddetti
+ +12 x1   [tur] siber saldiri uyarisi haber 1199846
+ +12 x1   [tur] appledan para sizdirmaya calisan turk hackerlara cevap h618769
+ +12 x1   [deu] iCloud und Apple ID wurden nicht gehackt article19761264
+ +12 x1   [tur] nasa yi hackleyen adamin ulastigi birbirinden urkutucu bilgiler h26979
+ +13 x1   [tur] appledan turk hackerlara cevap 195373
+ +13 x1   [nld] Apple+ontkent+dat+eigen+systemen+zijn+gehackt+door+afpersers
+ +13 x1   [tur] lavrov siber saldirilara yonelik uluslararasi antlasma olusturalim 152406
+ +13 x1   [tur] macbook nasil hacklendi
+ +13 x1   [tur] nasa yi hackleyen gary mckinnon in ortaya cikardigi urkutucu gercekler 763063
+ +13 x1   [tur] lavrov siber saldiri sorununa iliskin uluslararasi antlasma olusturalim h910440
+ +13 x1   [tur] appledan yanit geldi turk hackerlar applei hackledi mi
+ +13 x1   [tur] wikileaks ciain iphone ve macbooklari nasil hackledigini acikladi h 20533
+ +13 x1   [spa] hackers turcos afirman tener acceso
+ +13 x1   [por] hackers ameacam apagar contas milhoes iphones
+ +13 x1   [ces] hackeri pry zautoci na iphony pokud apple nezaplati vykupne t219259
+ +13 x1   [tur] iphonelar hacklendi mi 2403171200
+ +13 x1   [tur] cia macbook hacklemis 40439
+ +13 x1   [tur] apple dan turkish crime family hacker grubuna cevap 152452
+ +13 x1   [tur] apple dayanamadi turk hacker lara bakin ne cevab verdi resimleri,8723
+ +13 x1   [tur] appledan turk hackerlarin iddialarina yanit 145733h
+ +13 x1   [tur] appledan turk hackerlarin iddialarina yanit 1752906
+ +13 x1   [tur] apple turk hackerlari yalanladi 40405233
+ +13 x1   [tur] apple turk hackerlari yalanladi
+ +13 x1   [ita] account icloud violati dagli hacker reali
+ +13 x1   [ces] hacknuti telefonu
+ +13 x1   [tur] turk hackerlardan apple a tehdit fidye odemezseniz milyonlarca icloud hesabini sileriz 763040
+ +13 x1   [spa] hackers aseguran haber robado 250 millones cuentas apple
+ +13 x1   [nld] turkse hackers vallen nederlandse websites aan
+ +13 x1   [ces] hackeri vydiraji apple zaplatte jinak vymazeme miliony zarizeni
+ +13 x2   [tur] hackerlar ofis yazicilarindan neden vazgecemiyor
+ +13 x1   [heb] hacker group threatens to wipe millions of iphones
+ +14 x1   [tur] 25 mart 2017 cumartesi hackerlar engellenen hesaplari aciyor
+ +14 x1   [tur] apple hacklendigi iddia edilen icloud hesaplari ile alakali aciklama yapti
+ +14 x1   [tur] apple icloud hesaplari hacklenen bir cok unlu kisinin ciplak fotograflari yayinlandi
+ +14 x1   [tur] sony resmi web siteleri hacklendi mi
+ +14 x1   [tur] turk hacker grubunun apple yi hackledigi 9416280 haberi

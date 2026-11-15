@@ -1,9 +1,11 @@
-"""Pilot veri seti (olaylar_v02.csv) üzerinde H1, H3 ve H4 testleri.
+"""Pilot veri seti (olaylar_v03.csv) üzerinde H1–H4 testleri.
 
 H1: Günlük olay sayısı ~ kriz sonrası + kriz sabit etkileri  (Poisson GLM, kesintili zaman serisi)
     Ana model seviye değişimini ölçer; ek model eğim değişimini de içerir.
+H2: Türkiye kaynaklı hacktivist saldırılarda karşı tarafı hedef alanların oranı, önce/sonra (Fisher kesin testi).
 H3: Kriz öncesi/sonrası yönlü saldırgan→hedef ülke ağları; yoğunluk, derece ve arasındalık merkeziliği.
-H4: Günlük Goldstein ve ton → ertesi günlerdeki karşı tarafa yönelik saldırı sayısı (Granger, 1–7 gün).
+H4: Günlük gerginlik endeksi (Goldstein ve ton z-puanlarının ortalaması) ile iki gösterge ayrı ayrı →
+    ertesi günlerdeki karşı tarafa yönelik saldırı sayısı (Granger, 1–7 gün), Rusya ve Hollanda pencereleri.
 """
 from pathlib import Path
 import warnings
@@ -68,6 +70,22 @@ def h1(panel):
             print(f"  [eğim modeli] seviye IRR={np.exp(m2.params['sonra']):.2f} (p={m2.pvalues['sonra']:.3f}), "
                   f"eğim değişimi IRR/gün={np.exp(m2.params['sonra_gun']):.3f} (p={m2.pvalues['sonra_gun']:.3f})")
     pd.DataFrame(sonuc).to_csv(P / "h1_poisson.csv", index=False)
+
+
+def h2(s):
+    from scipy.stats import fisher_exact
+    print("\n" + "=" * 70 + "\nH2 — Hedef kayması (Türkiye kaynaklı hacktivist saldırılar, Fisher)\n" + "=" * 70)
+    x = s[(s.aktor_turu == "hacktivist") & s.saldirgan_ulke.fillna("").str.contains("TR")]
+    satir = []
+    for k in list(KRIZ) + ["toplam"]:
+        y = x if k == "toplam" else x[x.kriz == k]
+        once, sonra = y[y.gun_farki < 0], y[y.gun_farki >= 0]
+        a, b = int((once.kriz_ikilisi == "evet").sum()), len(once)
+        c, d_ = int((sonra.kriz_ikilisi == "evet").sum()), len(sonra)
+        p = fisher_exact([[c, d_ - c], [a, b - a]], alternative="greater")[1] if b + d_ else float("nan")
+        satir.append(dict(kriz=k, once=f"{a}/{b}", sonra=f"{c}/{d_}", p=round(p, 4)))
+        print(f"  {k:18s} önce {a}/{b}  sonra {c}/{d_}  p = {p:.4f}")
+    pd.DataFrame(satir).to_csv(P / "h2_fisher.csv", index=False)
 
 
 TAKMA_AD = {"ayyildiz tim": "Ayyıldız Tim", "ayyıldız tim": "Ayyıldız Tim",
@@ -136,37 +154,45 @@ def h3(s):
     fig.savefig(OUT / "h3_ag.png", dpi=150)
 
 
+def z(x):
+    return (x - x.mean()) / x.std()
+
+
 def h4(s):
-    print("\n" + "=" * 70 + "\nH4 — Granger: gerginlik → karşı tarafa yönelik saldırılar (Rusya penceresi)\n" + "=" * 70)
-    k, (tarih, iso3, iso2) = "rusya_2015", KRIZ["rusya_2015"]
-    g = pd.read_csv(P / f"gdelt_gunluk_2015_{iso3}.csv")[["gun", "goldstein", "ton"]]
-    y = (s[(s.kriz == k) & (s.kriz_ikilisi == "evet")].groupby("gun_farki").size()
-         .reindex(range(-60, 61), fill_value=0).rename("saldiri"))
-    d = g.set_index("gun").join(y, how="right").interpolate().bfill()
-    d["gerginlik"] = -d.goldstein   # yüksek değer = daha çatışmacı
+    print("\n" + "=" * 70 + "\nH4 — Granger: gerginlik → karşı tarafa yönelik saldırılar\n" + "=" * 70)
     satir = []
-    for x in ["gerginlik", "ton"]:
-        seri = d[["saldiri", x]].copy()
-        if x == "ton":
-            seri[x] = -seri[x]      # daha olumsuz ton = daha yüksek gerginlik
-        sonuc = grangercausalitytests(seri, maxlag=7)
-        for lag, r in sonuc.items():
-            f, p = r[0]["ssr_ftest"][:2]
-            satir.append(dict(gosterge=x, gecikme=lag, F=round(f, 2), p=round(p, 4)))
+    for k, yil in [("rusya_2015", 2015), ("hollanda_2017", 2017)]:
+        tarih, iso3, iso2 = KRIZ[k]
+        g = pd.read_csv(P / f"gdelt_gunluk_{yil}_{iso3}.csv")[["gun", "goldstein", "ton"]]
+        y = (s[(s.kriz == k) & (s.kriz_ikilisi == "evet")].groupby("gun_farki").size()
+             .reindex(range(-60, 61), fill_value=0).rename("saldiri"))
+        d = g.set_index("gun").join(y, how="right").interpolate().bfill()
+        d["goldstein_g"] = -d.goldstein          # yüksek değer = daha çatışmacı
+        d["ton_g"] = -d.ton                      # daha olumsuz ton = daha yüksek gerginlik
+        d["endeks"] = (z(d.goldstein_g) + z(d.ton_g)) / 2
+        d[["saldiri", "goldstein", "ton", "endeks"]].to_csv(P / f"gerginlik_endeksi_{k}.csv")
+        print(f"\n[{k}] karşı tarafa yönelik saldırı: {int(y.sum())}")
+        for x in ["endeks", "goldstein_g", "ton_g"]:
+            sonuc = grangercausalitytests(d[["saldiri", x]], maxlag=7)
+            for lag, r in sonuc.items():
+                f, p = r[0]["ssr_ftest"][:2]
+                satir.append(dict(kriz=k, gosterge=x, gecikme=lag, F=round(f, 2), p=round(p, 4)))
+        ilk = y[y > 0].index.min()
+        esik = d.endeks[d.index >= -14]
+        kirilma = int(esik[esik > 1].index.min()) if (esik > 1).any() else None
+        print(f"  ilk karşı tarafa saldırı günü = {int(ilk)}, endeksin ilk kez +1 SS'yi aştığı gün (≥ -14) = {kirilma}")
     t = pd.DataFrame(satir)
     t.to_csv(P / "h4_granger.csv", index=False)
-    print(t.pivot(index="gecikme", columns="gosterge", values="p").rename(columns=lambda c: f"p ({c})").to_string())
-    # Eş zamanlılık: gerginlik serisindeki kırılma günü ile ilk saldırı
-    print(f"\n  Rusya: ilk karşı tarafa yönelik saldırı günü = {int(y[y > 0].index.min())}, "
-          f"Goldstein'ın ilk kez -1'in altına düştüğü gün = {int(d[d.goldstein < -1].index[d[d.goldstein < -1].index >= -5].min())}")
+    print(t.pivot_table(index="gecikme", columns=["kriz", "gosterge"], values="p").round(3).to_string())
 
 
 def main():
-    d = pd.read_csv(P / "olaylar_v02.csv")
+    d = pd.read_csv(P / "olaylar_v03.csv")
     s = d[d.sayima_dahil == "evet"].copy()
     panel = gunluk_panel(s)
     panel.to_csv(P / "gunluk_panel.csv", index=False)
     h1(panel)
+    h2(s)
     h3(s)
     h4(s)
 

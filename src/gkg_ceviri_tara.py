@@ -1,6 +1,7 @@
 """GDELT 2.0 çeviri (Translingual) GKG dosyalarından Türkiye ile ilgili siber saldırı haberlerini çeker.
 
-Kapsam: Barış Pınarı krizi ±14 gün (2019-09-25 .. 2019-10-23), 15 dakikalık dosyalar.
+Kapsam: seçilen krizin ±14 günü, 15 dakikalık dosyalar.
+Kullanım: python3 src/gkg_ceviri_tara.py [barispinari_2019|rusya_2015|hollanda_2017]
 Bir kayıt saklanır, eğer:
   - siber: temalarda CYBER_ATTACK var YA DA sayfa başlığında hack/siber/ddos/deface/cyber geçiyor, VE
   - Türkiye ile ilgili: haber Türkçe (srclc:tur) YA DA konumlarda Türkiye (FIPS: TU) var.
@@ -12,9 +13,14 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "data/raw/gkg_ceviri"
+KRIZLER = {"barispinari_2019": datetime(2019, 10, 9), "rusya_2015": datetime(2015, 11, 24),
+           "hollanda_2017": datetime(2017, 3, 11)}
+KRIZ_AD = sys.argv[1] if len(sys.argv) > 1 else "barispinari_2019"
+KRIZ_T = KRIZLER[KRIZ_AD]
+# Barış Pınarı'nın ilk taraması data/raw/gkg_ceviri altında; diğerleri kriz adıyla alt klasörde
+OUT = ROOT / "data/raw/gkg_ceviri" / ("" if KRIZ_AD == "barispinari_2019" else KRIZ_AD)
 OUT.mkdir(parents=True, exist_ok=True)
-BAS, BIT = datetime(2019, 9, 25), datetime(2019, 10, 24)   # BIT hariç
+BAS, BIT = KRIZ_T - timedelta(days=14), KRIZ_T + timedelta(days=15)   # BIT hariç
 SIBER = re.compile(r"hack|siber|ddos|deface|cyber|tahrif|bilişim saldır", re.I)
 csv.field_size_limit(10**9)
 
