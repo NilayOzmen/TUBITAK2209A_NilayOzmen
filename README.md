@@ -52,6 +52,9 @@ python3 src/hipotez_testleri.py
 # 4. Sağlamlık analizleri
 python3 src/hackmageddon_genislet.py   # ±90 gün için ek Hackmageddon ayları (src klasöründen çalıştırın)
 python3 src/saglamlik.py
+
+# 5. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
+python3 src/kappa.py hesapla
 ```
 
 Aday haberlerin gerçekten bir saldırıyı anlatıp anlatmadığına insan karar veriyor; bu adım otomatik değil.
@@ -227,10 +230,32 @@ Yorum:
   karşı tarafa yönelik saldırı artışı ve hedef kayması (H2) Rusya olmadan da anlamlı. Hollanda çıkarılınca H2 test edilemiyor, çünkü
   kriz öncesinde yalnızca bir Türk hacktivist saldırısı kalıyor.
 
+### PCA ağırlıklı gerginlik endeksi (16.11.2026)
+
+Yöntemdeki "eşit ağırlık varsayımı PCA ile kontrol edilecek" adımı için not: İki standart göstergeyle (Goldstein ve ton)
+PCA'nın birinci bileşeni matematiksel olarak her zaman eşit ağırlık verir (0,5 / 0,5); bu nedenle kontrol, GDELT'teki
+üçüncü bir göstergeyle, günlük çatışma olayı payıyla (`catisma_orani`) yapıldı. Sonuçlar `h4_pca_agirliklari.csv`
+ve `h4_granger.csv` (`endeks_pca`) dosyalarında.
+
+| Kriz | Ağırlıklar (Goldstein / ton / çatışma payı) | Açıklanan varyans | Eşit ağırlıklı endeksle korelasyon |
+|---|---|---|---|
+| Rusya 2015 | 0,35 / 0,29 / 0,36 | %80 | 0,98 |
+| Hollanda 2017 | 0,40 / 0,20 / 0,41 | %61 | 0,88 |
+
+PCA endeksiyle de Granger testi anlamlı değil (Rusya p = 0,15–0,52; Hollanda p = 0,49–1,00). H4 sonucu endeksin
+nasıl ağırlıklandırıldığına bağlı değil.
+
+### Kodlayıcılar arası güvenilirlik (16.11.2026)
+
+`src/kappa.py form` ile olayların %20'si (49 olaydan 10'u; kaynak türüne göre tabakalı, sabit tohum 2209) seçildi ve
+`data/processed/ikinci_kodlayici_formu.csv` oluşturuldu. Formda birinci kodlayıcının kodları yok; danışman `aktor_turu`,
+`kriz_ikilisi`, `saldiri_turu` ve `sayima_dahil` sütunlarını `KODLAMA_KILAVUZU.md`'deki değerlerle doldurur.
+`src/kappa.py hesapla` değişken başına Cohen's Kappa ve yüzde uyumu `kappa_sonuc.csv` dosyasına, anlaşmazlıkları
+`kappa_anlasmazliklar.csv` dosyasına yazar (kabul eşiği: `aktor_turu` ve `kriz_ikilisi` için 0,70).
+
 ## Henüz yapılmayanlar
 
 - 2015–2025 kriz dışı dönemle karşılaştırma
-- PCA ağırlıklı gerginlik endeksi
-- İkinci kodlayıcı için Cohen's Kappa hesabı
+- İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması
 - CFR Cyber Operations Tracker kayıtlarının elle eklenmesi
 

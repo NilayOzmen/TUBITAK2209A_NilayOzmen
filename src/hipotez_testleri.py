@@ -6,6 +6,8 @@ H2: Türkiye kaynaklı hacktivist saldırılarda karşı tarafı hedef alanları
 H3: Kriz öncesi/sonrası yönlü saldırgan→hedef ülke ağları; yoğunluk, derece ve arasındalık merkeziliği.
 H4: Günlük gerginlik endeksi (Goldstein ve ton z-puanlarının ortalaması) ile iki gösterge ayrı ayrı →
     ertesi günlerdeki karşı tarafa yönelik saldırı sayısı (Granger, 1–7 gün), Rusya ve Hollanda pencereleri.
+    Eşit ağırlık kontrolü: iki standart göstergeyle PCA'nın birinci bileşeni matematiksel olarak eşit ağırlığa denk
+    düştüğünden, PCA endeksi üç göstergeyle (Goldstein, ton ve günlük çatışma olayı payı) kurulur ("endeks_pca").
 """
 from pathlib import Path
 import warnings
@@ -158,21 +160,35 @@ def z(x):
     return (x - x.mean()) / x.std()
 
 
+def pca_endeks(df):
+    """Standart göstergelerin korelasyon matrisinden birinci temel bileşen; ağırlıklar toplamı 1 olacak şekilde."""
+    zz = df.apply(z)
+    deger, vektor = np.linalg.eigh(np.corrcoef(zz.T.values))
+    w = vektor[:, -1] * np.sign(vektor[:, -1].sum())
+    w = w / w.sum()
+    return zz.values @ w, dict(zip(df.columns, np.round(w, 3))), round(deger[-1] / deger.sum(), 3)
+
+
 def h4(s):
     print("\n" + "=" * 70 + "\nH4 — Granger: gerginlik → karşı tarafa yönelik saldırılar\n" + "=" * 70)
-    satir = []
+    satir, pca_ozet = [], []
     for k, yil in [("rusya_2015", 2015), ("hollanda_2017", 2017)]:
         tarih, iso3, iso2 = KRIZ[k]
-        g = pd.read_csv(P / f"gdelt_gunluk_{yil}_{iso3}.csv")[["gun", "goldstein", "ton"]]
+        g = pd.read_csv(P / f"gdelt_gunluk_{yil}_{iso3}.csv")[["gun", "goldstein", "ton", "catisma_orani"]]
         y = (s[(s.kriz == k) & (s.kriz_ikilisi == "evet")].groupby("gun_farki").size()
              .reindex(range(-60, 61), fill_value=0).rename("saldiri"))
         d = g.set_index("gun").join(y, how="right").interpolate().bfill()
         d["goldstein_g"] = -d.goldstein          # yüksek değer = daha çatışmacı
         d["ton_g"] = -d.ton                      # daha olumsuz ton = daha yüksek gerginlik
         d["endeks"] = (z(d.goldstein_g) + z(d.ton_g)) / 2
-        d[["saldiri", "goldstein", "ton", "endeks"]].to_csv(P / f"gerginlik_endeksi_{k}.csv")
+        d["endeks_pca"], agirlik, aciklanan = pca_endeks(d[["goldstein_g", "ton_g", "catisma_orani"]])
+        d[["saldiri", "goldstein", "ton", "catisma_orani", "endeks", "endeks_pca"]].to_csv(P / f"gerginlik_endeksi_{k}.csv")
         print(f"\n[{k}] karşı tarafa yönelik saldırı: {int(y.sum())}")
-        for x in ["endeks", "goldstein_g", "ton_g"]:
+        print(f"  PCA ağırlıkları {agirlik}, açıklanan varyans {aciklanan}; "
+              f"eşit ağırlıklı endeksle korelasyon {d.endeks.corr(d.endeks_pca):.2f}")
+        pca_ozet.append(dict(kriz=k, **{f"w_{a}": b for a, b in agirlik.items()}, aciklanan_varyans=aciklanan,
+                             r_esit_endeks=round(d.endeks.corr(d.endeks_pca), 3)))
+        for x in ["endeks", "endeks_pca", "goldstein_g", "ton_g"]:
             sonuc = grangercausalitytests(d[["saldiri", x]], maxlag=7)
             for lag, r in sonuc.items():
                 f, p = r[0]["ssr_ftest"][:2]
@@ -183,6 +199,7 @@ def h4(s):
         print(f"  ilk karşı tarafa saldırı günü = {int(ilk)}, endeksin ilk kez +1 SS'yi aştığı gün (≥ -14) = {kirilma}")
     t = pd.DataFrame(satir)
     t.to_csv(P / "h4_granger.csv", index=False)
+    pd.DataFrame(pca_ozet).to_csv(P / "h4_pca_agirliklari.csv", index=False)
     print(t.pivot_table(index="gecikme", columns=["kriz", "gosterge"], values="p").round(3).to_string())
 
 
