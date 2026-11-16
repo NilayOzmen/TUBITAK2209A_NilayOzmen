@@ -8,6 +8,15 @@ H4: Günlük gerginlik endeksi (Goldstein ve ton z-puanlarının ortalaması) il
     ertesi günlerdeki karşı tarafa yönelik saldırı sayısı (Granger, 1–7 gün), Rusya ve Hollanda pencereleri.
     Eşit ağırlık kontrolü: iki standart göstergeyle PCA'nın birinci bileşeni matematiksel olarak eşit ağırlığa denk
     düştüğünden, PCA endeksi üç göstergeyle (Goldstein, ton ve günlük çatışma olayı payı) kurulur ("endeks_pca").
+    Barış Pınarı'nda saldırıların hedefi PYD/PKK olduğundan gerginlik Türkiye–Suriye ikilisiyle ölçülür;
+    Türkiye–ABD ikilisi alternatif olarak raporlanır ("barispinari_2019_ABD").
+    Ek analizler (h4_kriz_turu.csv, h4_havuz.csv):
+      - Kriz türü: kriz öncesi 14 gündeki gerginlik eğilimi (endeks ~ gün, EKK). Eğim pozitif ve anlamlıysa
+        kriz "tırmanan", değilse "ani" sayılır. Erken uyarı mantığı yalnızca tırmanan krizlerde beklenir.
+      - Havuzlanmış model: üç kriz tek Poisson modelinde; günlük karşı tarafa saldırı ~ önceki 1–3 (ve 1–7)
+        günün ortalama gerginliği + aynı günün gerginliği + kriz sonrası kukla + kriz sabit etkisi.
+        Kriz sonrası kukla, kriz günündeki ortak şokun (gerginlik ve saldırıların birlikte sıçraması)
+        gecikmeli gerginliğin etkisi gibi görünmesini önler.
 """
 from pathlib import Path
 import warnings
@@ -171,9 +180,11 @@ def pca_endeks(df):
 
 def h4(s):
     print("\n" + "=" * 70 + "\nH4 — Granger: gerginlik → karşı tarafa yönelik saldırılar\n" + "=" * 70)
-    satir, pca_ozet = [], []
-    for k, yil in [("rusya_2015", 2015), ("hollanda_2017", 2017)]:
-        tarih, iso3, iso2 = KRIZ[k]
+    satir, pca_ozet, tur, havuz = [], [], [], []
+    for etiket, k, yil, iso3 in [("rusya_2015", "rusya_2015", 2015, "RUS"),
+                                 ("hollanda_2017", "hollanda_2017", 2017, "NLD"),
+                                 ("barispinari_2019", "barispinari_2019", 2019, "SYR"),
+                                 ("barispinari_2019_ABD", "barispinari_2019", 2019, "USA")]:
         g = pd.read_csv(P / f"gdelt_gunluk_{yil}_{iso3}.csv")[["gun", "goldstein", "ton", "catisma_orani"]]
         y = (s[(s.kriz == k) & (s.kriz_ikilisi == "evet")].groupby("gun_farki").size()
              .reindex(range(-60, 61), fill_value=0).rename("saldiri"))
@@ -182,25 +193,56 @@ def h4(s):
         d["ton_g"] = -d.ton                      # daha olumsuz ton = daha yüksek gerginlik
         d["endeks"] = (z(d.goldstein_g) + z(d.ton_g)) / 2
         d["endeks_pca"], agirlik, aciklanan = pca_endeks(d[["goldstein_g", "ton_g", "catisma_orani"]])
-        d[["saldiri", "goldstein", "ton", "catisma_orani", "endeks", "endeks_pca"]].to_csv(P / f"gerginlik_endeksi_{k}.csv")
-        print(f"\n[{k}] karşı tarafa yönelik saldırı: {int(y.sum())}")
+        d[["saldiri", "goldstein", "ton", "catisma_orani", "endeks", "endeks_pca"]].to_csv(P / f"gerginlik_endeksi_{etiket}.csv")
+        print(f"\n[{etiket}] Türkiye–{iso3}, karşı tarafa yönelik saldırı: {int(y.sum())} ({int((y > 0).sum())} gün)")
         print(f"  PCA ağırlıkları {agirlik}, açıklanan varyans {aciklanan}; "
               f"eşit ağırlıklı endeksle korelasyon {d.endeks.corr(d.endeks_pca):.2f}")
-        pca_ozet.append(dict(kriz=k, **{f"w_{a}": b for a, b in agirlik.items()}, aciklanan_varyans=aciklanan,
+        pca_ozet.append(dict(kriz=etiket, **{f"w_{a}": b for a, b in agirlik.items()}, aciklanan_varyans=aciklanan,
                              r_esit_endeks=round(d.endeks.corr(d.endeks_pca), 3)))
         for x in ["endeks", "endeks_pca", "goldstein_g", "ton_g"]:
             sonuc = grangercausalitytests(d[["saldiri", x]], maxlag=7)
             for lag, r in sonuc.items():
                 f, p = r[0]["ssr_ftest"][:2]
-                satir.append(dict(kriz=k, gosterge=x, gecikme=lag, F=round(f, 2), p=round(p, 4)))
+                satir.append(dict(kriz=etiket, gosterge=x, gecikme=lag, F=round(f, 2), p=round(p, 4)))
         ilk = y[y > 0].index.min()
         esik = d.endeks[d.index >= -14]
         kirilma = int(esik[esik > 1].index.min()) if (esik > 1).any() else None
         print(f"  ilk karşı tarafa saldırı günü = {int(ilk)}, endeksin ilk kez +1 SS'yi aştığı gün (≥ -14) = {kirilma}")
+        # Kriz türü: kriz öncesi 14 günde gerginlik tırmanıyor mu?
+        on = d.loc[-14:-1]
+        e = smf.ols("endeks ~ gun", data=on.rename_axis("gun").reset_index()).fit()
+        fark = d.loc[-14:-1, "endeks"].mean() - d.loc[-60:-15, "endeks"].mean()
+        tur.append(dict(kriz=etiket, egim_gunluk=round(e.params["gun"], 3), p_egim=round(e.pvalues["gun"], 4),
+                        son14_eksi_onceki=round(fark, 2),
+                        tur="tırmanan" if e.params["gun"] > 0 and e.pvalues["gun"] < 0.05 else "ani",
+                        ilk_saldiri_gunu=int(ilk), endeks_ilk_1ss_gunu=kirilma))
+        if etiket != "barispinari_2019_ABD":
+            h = d[["saldiri", "endeks"]].copy()
+            h["gecikme_1_3"] = h.endeks.shift(1).rolling(3).mean()
+            h["gecikme_1_7"] = h.endeks.shift(1).rolling(7).mean()
+            h["sonra"] = (h.index >= 0).astype(int)
+            h["kriz"] = k
+            havuz.append(h)
     t = pd.DataFrame(satir)
     t.to_csv(P / "h4_granger.csv", index=False)
     pd.DataFrame(pca_ozet).to_csv(P / "h4_pca_agirliklari.csv", index=False)
-    print(t.pivot_table(index="gecikme", columns=["kriz", "gosterge"], values="p").round(3).to_string())
+    print(t[t.gosterge == "endeks"].pivot_table(index="gecikme", columns="kriz", values="p").round(3).to_string())
+    tt = pd.DataFrame(tur)
+    tt.to_csv(P / "h4_kriz_turu.csv", index=False)
+    print("\nKriz türü (kriz öncesi 14 günde gerginlik eğilimi):\n" + tt.to_string(index=False))
+    hv = pd.concat(havuz).dropna()
+    sonuc = []
+    for gec in ["gecikme_1_3", "gecikme_1_7"]:
+        for ad, f in [("gecikmeli", f"saldiri ~ {gec} + C(kriz)"),
+                      ("gecikmeli + aynı gün + kriz sonrası", f"saldiri ~ {gec} + endeks + sonra + C(kriz)")]:
+            m = smf.glm(f, data=hv, family=sm.families.Poisson()).fit()
+            ci = np.exp(m.conf_int().loc[gec])
+            sonuc.append(dict(gecikme=gec, model=ad, irr_1ss=round(np.exp(m.params[gec]), 2),
+                              ga_alt=round(ci[0], 2), ga_ust=round(ci[1], 2), p=round(m.pvalues[gec], 4),
+                              n_gun=int(m.nobs), saldiri=int(hv.saldiri.sum())))
+    ht = pd.DataFrame(sonuc)
+    ht.to_csv(P / "h4_havuz.csv", index=False)
+    print("\nHavuzlanmış Poisson (3 kriz; IRR = gerginlik 1 SS arttığında):\n" + ht.to_string(index=False))
 
 
 def main():

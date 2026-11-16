@@ -53,7 +53,11 @@ python3 src/hipotez_testleri.py
 python3 src/hackmageddon_genislet.py   # ±90 gün için ek Hackmageddon ayları (src klasöründen çalıştırın)
 python3 src/saglamlik.py
 
-# 5. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
+# 5. Kriz dışı karşılaştırma (src klasöründen çalıştırın; indirme ~15 dk)
+python3 src/hackmageddon_tum.py
+python3 src/kriz_disi.py
+
+# 6. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
 python3 src/kappa.py hesapla
 ```
 
@@ -253,9 +257,82 @@ nasıl ağırlıklandırıldığına bağlı değil.
 `src/kappa.py hesapla` değişken başına Cohen's Kappa ve yüzde uyumu `kappa_sonuc.csv` dosyasına, anlaşmazlıkları
 `kappa_anlasmazliklar.csv` dosyasına yazar (kabul eşiği: `aktor_turu` ve `kriz_ikilisi` için 0,70).
 
+### Kriz dışı karşılaştırma (16.11.2026)
+
+`src/hackmageddon_tum.py` ile Hackmageddon'ın 2015–2024 arasındaki 245 zaman çizelgesi indirildi (19.425 kayıt);
+`src/kriz_disi.py` EuRepoC ile birlikte 1 Temmuz 2015 – 30 Kasım 2024 dönemini inceliyor. Sonuçlar `data/processed/kriz_disi_*.csv`,
+grafik `outputs/kriz_disi_plasebo.png`.
+
+- **Kapsam ve sınırlılıklar:** Yalnız veri tabanı kaynakları (haber taraması kriz pencereleriyle sınırlı). On yıllık veri elle
+  kodlanamadığından kriz ve kriz dışı dönemler aynı otomatik kurallarla kodlandı: hacktivist, gün düzeyinde tarihli, Türkiye saldırgan
+  ya da hedef, en fazla üç hedef ülke. Hackmageddon 2015'in ilk yarısında tabloları resim olarak yayımladığı için dönem Temmuz 2015'te
+  başlıyor; 2020'deki beş yarım aylık zaman çizelgesi (sunucu hatası) alınamadı ve bu 76 gün dışarıda bırakıldı. 2021 sonrası tablolarda
+  saldırı tarihi (`Date Occurred`) esas alındı, yoksa bildirim tarihi kullanıldı.
+- **Doğrulama:** Otomatik kodlama kriz pencerelerinde elle kodlanmış v03 veri tabanı kayıtlarına yakın sonuç veriyor
+  (Rusya 0 → 7 / elle 0 → 8; Hollanda 1 → 2 / elle 1 → 3; Barış Pınarı 0 → 0).
+- Dönemde 50 hacktivist olay var, 37'si Türkiye kaynaklı.
+
+| Test | Tüm hacktivist olaylar | Türkiye kaynaklı |
+|---|---|---|
+| Kriz sonrası 60 gün / kriz dışı günlük oran (yıl sabit etkili Poisson) | IRR 4,29 [1,79; 10,28], p = 0,001 | IRR 4,05 [1,40; 11,75], p = 0,010 |
+| Kriz öncesi 60 gün / kriz dışı | IRR 0,62, p = 0,66 | IRR 0,85, p = 0,89 |
+| Plasebo: 3 krizde toplam (sonra − önce) | +8; rastgele tarihlerde ort. −0,17; p = 0,001 | +5; ort. −0,06; p = 0,056 |
+| Plasebo: yalnız Rusya | +7; p < 0,001 | +6; p < 0,001 |
+| Plasebo: Hollanda / Barış Pınarı | p = 0,28 / 0,74 | p = 0,87 / 0,74 |
+
+Yorum: Kriz sonrası dönemlerde hacktivist saldırı oranı kriz dışı taban orana göre yaklaşık dört kat yüksek; kriz öncesi dönem ise
+taban orandan farklı değil. Rastgele 10.000 "sahte kriz" çekilişinin yalnızca %0,1'i gerçek krizler kadar büyük bir artış üretti.
+Etki büyük ölçüde Rusya krizinden geliyor; Hollanda ve Barış Pınarı olayları veri tabanlarında çok az (Barış Pınarı olayları yalnızca
+Türkçe haberlerde bulunmuştu, Hollanda'daki Akıncılar saldırısı Hackmageddon'da faili belirtilmeden kayıtlı).
+
+**H3 kriz dışı karşılaştırma:** Türkiye kaynaklı saldırıların tek bir yabancı ülkede yoğunlaşması Rusya krizinden sonra %83 (RU),
+rastgele kriz dışı 61 günlük pencerelerde ortalama %54 (p = 0,37). Veri tabanlarında kriz dışı dönemde Türkiye kaynaklı saldırı çok az
+olduğundan (105 pencerede en az 3 saldırı var) H3 bu kaynaklarla anlamlı biçimde test edilemiyor; kriz dışı dönemler için de haber
+taraması gerekir.
+
+### H4'ün genişletilmesi: Barış Pınarı, kriz türü ve havuzlanmış model (16.11.2026)
+
+Soru: Uçak düşürme gibi ani krizlerde krizden önce gerginlik beklemek anlamlı mı? Erken uyarı mantığı yalnızca tırmanan
+krizlerde geçerli olabilir. Bunu test etmek için `hipotez_testleri.py` H4 bölümüne üç ekleme yapıldı:
+
+1. **Barış Pınarı H4'e eklendi.** Saldırıların hedefi PYD/PKK olduğundan gerginlik Türkiye–Suriye ikilisiyle ölçüldü
+   (`gdelt_gunluk_2019_SYR.csv`); Türkiye–ABD alternatif olarak raporlandı. Karşı tarafa yönelik yalnızca 2 saldırı günü var.
+2. **Kriz türü** (`h4_kriz_turu.csv`): kriz öncesi 14 günde gerginlik endeksinin eğimi.
+
+| Kriz | Günlük eğim (p) | Tür |
+|---|---|---|
+| Rusya 2015 (TR–RUS) | 0,050 (0,28) | ani |
+| Hollanda 2017 (TR–NLD) | −0,025 (0,51) | ani |
+| Barış Pınarı 2019 (TR–SYR) | −0,036 (0,57) | ani |
+| Barış Pınarı 2019 (TR–USA) | 0,079 (0,027) | tırmanan |
+
+   Rusya'da kriz öncesi son 14 gündeki gerginlik önceki dönemden bile düşük; uçağın düşürülmesi beklenmedik bir şok.
+   Tırmanma yalnızca Barış Pınarı öncesindeki Türkiye–ABD ilişkisinde görülüyor (6 Ekim çekilme kararı ve sonrası).
+
+3. **Granger (endeks, 1–7 gün):** Rusya p = 0,12–0,59; Hollanda p = 0,48–0,99; Barış Pınarı TR–SYR p = 0,06–0,38;
+   Barış Pınarı TR–USA p = 0,007–0,011 (1–3 gün), sonra anlamsız. Anlamlı çıkan tek seri, kriz türü analizinde tırmanan
+   çıkan tek seri; ancak yalnızca 2 saldırı gününe dayandığı için çok kırılgan.
+4. **Havuzlanmış Poisson** (`h4_havuz.csv`, 3 kriz, 342 gün, 15 saldırı):
+
+| Model | Önceki 1–3 günün gerginliği, IRR (1 SS) | p |
+|---|---|---|
+| Yalnız gecikmeli gerginlik + kriz sabit etkisi | 3,16 [1,24; 8,06] | 0,016 |
+| + aynı günün gerginliği + kriz sonrası kukla | 2,26 [0,64; 7,94] | 0,202 |
+| Önceki 1–7 gün, yalnız gecikmeli | 3,82 [1,17; 12,50] | 0,027 |
+| Önceki 1–7 gün, + aynı gün + kriz sonrası | 1,79 [0,42; 7,65] | 0,431 |
+
+   Gecikmeli gerginlik tek başına saldırıları öngörüyor gibi görünüyor, ama kriz sonrası kukla eklenince etki kayboluyor.
+   Yani ilişkiyi kriz şokunun kendisi taşıyor: kriz başlayınca hem gerginlik hem saldırılar yükseliyor; kriz dönemi içinde
+   gerginlikteki günlük değişimler saldırıları ayrıca öngörmüyor.
+
+**Sonuç:** Bu üç kriz, H4'ün erken uyarı mantığını test etmek için uygun değil; ikisi açıkça ani kriz, Hollanda'da da kriz öncesi
+14 günde tırmanma eğilimi yok. H4'ü anlamlı biçimde test etmek için tırmanan krizlerin (ör. 2018 ABD–Brunson krizi, 2020 Doğu
+Akdeniz gerginliği) örnekleme eklenmesi gerekir.
+
 ## Henüz yapılmayanlar
 
-- 2015–2025 kriz dışı dönemle karşılaştırma
+- H3 için kriz dışı dönemlerde de haber taraması
+- H4 için tırmanan krizlerin örnekleme eklenmesi
 - İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması
 - CFR Cyber Operations Tracker kayıtlarının elle eklenmesi
 

@@ -1,0 +1,5 @@
+gecikme,model,irr_1ss,ga_alt,ga_ust,p,n_gun,saldiri
+gecikme_1_3,gecikmeli,3.16,1.24,8.06,0.0163,342,15
+gecikme_1_3,gecikmeli + aynı gün + kriz sonrası,2.26,0.64,7.94,0.2022,342,15
+gecikme_1_7,gecikmeli,3.82,1.17,12.5,0.0268,342,15
+gecikme_1_7,gecikmeli + aynı gün + kriz sonrası,1.79,0.42,7.65,0.4309,342,15
