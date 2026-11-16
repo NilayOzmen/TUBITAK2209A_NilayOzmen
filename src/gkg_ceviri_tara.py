@@ -1,7 +1,7 @@
 """GDELT 2.0 çeviri (Translingual) GKG dosyalarından Türkiye ile ilgili siber saldırı haberlerini çeker.
 
 Kapsam: seçilen krizin ±14 günü, 15 dakikalık dosyalar.
-Kullanım: python3 src/gkg_ceviri_tara.py [barispinari_2019|rusya_2015|hollanda_2017|brunson_2018]
+Kullanım: python3 src/gkg_ceviri_tara.py [barispinari_2019|rusya_2015|hollanda_2017|brunson_2018|dogu_akdeniz_2020]
 Bir kayıt saklanır, eğer:
   - siber: temalarda CYBER_ATTACK var YA DA sayfa başlığında hack/siber/ddos/deface/cyber geçiyor, VE
   - Türkiye ile ilgili: haber Türkçe (srclc:tur) YA DA konumlarda Türkiye (FIPS: TU) var.
@@ -14,7 +14,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 KRIZLER = {"barispinari_2019": datetime(2019, 10, 9), "rusya_2015": datetime(2015, 11, 24),
-           "hollanda_2017": datetime(2017, 3, 11), "brunson_2018": datetime(2018, 8, 10)}
+           "hollanda_2017": datetime(2017, 3, 11), "brunson_2018": datetime(2018, 8, 10),
+           "dogu_akdeniz_2020": datetime(2020, 8, 10)}
 KRIZ_AD = sys.argv[1] if len(sys.argv) > 1 else "barispinari_2019"
 KRIZ_T = KRIZLER[KRIZ_AD]
 # Barış Pınarı'nın ilk taraması data/raw/gkg_ceviri altında; diğerleri kriz adıyla alt klasörde

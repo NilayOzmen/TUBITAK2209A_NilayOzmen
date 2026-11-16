@@ -13,7 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data/raw/gkg"
 OUT.mkdir(parents=True, exist_ok=True)
-KRIZLER = [date(2015, 11, 24), date(2017, 3, 11), date(2019, 10, 9), date(2018, 8, 10)]
+KRIZLER = [date(2015, 11, 24), date(2017, 3, 11), date(2019, 10, 9), date(2018, 8, 10), date(2020, 8, 10)]
 PENCERE = 60
 csv.field_size_limit(10**9)
 COLS = ["DATE", "NUMARTS", "COUNTS", "THEMES", "LOCATIONS", "PERSONS",

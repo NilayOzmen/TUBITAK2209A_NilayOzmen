@@ -60,6 +60,7 @@ python3 src/kriz_disi.py
 # 6. Tırmanan kriz örneği: Brunson 2018 (indirmeler için gdelt_indir.py, gkg_siber_haber.py
 #    ve gkg_ceviri_tara.py brunson_2018; olaylar brunson_kodlama.csv'de elle kodlanır)
 python3 src/brunson.py
+python3 src/tirmanan_krizler.py     # Brunson + Doğu Akdeniz, beş krizli havuzlanmış H4 modeli
 
 # 7. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
 python3 src/kappa.py hesapla
@@ -373,10 +374,61 @@ olasılığı yaklaşık üç kat artıyor. **Yorum:** Gerginlik ölçümü ani 
 1–2 gün önceden haber veriyor. Bu bulgu tek bir tırmanan krize ve 5 saldırı gününe dayanıyor; başka tırmanan krizlerle (ör. 2020 Doğu
 Akdeniz) sınanması gerekir.
 
+### İkinci tırmanan kriz denemesi: 2020 Türkiye–Yunanistan (Doğu Akdeniz) krizi (16.11.2026)
+
+`src/tirmanan_krizler.py` (brunson.py'nin genelleştirilmiş hali) Brunson ve Doğu Akdeniz krizlerini aynı yöntemle analiz ediyor ve beş krizi
+havuzlanmış H4 modeline alıyor. **Kriz tarihi 10 Ağustos 2020** (Oruç Reis'in gönderilmesi), 12 Ağustos (fırkateyn çarpışması) alternatif;
+karşı taraf Yunanistan.
+
+- **Veri:** GDELT olay dosyaları, İngilizce GKG (339 aday), Türkçe çeviri katmanı (±14 gün, 416.391 haber, 178 aday). EuRepoC'de dönemde Türkiye
+  kaydı yok; Hackmageddon'ın Temmuz–Ekim 2020 zaman çizelgelerinin dördü sitede kaldırılmış (sunucu hatası, yazar yorumlarda doğruluyor).
+  Olaylar neredeyse tamamen haberlerden geliyor ve İngilizce kaynakların çoğu Yunan basını (Greek City Times); bu krizdeki kapsam diğerleriyle
+  tam karşılaştırılabilir değil.
+- **Kodlanan olaylar** (`dogu_akdeniz_kodlama.csv` → `olaylar_dogu_akdeniz_2020.csv`, 9 kayıt, 8'i sayıma dahil): RootAyyıldız → Yunan İçişleri
+  Bakanlığı iddiası (11.06, Yunan tarafı yalanladı, sayım dışı); Anonymous Greece → RootAyyıldız forumu ve Türk sağlık kayıtları (14.06);
+  Aslan Neferler Tim → American Federal Bank (05.08, ABD); RootAyyıldız → Yunan Çalışma Bakanlığı (14.08); TurkDef → Toyota Yunanistan (15.08);
+  Anonymous Greece → Türk devlet siteleri (18.08); adı belirtilmemiş Türk hackerlar → Doğu Makedonya-Trakya bölge yönetimi, askeri hastane ve
+  istihbarat servisi siteleri (18.08); Türk hacker → Dimokratia gazetesi (19.09); Anonymous Greece → TBMM alt alan adı (08.10, gerekçe
+  Ermenistan). Türk–Yunan siber çatışması 2020 başından beri sürüyordu (Ocak'ta Yunan bakanlıkları, 8 Haziran'da Halkidona belediyesi ve
+  karşılığında Türk Dışişleri ve Savunma bakanlıkları; pencere dışında).
+
+| Test | 10 Ağustos 2020 |
+|---|---|
+| H1 tüm olaylar (önce → sonra) | 2 → 6, p = 0,15 |
+| H1 karşı tarafla ilgili | 1 → 6, p = 0,065 |
+| H2 Türk hacktivistlerde karşı tarafın payı | 0/1 → 4/4, p = 0,20 |
+| H4 Granger, TR–GRC endeksi (1–7 gün) | p = 0,29–0,59 |
+
+**Kriz türü: "ani" çıktı.** GDELT'e göre Türkiye–Yunanistan gerginliği kriz tarihinden önce değil, Temmuz ortasında (Ayasofya kararı ve
+21 Temmuz'daki ilk Oruç Reis NAVTEX'i) zirve yaptı, arabuluculukla düştü ve 10 Ağustos'ta yeniden yükseldi:
+
+| Dönem (gün) | −60…−31 | −30…−15 | −14…−1 | 0…14 | 15…60 |
+|---|---|---|---|---|---|
+| Doğu Akdeniz endeksi | −0,15 | 0,42 | 0,03 | 0,20 | −0,12 |
+| Brunson endeksi | −0,65 | −0,13 | 1,08 | 0,66 | −0,08 |
+
+Bu kriz düz bir tırmanma değil, dalgalı ve uzun süreli bir gerginlik. Ayrıca krizden sonra Goldstein ortalaması pozitif (1,34): yoğun
+diplomasi (arabuluculuk, görüşmeler) GDELT'te işbirliği olarak kodlandığı için **Goldstein ortalaması diplomasinin yoğun olduğu krizlerde
+gerginliği olduğundan düşük gösterebiliyor.** Bu nedenle Doğu Akdeniz, H4 bulgusunu ikinci bir tırmanan krizle sınamak için uygun çıkmadı.
+
+**Havuzlanmış Poisson, beş kriz** (`h4_havuz_bes_kriz.csv`, 590 gün, 27 karşı tarafla ilgili saldırı):
+
+| Model | IRR | p |
+|---|---|---|
+| Önceki 1–3 günün gerginliği + kriz sabit etkisi | 2,57 [1,35; 4,90] | 0,004 |
+| + aynı günün gerginliği + kriz sonrası kukla | 2,04 [0,89; 4,67] | 0,093 |
+| Gecikmeli gerginlik × tırmanan kriz etkileşimi | 3,53 [0,71; 17,60] | 0,124 |
+| Yalnız tırmanan kriz (Brunson), kontrollerle | 5,24 [1,33; 20,61] | 0,018 |
+| Yalnız ani krizler (dört kriz), kontrollerle | 1,33 [0,50; 3,53] | 0,57 |
+
+**Sonuç:** Gerginliğin saldırıları önceden göstermesi şimdilik yalnızca bir krizde (Brunson) görülüyor; ani ya da dalgalı krizlerde böyle
+bir ilişki yok. Etkileşim terimi yön olarak bunu destekliyor ama anlamlı değil. H4 için daha güçlü kanıt, GDELT'te tırmanması net ölçülebilen
+başka krizler ya da Goldstein ortalaması yerine yalnızca çatışma olaylarına dayanan bir gerginlik ölçüsü gerektiriyor.
+
 ## Henüz yapılmayanlar
 
 - H3 için kriz dışı dönemlerde de haber taraması
-- H4 bulgusunu ikinci bir tırmanan krizle sınamak (ör. 2020 Doğu Akdeniz)
+- H4 bulgusunu GDELT'te tırmanması net ölçülen ikinci bir krizle sınamak; yalnızca çatışma olaylarına dayanan gerginlik ölçüsü denemek
 - İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması
 - CFR Cyber Operations Tracker kayıtlarının elle eklenmesi
 

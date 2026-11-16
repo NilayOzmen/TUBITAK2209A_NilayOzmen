@@ -9,7 +9,7 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 P = ROOT / "data/processed"
 KRIZLER = {"barispinari_2019": "2019-10-09", "rusya_2015": "2015-11-24", "hollanda_2017": "2017-03-11",
-           "brunson_2018": "2018-08-10"}
+           "brunson_2018": "2018-08-10", "dogu_akdeniz_2020": "2020-08-10"}
 KRIZ_AD = sys.argv[1] if len(sys.argv) > 1 else "barispinari_2019"
 KRIZ = pd.Timestamp(KRIZLER[KRIZ_AD])
 RAW = ROOT / "data/raw/gkg_ceviri" / ("" if KRIZ_AD == "barispinari_2019" else KRIZ_AD)
