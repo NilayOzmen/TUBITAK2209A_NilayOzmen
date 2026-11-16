@@ -1,0 +1,13 @@
+olcu,model,krizler,irr,ga_alt,ga_ust,p,saldiri
+catisma_yogunlugu,"beş kriz, kontrollerle","barispinari_2019,brunson_2018,dogu_akdeniz_2020,hollanda_2017,rusya_2015",1.57,0.78,3.16,0.2065,27
+catisma_yogunlugu,etkileşim: gecikmeli × tırmanan,"barispinari_2019,brunson_2018,dogu_akdeniz_2020,hollanda_2017,rusya_2015",8.28,2.34,29.37,0.0011,27
+catisma_yogunlugu,yalnız tırmanan krizler,"brunson_2018,hollanda_2017",5.02,1.37,18.36,0.0148,9
+catisma_yogunlugu,yalnız ani krizler,"barispinari_2019,dogu_akdeniz_2020,rusya_2015",0.87,0.36,2.1,0.7559,18
+catisma_payi,"beş kriz, kontrollerle","barispinari_2019,brunson_2018,dogu_akdeniz_2020,hollanda_2017,rusya_2015",1.14,0.58,2.27,0.6982,27
+catisma_payi,etkileşim: gecikmeli × tırmanan,"barispinari_2019,brunson_2018,dogu_akdeniz_2020,hollanda_2017,rusya_2015",3.81,0.91,16.02,0.068,27
+catisma_payi,yalnız tırmanan krizler,"brunson_2018,hollanda_2017",2.71,0.72,10.13,0.1394,9
+catisma_payi,yalnız ani krizler,"barispinari_2019,dogu_akdeniz_2020,rusya_2015",0.78,0.35,1.75,0.555,18
+endeks_goldstein_ton,"beş kriz, kontrollerle","barispinari_2019,brunson_2018,dogu_akdeniz_2020,hollanda_2017,rusya_2015",1.72,0.88,3.36,0.1154,27
+endeks_goldstein_ton,etkileşim: gecikmeli × tırmanan,"barispinari_2019,brunson_2018,dogu_akdeniz_2020,hollanda_2017,rusya_2015",2.97,0.78,11.25,0.1096,27
+endeks_goldstein_ton,yalnız tırmanan krizler,brunson_2018,4.05,1.27,12.89,0.0177,5
+endeks_goldstein_ton,yalnız ani krizler,"barispinari_2019,dogu_akdeniz_2020,hollanda_2017,rusya_2015",1.22,0.56,2.64,0.616,22

@@ -61,6 +61,7 @@ python3 src/kriz_disi.py
 #    ve gkg_ceviri_tara.py brunson_2018; olaylar brunson_kodlama.csv'de elle kodlanır)
 python3 src/brunson.py
 python3 src/tirmanan_krizler.py     # Brunson + Doğu Akdeniz, beş krizli havuzlanmış H4 modeli
+python3 src/catisma_olcusu.py       # H4: yalnız çatışma olaylarına dayanan gerginlik ölçüsü
 
 # 7. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
 python3 src/kappa.py hesapla
@@ -425,10 +426,56 @@ gerginliği olduğundan düşük gösterebiliyor.** Bu nedenle Doğu Akdeniz, H4
 bir ilişki yok. Etkileşim terimi yön olarak bunu destekliyor ama anlamlı değil. H4 için daha güçlü kanıt, GDELT'te tırmanması net ölçülebilen
 başka krizler ya da Goldstein ortalaması yerine yalnızca çatışma olaylarına dayanan bir gerginlik ölçüsü gerektiriyor.
 
+### H4: çatışmaya dayalı gerginlik ölçüsü (16.11.2026)
+
+Doğu Akdeniz analizi, Goldstein ortalamasının çatışma ve işbirliği olaylarını birlikte ortaladığını, bu yüzden yoğun diplomasinin
+yaşandığı krizlerde gerginliği olduğundan düşük gösterebildiğini ortaya koydu. `src/catisma_olcusu.py` yalnızca çatışma olaylarına
+(GDELT QuadClass 3 sözlü, 4 maddi çatışma) dayanan iki ölçüyle H4 analizlerini beş kriz için tekrarlıyor:
+
+- **Çatışma yoğunluğu:** log(1 + Σ |Goldstein| × anma sayısı), yalnız çatışma olayları.
+- **Ağırlıklı çatışma payı:** çatışma olaylarının ağırlığının bütün olayların ağırlığına oranı (haber ilgisinin genel artışından etkilenmez).
+
+Sonuçlar `h4_catisma_*.csv`, grafik `outputs/h4_catisma_olcusu.png`.
+
+**Kriz türü** (kriz öncesi 14 günde ölçünün önceki döneme göre farkı, SS):
+
+| Kriz | Goldstein + ton endeksi | Çatışma yoğunluğu | Çatışma payı |
+|---|---|---|---|
+| Rusya 2015 | −0,75 ani | −0,65 ani | −0,86 ani |
+| Hollanda 2017 | 0,50 ani | **1,26 tırmanan** | **1,17 tırmanan** |
+| Barış Pınarı 2019 | 0,17 ani | 0,49 ani | 0,39 ani |
+| Brunson 2018 | **1,83 tırmanan** | **1,84 tırmanan** | **1,63 tırmanan** |
+| Doğu Akdeniz 2020 | −0,03 ani | 0,17 ani | −0,09 ani |
+
+Çatışma ölçüleriyle Hollanda krizi de tırmanan çıkıyor: çatışma yoğunluğu kriz gününden yaklaşık bir hafta önce (miting yasakları,
+"Nazi" açıklamaları) yükselmeye başlıyor; Goldstein ortalaması bu tırmanmayı göstermiyordu. Doğu Akdeniz ise her üç ölçüyle de ani:
+gerginlik Temmuz ortasında zirve yapıp düşmüştü.
+
+**Granger** (en küçük p, 1–7 gün): çatışma yoğunluğuyla Hollanda p < 0,001, Brunson p = 0,014, Barış Pınarı p = 0,003 (yalnız 2 saldırı
+günü), Rusya p = 0,30, Doğu Akdeniz p = 0,52.
+
+**Havuzlanmış Poisson, beş kriz** (önceki 1–3 günün ölçüsü + aynı gün + kriz sonrası kukla + kriz sabit etkisi; 27 saldırı):
+
+| Ölçü | Beş kriz | Etkileşim: gecikmeli × tırmanan | Yalnız tırmanan | Yalnız ani |
+|---|---|---|---|---|
+| Çatışma yoğunluğu | 1,57, p = 0,21 | **8,28 [2,34; 29,37], p = 0,001** | **5,02, p = 0,015** (Brunson, Hollanda) | 0,87, p = 0,76 |
+| Çatışma payı | 1,14, p = 0,70 | 3,81, p = 0,068 | 2,71, p = 0,14 | 0,78, p = 0,56 |
+| Goldstein + ton endeksi | 1,72, p = 0,12 | 2,97, p = 0,11 | 4,05, p = 0,018 (Brunson) | 1,22, p = 0,62 |
+
+**Yorum:** Gerginlik, kriz öncesinde tırmanan krizlerde saldırıları önceden gösteriyor, ani krizlerde göstermiyor. Çatışma yoğunluğuyla
+bu fark istatistiksel olarak anlamlı (etkileşim p = 0,001) ve artık iki krize (Brunson, Hollanda) dayanıyor.
+
+**Sınırlılıklar:**
+- Bu ölçü sonuçlar görüldükten sonra, Doğu Akdeniz'deki ölçüm sorunu üzerine eklendi; ön kayıtlı bir analiz değil.
+  Doğu Akdeniz sınıflaması bu ölçüyle de değişmedi.
+- Çatışma yoğunluğu haber hacmine de bağlı; hacmi dışarıda bırakan çatışma payıyla etki aynı yönde ama zayıf
+  (etkileşim p = 0,068). Sinyalin bir kısmı genel medya ilgisinden geliyor olabilir.
+- Tırmanan krizlerde toplam 9 saldırı var; Granger sonuçları birkaç saldırı gününe dayanıyor.
+
 ## Henüz yapılmayanlar
 
 - H3 için kriz dışı dönemlerde de haber taraması
-- H4 bulgusunu GDELT'te tırmanması net ölçülen ikinci bir krizle sınamak; yalnızca çatışma olaylarına dayanan gerginlik ölçüsü denemek
+- H4 bulgusunu önceden belirlenmiş ölçüyle yeni tırmanan krizlerde sınamak
 - İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması
 - CFR Cyber Operations Tracker kayıtlarının elle eklenmesi
 
