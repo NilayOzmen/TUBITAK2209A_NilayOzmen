@@ -57,7 +57,11 @@ python3 src/saglamlik.py
 python3 src/hackmageddon_tum.py
 python3 src/kriz_disi.py
 
-# 6. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
+# 6. Tırmanan kriz örneği: Brunson 2018 (indirmeler için gdelt_indir.py, gkg_siber_haber.py
+#    ve gkg_ceviri_tara.py brunson_2018; olaylar brunson_kodlama.csv'de elle kodlanır)
+python3 src/brunson.py
+
+# 7. Kodlayıcılar arası güvenilirlik (danışman formu doldurduktan sonra)
 python3 src/kappa.py hesapla
 ```
 
@@ -329,10 +333,50 @@ krizlerde geçerli olabilir. Bunu test etmek için `hipotez_testleri.py` H4 böl
 14 günde tırmanma eğilimi yok. H4'ü anlamlı biçimde test etmek için tırmanan krizlerin (ör. 2018 ABD–Brunson krizi, 2020 Doğu
 Akdeniz gerginliği) örnekleme eklenmesi gerekir.
 
+### Tırmanan kriz örneği: 2018 ABD–Türkiye (Brunson) krizi (16.11.2026)
+
+İlk üç kriz ani kriz olduğu için H4'ün erken uyarı mantığı test edilemiyordu. Gerginliğin haftalar içinde tırmandığı Brunson krizi
+eklendi: 26 Temmuz yaptırım tehdidi, 1 Ağustos bakanlara yaptırım, 3 Ağustos Türkiye'nin karşılığı, 10 Ağustos gümrük vergilerinin
+ikiye katlanması. **Kriz tarihi 10 Ağustos 2018** (tepe nokta), 1 Ağustos alternatif. Karşı taraf ABD.
+
+- **Veri:** GDELT olay dosyaları (121 gün), İngilizce GKG (121 gün, 333 aday), Türkçe çeviri katmanı (±14 gün, 444.533 haber, 219 aday),
+  EuRepoC ve Hackmageddon. Ana veri hattı değiştirilmedi; olaylar `data/processed/brunson_kodlama.csv` dosyasında kaynak bağlantıları
+  ve gerekçeleriyle elle kodlandı → `olaylar_brunson_2018.csv` (10 kayıt, 8'i sayıma dahil).
+- **Kodlanan olaylar:** Ayyıldız Tim → Stéphane Bern (FR, 05.08, kriz öncesi); Ayyıldız Tim → Trump şirket siteleri ve NBC muhabiri
+  Peter Alexander (10–12.08); Aslan Neferler Tim → American Federal Bank ve Trump otel siteleri (15–18.08); Ayyıldız Tim → NYT, Bloomberg,
+  Fox gazetecileri (24.08); AsparTim → usfinanceinc.com (24.08); Ayyıldız Tim → Shahid Kapoor (IN, 06.09); Akıncılar → Mısır MENA (11.09);
+  Ayyıldız Tim → Peter King'in kampanya sitesi (05.10). Sayım dışı: Diyarbakır Valisi hesabı ve Mersin SMS saldırısı (fail belirsiz).
+  Doğrulanamayan Lewandowski hesabı haberi kodlanmadı. **Türk gruplarının ABD hedefli saldırılarının çoğu yalnızca Türkçe kaynaklarda var.**
+- **Not:** Ayyıldız Tim'in ABD'li gazetecilerin hesaplarını ele geçirme kampanyası Ocak 2018'den beri sürüyordu; krizden sonraki
+  saldırılar kısmen var olan bir kampanyanın yoğunlaşması. ±60 günlük kriz öncesi pencerede bu kampanyaya ait ABD hedefli kayıt bulunmadı.
+
+| Test | 10 Ağustos | 1 Ağustos (alternatif) |
+|---|---|---|
+| H1 tüm olaylar (önce → sonra, kesin binom) | 1 → 7, p = 0,037 | 0 → 7, p = 0,008 |
+| H1 karşı tarafa (ABD) | 0 → 5, p = 0,033 | 0 → 4, p = 0,065 |
+| H2 Türk hacktivistlerde karşı tarafın payı | 0/1 → 5/7, p = 0,38 | 0/0 → 4/7, test edilemez |
+| H4 Granger, TR–USA endeksi (1 / 2 / 3 gün) | p = 0,009 / 0,030 / 0,070 | p = 0,002 / 0,008 / 0,020 |
+
+**Kriz türü** (`h4_kriz_turu_dort_kriz.csv`; tırmanan = kriz öncesi 14 günde eğim anlamlı pozitif ya da gerginlik önceki döneme göre
+≥ 1 SS yüksek): Rusya −0,66 SS, Hollanda 0,38, Barış Pınarı (TR–SYR) 0,14 → ani; **Brunson 1,55 SS → tırmanan**.
+
+**Havuzlanmış Poisson, dört kriz** (`h4_havuz_dort_kriz.csv`, 472 gün, 20 karşı tarafa saldırı):
+
+| Model | Önceki 1–3 günün gerginliği, IRR (1 SS) | p |
+|---|---|---|
+| Yalnız gecikmeli gerginlik + kriz sabit etkisi | 3,44 [1,65; 7,17] | 0,001 |
+| + aynı günün gerginliği + kriz sonrası kukla | 3,23 [1,25; 8,37] | 0,016 |
+
+Üç ani krizle bu modelde gecikmeli gerginliğin etkisi kriz sonrası kukla eklenince kayboluyordu (p = 0,20). Tırmanan Brunson krizi
+eklenince etki kriz şokundan bağımsız olarak anlamlı kalıyor: gerginlik 1 SS arttığında sonraki günlerde karşı tarafa saldırı
+olasılığı yaklaşık üç kat artıyor. **Yorum:** Gerginlik ölçümü ani krizlerde erken uyarı vermiyor, ama tırmanan krizlerde saldırıları
+1–2 gün önceden haber veriyor. Bu bulgu tek bir tırmanan krize ve 5 saldırı gününe dayanıyor; başka tırmanan krizlerle (ör. 2020 Doğu
+Akdeniz) sınanması gerekir.
+
 ## Henüz yapılmayanlar
 
 - H3 için kriz dışı dönemlerde de haber taraması
-- H4 için tırmanan krizlerin örnekleme eklenmesi
+- H4 bulgusunu ikinci bir tırmanan krizle sınamak (ör. 2020 Doğu Akdeniz)
 - İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması
 - CFR Cyber Operations Tracker kayıtlarının elle eklenmesi
 

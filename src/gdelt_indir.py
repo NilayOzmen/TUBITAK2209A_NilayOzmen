@@ -14,7 +14,7 @@ OUT = ROOT / "data/raw/gdelt"
 OUT.mkdir(parents=True, exist_ok=True)
 
 KRIZLER = {"rusya_2015": date(2015, 11, 24), "hollanda_2017": date(2017, 3, 11),
-           "barispinari_2019": date(2019, 10, 9)}
+           "barispinari_2019": date(2019, 10, 9), "brunson_2018": date(2018, 8, 10)}
 PENCERE = 60
 # GDELT 1.0 sütun indeksleri
 I = dict(id=0, sqldate=1, a1=7, a2=17, root=28, quad=29, goldstein=30,

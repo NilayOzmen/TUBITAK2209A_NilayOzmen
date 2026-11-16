@@ -1,0 +1,221 @@
+Taranan dosya: 2771 | Türkçe haber: 444533 | aday kayıt: 235 | tekil başlık: 219
+Günlük Türkçe 'siber' temalı haber ort.: önce 117.3 → sonra 87.3
+ -14 x1   [tur] fbi tarafindan aranan en tehlikeli 5 hacker h50293
+ -14 x1   [spa] que se sabe sobre energetic bear el grupo de hackers rusos al que acusan de atacar redes en eeuu
+ -13 x1   [tur] hackleyene 100 bin dolar verecek 200073h
+ -13 x1   [tur] haber unlulere santas yapan hacker cetesinin whatsapp 11092758
+ -13 x1   [tur] unlulere santas yapan hacker cetesinin whatsapp 11092758 haberi
+ -13 x2   [tur] iste hackerlarin piskin yazismalari
+ -13 x1   [tur] john mcafee hackleyebilene yuz bin dolar 77246
+ -12 x1   [tur] abd de cezaevindeki suclular tabletleri hackleyerek hesaplarina toplamda 225 000 dolar aktardilar h50650
+ -12 x1   [deu] sonntagspresse uber bahnsignale und hacker 130063
+ -12 x1   [tur] unluler santaj tuzagi kuran hack cetesi 4 bin tl istemis h330153
+ -11 x1   [tur] hackerlarin hedefinde sosyal medya hesaplari var foto galerisi 1892607
+ -10 x1   [tur] 77 milyon dolar calan hackerlardan ilginc taktik 38874
+ -10 x1   [tur] ikea hackleme dosyasi marius tabure
+  -9 x1   [tur] hacker korkusundan daktiloya geri donduler 938590
+  -9 x1   [tur] hackerler bankadan milyonlarca dolar caldi
+  -9 x1   [tur] 2681369 hackerlar bankadan 24 milyon dolar caldi
+  -9 x1   [tur] siber saldiri nedeniyle daktiloya donduler 378098
+  -9 x1   [tur] n258984 hackerlar bankadan 24 milyon dolar caldi! 01082018
+  -9 x1   [tur] hackerlar bankadan 24 milyon dolar caldi 378132
+  -9 x1   [tur] abd ukraynali hacker grubunun uyelerini yakaladi 244411
+  -9 x1   [tur] siber saldiri nedeniyle daktiloya donduler 990845
+  -9 x1   [tur] is e posta hesaplarina siber saldirilar artiyor
+  -9 x1   [tur] siber saldirilar calisanlari daktiloya yoneltti haberi 40132574h
+  -9 x1   [tur] siber saldiri nedeniyle daktiloya donduler,e3GdTbl v0qriQnvtyj6WQ
+  -9 x1   [tur] Cinli hackerlar bu kez geleneksel posta uzerinden saldirdi
+  -9 x1   [tur] dikkat siber saldirilarin hedefi olabilirsiniz
+  -9 x1   [tur] hackerlar bankadan 24 milyon dolar caldi
+  -8 x1   [tur] haber suudi arabistan hac hackathonu ile guinness rekoru kirdi 879193
+  -8 x1   [tur] dunyaca unlu internet sitesi hacklendi h257645
+  -8 x1   [tur] dunyaca unlu internet sitesi hacklendi haberi 4947372
+  -8 x1   [tur] dunyaca unlu internet sitesi hacklendi 991232
+  -8 x2   [tur] abdnin en cok tiklanan web sitelerinden biri olan reddit hacklendi pek cok kullanicinin bilgileri calindi habe
+  -8 x1   [tur] reddit i sms de korumadi hacker lar hesaplara girmeyi basardi 2085919 ekonomi
+  -8 x1   [tur] reddit hacklendi kullanici bilgileri calindi
+  -8 x1   [tur] suudi arabistan hac hackathonu ile guinness rekoru kirdi
+  -8 x1   [tur] populer sosyal haber sitesi reddit hacklendi 38913
+  -8 x2   [tur] Dunyaca unlu internet sitesi hacklendi
+  -8 x1   [tur] hackerlar kuvoze girdi 2033185
+  -8 x1   [tur] hackerlar 24 milyonluk vurgun haberi
+  -8 x1   [tur] abd nin en cok tiklanan web sitelerinden biri olan reddit hacklendi pek cok kullanicinin bilgileri calindi h50
+  -8 x1   [tur] unlu site hacklendi kullanici bilgileri ele gecirildi
+  -8 x1   [tur] reddit hacklendi kullanici bilgileri hackerlarin eline gecti
+  -8 x1   [tur] suudi arabistan hac hackathonu ile guinness rekoru kirdi 4307554 1
+  -7 x1   [tur] 201808031034585208 reddit hacklendi kullanici bilgileri calindi
+  -7 x1   [tur] sosyal haber sitesi hacklendi kullanicilarin bilgileri calindi 991794
+  -7 x1   [tur] siber saldirilardan biktilar daktiloya donduler
+  -7 x1   [tur] reddit hacklendi haberi
+  -6 x1   [tur] sarj adaptoru hacklendi
+  -6 x1   [tur] oy kullanma makineleri 8 yasindakiler tarafindan hackleniyor
+  -6 x1   [tur] diyarbakir valisi guzeloglu nun resmi twitter hesabi hacklendi 4615285
+  -6 x1   [tur] diyarbakir valisinin twitter hesabi hacklendi 11115268 haberi
+  -6 x1   [tur] diyarbakir valisinin twitter hesabi hacklendi 4615289
+  -6 x1   [tur] diyarbakir valisi nin resmi twitter hesabi hacklendi
+  -6 x1   [tur] diyarbakir valisi guzeloglunun resmi twitter hesabi hacklendi 147491
+  -5 x1   [tur] unlulere hacker pencesi
+  -5 x1   [tur] turk hack grubundan macronun dostuna operasyon h426804
+  -5 x2   [tur] Unluler nasil hacklendi 
+  -5 x1   [tur] unluleri bu yontemlerle hacklemisler
+  -5 x1   [ita] ATTACCO HACKER DALLA RUSSIA La manovra pericolosa su Mattarella da scongiurare
+  -5 x1   [tur] diyarbakir valisi guzeloglunun resmi twitter hesabi hacklendi
+  -4 x1   [tur] ingilterede bir hacker Tinderi kullanarak F35e ait gizli bilgilere ulasmaya calisti
+  -4 x1   [tur] f 35 krizi gizli bilgiler tinder uygulamasi uzerinden ele gecirildi
+  -4 x2   [tur] f 35 krizi gizli bilgileri ele gecirildi iddiasi
+  -4 x1   [tur] f 35 krizi gizli bilgiler ele gecirildi iddiasi
+  -4 x1   [tur] tinder da ingiliz kadin pilotla tanisan bir hacker f 35 lere ait gizli bilgileri ele gecirdi h98104
+  -4 x1   [tur] singapurda saglik sistemine siber saldiri 4314736 1
+  -4 x1   [tur] singapur da saglik sistemine siber saldiri 11119227 haberi
+  -4 x1   [tur] singapurda saglik sistemine siber saldiri 1460868h
+  -4 x1   [tur] f 35 krizi gizli bilgileri ele gecirildi iddiasi 1894416h
+  -4 x1   [tur] f 35lerin sirlari hacklendi 3388271
+  -4 x1   [tur] f 35 krizi gizli bilgileri ele gecirildi iddiasi haberi 373792
+  -4 x1   [tur] f35 krizi gizli bilgileri ele gecirildi iddiasi
+  -4 x1   [tur] bir kadin pilotun tinder hesabi f 35 in sirlarinin calinmasi amaciyla hacklendi h51112
+  -4 x1   [tur] 201808061034630082 tinder ingiliz kadin pilot hacker f35
+  -4 x1   [tur] 2685105 f 35 krizi gizli bilgiler ele gecirildi iddiasi
+  -4 x1   [tur] devlet baglantili bilgisayar korsanlarindan saglik sistemine siber saldiri 62964
+  -4 x1   [tur] 2685105 f 35 krizi gizli bilgileri ele gecirildi iddiasi
+  -4 x1   [tur] tinderda ingiliz kadin pilotla tanisan bir hacker f 35lere ait gizli bilgileri ele gecirdi
+  -4 x1   [tur] tinderda ingiliz kadin pilotla tanisan bir hacker f35lere ait gizli bilgileri ele gecirdi haber 1372481
+  -4 x1   [tur] turkiye yi hedef alan siber saldirilarla ilgili onemli istatistikler aciklandi 469617
+  -3 x1   [tur] ingilterede skandal tinderdan f 35lere ait gizli bilgileri ele gecirdi
+  -3 x1   [tur] ingiltere kraliyet hava kuvvetlerinde rus hacker krizi 379002
+  -2 x1   [tur] ikea hackleme dosyasi tarva ve rast s fonyer
+  -1 x1   [tur] arastirmacilar whatsapp sifrelemesini cokertti 77486
+  -1 x1   [tur] whatsapp ta hacker tehlikesi
+  -1 x2   [tur] arastirmacilar whatsapp sifrelemesini cokertti 900205
+  +0 x1   [tur] 54008 hackerlar nintendo switch teki vr modunu ortaya cikartti
+  +0 x1   [tur] donald trumpa hack soku 504016
+  +0 x1   [tur] turk hacker grubundan trumpa misilleme 1895627h
+  +1 x1   [tur] hackerlar modemlere el atti sizin modeminiz de risk altinda olabilir 504206
+  +1 x1   [tur] turk hacker grubu abdyi sallamaya devam ediyor 1895800h
+  +1 x1   [tur] 2688882 lewandowskinin hesabi hacklendi turk bayragi
+  +2 x1   [tur] hackerlerin kotu amacli faaliyetlerini boyle desifre ettiler haber 1015593
+  +2 x1   [tur] sesle yetkilendirme sistemleri hacklendi
+  +3 x1   [tur] sarj cihazindan hacklenmek de mumkunmus 77520
+  +3 x1   [tur] fbi hackerlarin dunya capinda tum atm lere saldiri duzenleyebilecegini acikladi h51491
+  +3 x1   [ces] hackeri mohou zautocit na firemni site skrz faxy
+  +3 x1   [tur] Hackerlar faks makineleri uzerinden siber saldiri duzenleyebilir
+  +3 x1   [spa] hackers turcos toman twitter de periodista de nbc
+  +4 x1   [tur] haber banka musterilerini dolandiran cete cokertildi 39 11144168
+  +4 x1   [tur] turk hackerlar american federal banki hackledi haber 129491
+  +4 x1   [tur] mcafee nin hacklenemez olarak tanittigi bitfi ucuncu kez hacklendi 39092
+  +4 x1   [tur] sahte cagri merkezi kurarak dolandiricilik yapan cete cokertildi 380050
+  +4 x1   [tur] Uydu sistemleri hackerlara davetiye cikariyor
+  +4 x1   [tur] florida da 11 yasinda bir cocuk 10 dakikada secim sistemini ele gecirdi h51517
+  +4 x1   [tur] banka musterilerini dolandiran cete cokertildi 39 gozalti n351879
+  +4 x1   [tur] fbi hackerlar kuresel capta bir atm saldirisi duzenleyebilir 39096
+  +4 x1   [tur] elektronik sigara bagisiklik sitemini cokertiyor galeri 129481
+  +4 x1   [tur] banka musterilerini dolandiran cete cokertildi 39 11144168 haberi
+  +5 x1   [tur] hintli banka siber saldirida 135 milyon dolar kaybetti
+  +5 x1   [tur] instagramda gizemli hack silsilesi 77581
+  +5 x1   [tur] 2691756 uydu sistemleri hackerlara davetiye cikariyor
+  +5 x1   [tur] unlulere santaj yaparak dolandiran hackerlar hakim karsisina cikti
+  +5 x1   [tur] turk hacker grubundan abdye buyuk saldiri
+  +5 x1   [tur] turk hackerlar abdnin kabusu oldu haberi 40133916h
+  +5 x1   [tur] tuhaf bir instagram hack dalgasi kullanici hesaplarini ele geciriyor h51598
+  +5 x1   [tur] abd nin secimleri 11 yasindaki cocuk tarafindan hacklendi
+  +5 x1   [tur] 11 yasindaki cocuk abd secim sistemini 10 dakikadahackledi,INQTCNU7iUu4WNEo4w2qRA
+  +5 x1   [tur] abd secim sistemini 10 dakikada hackledi 202031h
+  +5 x1   [tur] 201808151034768456 11yasindaki cocuk abd secim sistemi sitesinin bir kopyasini hackledi
+  +5 x1   [tur] abdnin secimleri 11 yasindaki cocuk tarafindan hacklendi
+  +5 x1   [tur] abdnin secimleri 11 yasindaki cocuk hackledi haberi
+  +5 x1   [tur] hackerlar instagram i hedef aldi 39125
+  +5 x1   [tur] instagram hesaplari gizemli bir sekilde ele gecirilmeye baslandi
+  +5 x1   [tur] haber turk hacker grubu amerikan federal bankasi nin 11148058
+  +5 x1   [tur] ekonomi savasina turk hackerlar da katildi
+  +5 x1   [zho] instagram users accounts reportedly being hijacked in spreading hack
+  +5 x1   [tur] instagram hesaplari gizemli bir sekilde ele gecirilmeye baslandi 168474h
+  +5 x1   [tur] turk hacker grubu amerikan federal bankasi nin 11148058 haberi
+  +5 x1   [tur] unlu isimlere santaj yapan hackerlar hakim karsisinda her sey whatsapp grubunda basladi 2038796
+  +5 x1   [tur] unlu isimlere santaj yapan hackerlar hakim karsisinda 1191203 gundem
+  +5 x1   [tur] unlu isimlere santaj yapan hackerlar hakim karsisinda 189499 mymagazin
+  +5 x1   [tur] unlu isimlere santaj yapan hackerlar hakim karsisinda 2104648
+  +5 x2   [tur] Unlu isimlere santaj yapan hackerlar hakim karsisinda 
+  +5 x1   [tur] unlu isimlere santaj yapan hackerlar hakim karsisinda istanbul 2085975
+  +5 x1   [tur] kucuk cocuk abd secim sistemini 10 dakika icinde hackledi
+  +6 x1   [tur] applein guvenlik dosyalari 16 yasindaki bir hacker tarafindan calindi h51700
+  +6 x1   [tur] hackerlar istanbulda yarisacak n352309
+  +6 x1   [tur] hayat kurtaran cihazlar hacklenebiliyor 77553
+  +6 x1   [tur] hackerlar istanbul da yarisacak 4634033
+  +6 x1   [tur] hackerlar istanbul da yarisacak 998036
+  +6 x1   [tur] 132 ulkeden binlerce hacker hackstanbul 2018 yarismasinda bir araya gelecek 157323
+  +6 x1   [tur] 132 ulkeden binlerce hacker hackistanbul 2018 11153525 haberi
+  +6 x1   [tur] 11 yasindaki cocuk secim sistemini hackledi h102686
+  +6 x1   [tur] turk hackerlar trumpi hackledi
+  +6 x1   [tur] pkk li hackerlar kamu hattini ele gecirip mesaj yayinladilar
+  +6 x1   [tur] instagramdaki guvenlik acigi kullanicilarin hacklenmesine neden oldu
+  +6 x1   [tur] unluleri hackleyen cete yargi onunde
+  +6 x1   [tur] unlu isimlere santaj yapan hackerlar hakim karsisinda 97206h
+  +6 x1   [tur] binlerce hacker istanbula geliyor 2039218
+  +6 x1   [tur] 201808161034791689 hackr kiev donbass radyoaktif atiklar zehirleme plani
+  +7 x1   [spa] 276045 computadora phishing tecnologia Como un joven de 16 anos pudo hackear uno de los servidores internos de
+  +7 x1   [tur] 16 yasindaki liseli cocuk applei hackledi 168598h
+  +7 x1   [tur] 16 yasindaki lise ogrencisi applei hackledi
+  +7 x1   [nld] account mogelijk gehackt voor beledigen erdogan
+  +7 x1   [tur] apple 16 yasindaki cocuk tarafindan hacklendi haber 130255
+  +7 x1   [tur] 16 yasindaki liseli applei hackledi
+  +7 x1   [tur] 16 yasindaki avusturalyali genc applein ana bilgisayarini hackledi haberi
+  +7 x1   [spa] 276045 computadora phishing tecnologia Un adolescente hackea la red de Apple y roba 90 GB de datos
+  +7 x1   [tur] 201808171034800335 16yasiindaki avustralyali genc apple ana sistem hackledi
+  +7 x2   [tur] avustralyada 16 yasindaki lise ogrencisi applein ana sistemini hackledi 902677
+  +7 x1   [tur] apple 16 yasindaki liseli tarafindan hacklendi haberler korkuttu 2580564
+  +7 x1   [tur] Apple 16 yasindaki bir genc tarafindan hacklendi
+  +7 x1   [spa] adolescente australiano hackea apple roba datos
+  +7 x1   [tur] apple hack skandali ile gundemde
+  +7 x1   [tur] haber hackerler kurban bayraminda saldirilar icin firsat kolluyor
+  +7 x1   [tur] hackerler kurban bayrami nda saldirilar izmir yerelhaber 2985724
+  +7 x1   [tur] hackerler kurban bayraminda saldirilar icin firsat kolluyor 157955
+  +7 x1   [tur] haber hackerler kurban bayraminda saldirilar icin firsat kolluyor 738371
+  +7 x1   [tur] 16 yasindaki genc applein ana guvenlik dosyalarini hackledi 222163
+  +7 x2   [tur] 16 yasindaki lise ogrencisi Apple in ana sistemini hackledi
+  +7 x1   [tur] 16 yasindaki lise ogrencisi apple in ana sistemini hackledi 998538
+  +7 x1   [tur] 16 yasindaki avustralyali lise ogrencisi apple in ana sistemini hackledi h99342
+  +7 x1   [spa] un adolescente australiano hackea la red de apple y roba 90 gigas de datos
+  +7 x1   [tur] hackerler kurban bayrami nda saldirilar icin 11156068 haberi
+  +7 x1   [tur] hackerler saldirilar icin firsat kolluyor 301104
+  +7 x1   [tur] instagramda gizli hacker tehlikesi 97250h
+  +7 x1   [tur] lise ogrencisi applei hackledi 3390487
+  +8 x1   [tur] apple 16 yasindaki liseli tarafindan hacklendi 202333h
+  +8 x2   [tur] Bayram tatilinde hacker kurbani olmayin
+  +8 x1   [tur] 16 yasindaki cocuk apple yi hackledi h102720
+  +8 x1   [tur] abd bankalari turk hackerlerin hedefinde 506972
+  +8 x1   [tur] ak parti genclik ve basbakanlik siteleri cokertildi mi
+  +8 x1   [tur] 16 yasindaki liseli apple i hackleyerek 90 gb lik veri caldi 39191
+  +9 x1   [tur] liseli ogrenci applei hackledi 5b78f2e38ca78015af4eaad2
+  +9 x1   [tur] liseli ogrenci apple i hackledi h258870
+ +10 x1   [tur] lise ogrencisi applei hackledi 90 gb veri caldi foto galerisi 1897799
+ +11 x1   [tur] microsoft rusyanin siber saldirida bulundugunu iddia etti haberi 425794
+ +11 x1   [tur] microsoft rus hacker grubu suslu ayilari 11167731 haberi
+ +11 x1   [tur] rusya abd arasinda hacker krizi
+ +11 x1   [deu] russische hacker nehmen denkfabriken der us republikaner ins visier
+ +11 x1   [tur] microsoft rus hacker grubu suslu ayi yi engelledik abd de muhafazakar gruplardan bilgi calamadilar h99785
+ +11 x1   [tur] microsoft rusyanin siber saldirida bulundugunu iddia etti 160931
+ +11 x1   [tur] microsoft rusyanin siber saldirida bulundugunu iddia etti
+ +11 x1   [tur] microsoft rusyanin siber saldirida bulundugunu iddia etti n352917
+ +11 x1   [deu] internet microsoft stoppt bevorstehende hacker attacke auf us senat
+ +11 x2   [tur] microsoft rusyanin siber saldirida bulundugunu iddia etti,r UFkFRkTE tc3WyeDVWUA
+ +11 x1   [tur] kremlinden siber saldiri yaniti microsoft hangi hackerlardan bahsediyor 245849
+ +11 x1   [deu] internet microsoft durchkreuzt hacker attacke auf us senat
+ +11 x1   [tur] microsoft rus hacker saldırısını önledi
+ +11 x1   [tur] kremlin den yanit hangi hackerlardan bahsediyorsunuz 999655
+ +11 x1   [tur] kremlinden microsofta yanit hangi hackerlar 1898023h
+ +11 x2   [tur] microsoft abdde bazi muhafazakar gruplardan bilgi calmaya calisan rus hackerlari engelledik 903538
+ +11 x1   [tur] kremlin den microsoft a yanit hangi hackerlardan bahsediyorsunuz 2113324 ekonomi
+ +11 x2   [ron] kremlinul nu intelege acuzatiile microsoft despre hackeri rusi care au vizat think tank uri americane 784397
+ +11 x1   [tur] microsoft rus hacker grubu suslu ayilari engelledik 40934494
+ +11 x3   [tur] Microsoft Rus hacker grubu Suslu Ayilari engelledik ABD de muhafazakar gruplardan bilgi calamadilar
+ +12 x1   [tur] android cihazlarda tespit edilen yeni bir kotu amacli yazilim kisisel bilgilerinizi ele geciriyor h51987
+ +12 x1   [tur] rusya dan hacker saldirisi dunya 2728744
+ +12 x1   [tur] microsoft rusya siber saldiri gerceklestirdi 5b7cf8718ca78038864452e2
+ +12 x1   [tur] microsoft rusya nin siber saldirida bulundugunu 11168669 haberi
+ +12 x1   [tur] microsoft rusyanin siber saldirida bulundugunu iddia etti 922910h
+ +12 x1   [tur] avustralyali hackera hapis cezasi
+ +12 x1   [tur] haber microsoft rusyanin siber saldirida bulundugunu iddia etti
+ +12 x2   [tur] haber microsoft rusyanin siber saldirida bulundugunu iddia etti 738852
+ +13 x1   [tur] apple hackerina hapis cezasi 110104350236
+ +13 x1   [tur] apple hackerina hapis cezasi 5b7e02e18ca78019d04ac2e2
+ +13 x1   [tur] hacklendiginizi ya da izlendiginizi nasil anlarsiniz
+ +14 x1   [tur] abdli finans kurulusuna turk hacker imzasi 508775
