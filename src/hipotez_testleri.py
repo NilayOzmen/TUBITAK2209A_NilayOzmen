@@ -1,4 +1,4 @@
-"""Pilot veri seti (olaylar_v03.csv) üzerinde H1–H4 testleri.
+"""Pilot veri seti (olaylar_v04.csv) üzerinde H1–H4 testleri.
 
 H1: Günlük olay sayısı ~ kriz sonrası + kriz sabit etkileri  (Poisson GLM, kesintili zaman serisi)
     Ana model seviye değişimini ölçer; ek model eğim değişimini de içerir.
@@ -246,7 +246,7 @@ def h4(s):
 
 
 def main():
-    d = pd.read_csv(P / "olaylar_v03.csv")
+    d = pd.read_csv(P / "olaylar_v04.csv")
     s = d[d.sayima_dahil == "evet"].copy()
     panel = gunluk_panel(s)
     panel.to_csv(P / "gunluk_panel.csv", index=False)

@@ -105,7 +105,7 @@ def gunluk(d):
 
 
 def dogrulama(d):
-    v = pd.read_csv(P / "olaylar_v03.csv")
+    v = pd.read_csv(P / "olaylar_v04.csv")
     v = v[(v.sayima_dahil == "evet") & ~v.kaynak.str.contains("haber") & (v.aktor_turu == "hacktivist")]
     satir = []
     for k, t in KRIZ.items():

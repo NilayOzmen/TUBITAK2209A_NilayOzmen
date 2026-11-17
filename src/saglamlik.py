@@ -4,7 +4,7 @@ Yöntem bölümündeki taahhüt: analizler 30 ve 90 günlük pencerelerle ve kri
 kaydırılarak tekrarlanacak.
 
 Senaryolar
-  1. Pencere uzunluğu: ±30, ±45, ±60 gün (ana veri seti olaylar_v03.csv, ±60 günü kapsar).
+  1. Pencere uzunluğu: ±30, ±45, ±60 gün (ana veri seti olaylar_v04.csv, ±60 günü kapsar).
   2. Kriz tarihi kaydırma: −7, 0, +7 gün. Kaydırınca pencere veri dışına taşmasın diye ±53 gün kullanılır.
   3. ±90 gün: Haber taraması yalnızca ±60 (İngilizce) ve ±14 gün (Türkçe) için yapıldığından bu senaryoda
      yalnızca veri tabanı kaynakları (EuRepoC + Hackmageddon) kullanılır ve aynı kaynaklarla ±60 gün sonucu
@@ -86,7 +86,7 @@ def bant_olaylari():
 
 
 def main():
-    d = pd.read_csv(P / "olaylar_v03.csv")
+    d = pd.read_csv(P / "olaylar_v04.csv")
     s = d[d.sayima_dahil == "evet"].copy()
     sonuc = []
     for w in [30, 45, 60]:

@@ -35,9 +35,9 @@ python3 src/eurepoc_turkiye.py        # EuRepoC'den Türkiye'yi içeren olaylar
 python3 src/hackmageddon_indir.py     # Hackmageddon zaman çizelgeleri
 python3 src/gdelt_indir.py            # GDELT olay dosyaları (~6 GB indirilir, 168 MB saklanır)
 python3 src/gkg_siber_haber.py        # İngilizce siber saldırı haberleri (GDELT GKG)
-python3 src/gkg_ceviri_tara.py barispinari_2019   # Türkçe haberler (GDELT çeviri katmanı), kriz ±14 gün
-python3 src/gkg_ceviri_tara.py rusya_2015
-python3 src/gkg_ceviri_tara.py hollanda_2017
+python3 src/gkg_ceviri_tara.py barispinari_2019 60   # Türkçe haberler (GDELT çeviri katmanı), kriz ±60 gün
+python3 src/gkg_ceviri_tara.py rusya_2015 60          # (kriz başına ~11.600 dosya, ~1 saat; ikinci argüman
+python3 src/gkg_ceviri_tara.py hollanda_2017 60       #  verilmezse ±14 gün; indirilmiş dosyalar atlanır)
 
 # 2. Süzme (sonrasında aday listeleri elle incelenir)
 python3 src/gkg_aday.py
@@ -46,7 +46,8 @@ python3 src/gkg_ceviri_aday.py barispinari_2019   # rusya_2015 ve hollanda_2017 
 # 3. Birleştirme, kodlama ve analiz
 python3 src/birlestir.py
 python3 src/gdelt_gerginlik.py
-python3 src/pilot_analiz.py
+python3 src/pilot_analiz.py          # olaylar_v03.csv
+python3 src/tarama121.py             # v03 + tarama121_kodlama.csv → olaylar_v04.csv (ana veri seti)
 python3 src/hipotez_testleri.py
 
 # 4. Sağlamlık analizleri
@@ -472,8 +473,56 @@ bu fark istatistiksel olarak anlamlı (etkileşim p = 0,001) ve artık iki krize
   (etkileşim p = 0,068). Sinyalin bir kısmı genel medya ilgisinden geliyor olabilir.
 - Tırmanan krizlerde toplam 9 saldırı var; Granger sonuçları birkaç saldırı gününe dayanıyor.
 
+### Türkçe taramanın 121 güne genişletilmesi ve v04 (17.11.2026)
+Önerideki 1. hedef doğrultusunda GDELT çeviri katmanı taraması üç ana krizin ±60 gününe genişletildi
+(kriz başına 11.616 dosya; Rusya 4,1 milyon, Hollanda 2,9 milyon, Barış Pınarı 1,8 milyon Türkçe haber).
+Tarama betiği tek geçişte arama yapacak biçimde hızlandırıldı; eski yöntemle aynı çıktıyı verdiği bir dosya
+üzerinde doğrulandı.
+
+- Aday başlıklar (Rusya 2.779, Hollanda 2.431, Barış Pınarı 757 tekil başlık) önce saldırı fiili + taraf
+  (ülke ya da bilinen Türk grubu) süzgecinden geçirildi, aynı haberin kopyaları birleştirildi; ±14 gün dışındaki
+  adaylar okunup önemli olanların haber metni açıldı. Süzgecin dışında kalan başlıklar da ayrıca gözden geçirildi.
+- **GDELT tarih uyarısı:** Çeviri katmanı bazı eski haberleri geç taradığı için tarihleri yanlış gösterebiliyor
+  (ör. "Türk hackerlardan büyük saldırı" 2011, RedHack–YÖK belgeleri 2013 haberi çıktı). Bu yüzden her yeni
+  olayın tarihi haber kaynağından doğrulandı.
+- **Yeni olaylar (14):** Rusya: Türk Hack Team "Vatan Operasyonu" (28.09.2015, ~4.100 site), Cyber Warrior
+  Akıncılar → Rusya Parlamentosu ve İçişleri Bakanlığı (02.01.2016), Yaşartim → Barış İçin Akademisyenler sitesi
+  (14.01.2016), Türk Hack Team → Russian Standard Bank ve Alfa-Bank (19.01.2016). Hollanda: Ayyıldız Tim → Hammer
+  Films (17.01.2017), Turkz → İran Kültür ve Turizm Bakanlığı (26.01.2017), Türk Hack Team → Fitch (08.02.2017),
+  Turkz → Almanya ve Hollanda'da 100+ site (20.02.2017, kriz öncesi), Aslan Neferler Tim → Zürih Havalimanı ve 24
+  İsviçre sitesi (27.03.2017), Ayyıldız Tim → Hüsnü Bozkurt'un Twitter hesabı (04.04.2017), Peter Pilz'in sitesi
+  (22.04.2017, saldırgan belirsiz, sayım dışı). Barış Pınarı: RootAyyıldız → Laos Cumhurbaşkanlığı (14.08.2019) ve
+  Hindistan Bihar Eğitim Bakanlığı (18.08.2019), Mardin Life gazetesi (13.09.2019, saldırgan belirsiz, sayım dışı).
+- **Mevcut kayıtlara bağlananlar (3, mükerrer kuralı):** Ayyıldız Tim'in 19 bin Rus vatandaşının bilgileri ve
+  S7 Havayolları saldırısı RUS-40'a (tarih 26.12.2015'e çekildi); RedHack'in 24.12.2015 banka saldırısını
+  üstlenmesi RUS-37'ye eklendi.
+- v03'teki olay numaraları korundu (ikinci kodlayıcı formu bunlara dayanıyor). `olaylar_v04.csv`: 63 kayıt,
+  37'si sayıma dahil (v03: 49 / 25). Kodlama: `data/processed/tarama121_kodlama.csv`.
+
+**Sonuçlar (v04; v03 karşılığı parantez içinde):**
+
+| Test | v04 | v03 |
+|---|---|---|
+| H1, tüm olaylar (önce→sonra) | 13→24, IRR 1,82 [0,92; 3,57], p = 0,083 | 6→19, IRR 3,11, p = 0,015 |
+| H1, karşı tarafla ilgili olaylar | 2→16, IRR 7,87 [1,81; 34,22], p = 0,006 | 1→14, IRR 13,77, p = 0,011 |
+| H2, karşı tarafı hedef alma payı | 2/12 → 16/22, Fisher p = 0,002 | 1/5 → 14/17, p = 0,021 |
+| H4 (Granger) | değişmedi (karşı tarafa yönelik günlük seriler büyük ölçüde aynı) | |
+| Kriz dışı karşılaştırma | değişmedi (yalnız Hackmageddon'a dayanıyor): kriz sonrası IRR 4,29, p = 0,001 | |
+
+Yorum: v03'te Türkçe tarama yalnızca krizin ±14 gününü kapsıyordu; kriz tarihine yakın günler daha yoğun
+aranmış oluyordu. 121 günlük taramayla arama yoğunluğu pencere boyunca eşitlendi. Bunun sonucunda **toplam**
+saldırı sayısındaki artış zayıfladı ve 0,05 düzeyinde anlamlılığını yitirdi; buna karşılık **krizin karşı tarafına
+yönelik** saldırılardaki artış ve hedef kayması (H2) güçlendi. Bulgu şöyle özetlenebilir: krizler Türk
+hacktivistlerinin toplam faaliyetini sınırlı ölçüde artırıyor, asıl etkisi faaliyeti krizin karşı tarafına
+yöneltmesi. Tek tip kaynağa dayanan kriz dışı karşılaştırma (Hackmageddon) kriz sonrası artışı göstermeye devam
+ediyor. Sağlamlık tablosu (`saglamlik.csv`) da v04 ile yenilendi: karşı tarafa yönelik saldırılar ±45 ve ±60
+pencerelerinde, kriz tarihini 7 gün geri almada ve Hollanda ya da Barış Pınarı çıkarıldığında anlamlı; ±30 gün
+penceresinde, tarih 7 gün ileri alındığında ve Rusya krizi çıkarıldığında (p = 0,10) anlamlı değil. Yani sonuç
+en çok Rusya krizine dayanıyor.
+
 ## Henüz yapılmayanlar
 
+- Brunson ve Doğu Akdeniz krizlerinde Türkçe taramanın ±60 güne genişletilmesi (tarama betiği hazır)
 - H3 için kriz dışı dönemlerde de haber taraması
 - H4 bulgusunu önceden belirlenmiş ölçüyle yeni tırmanan krizlerde sınamak
 - İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması
