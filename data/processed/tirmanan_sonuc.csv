@@ -1,5 +1,7 @@
 kriz,kriz_tarihi,olay_once,olay_sonra,p_olay,ikili_once,ikili_sonra,p_ikili,h2_once,h2_sonra,p_h2
 brunson_2018,ana (2018-08-10),1,7,0.037,0,5,0.0326,0/1,5/7,0.375
 brunson_2018,alternatif (2018-08-01),0,7,0.0083,0,4,0.0646,0/0,4/7,test edilemez
-dogu_akdeniz_2020,ana (2020-08-10),2,6,0.15,1,6,0.0653,0/1,4/4,0.2
-dogu_akdeniz_2020,alternatif (2020-08-12),2,6,0.15,1,6,0.0653,0/1,4/4,0.2
+brunson_2018,"ana, tek kaynaklılar hariç (2018-08-10)",1,6,0.0653,0,4,0.0646,0/1,4/6,0.4286
+dogu_akdeniz_2020,ana (2020-08-10),3,7,0.1787,1,7,0.037,0/2,5/5,0.0476
+dogu_akdeniz_2020,alternatif (2020-08-12),3,7,0.1787,1,7,0.037,0/2,5/5,0.0476
+dogu_akdeniz_2020,"ana, tek kaynaklılar hariç (2020-08-10)",1,5,0.1133,0,5,0.0326,0/1,5/5,0.1667

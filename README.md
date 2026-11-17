@@ -520,9 +520,55 @@ pencerelerinde, kriz tarihini 7 gün geri almada ve Hollanda ya da Barış Pına
 penceresinde, tarih 7 gün ileri alındığında ve Rusya krizi çıkarıldığında (p = 0,10) anlamlı değil. Yani sonuç
 en çok Rusya krizine dayanıyor.
 
+### Brunson ve Doğu Akdeniz: Türkçe taramanın 121 güne genişletilmesi (18.11.2026)
+Aynı tarama iki tırmanan kriz örneği için de ±60 güne genişletildi (Brunson 2,0 milyon, Doğu Akdeniz 1,8 milyon
+Türkçe haber). Yeni kayıtlar `brunson_kodlama.csv` ve `dogu_akdeniz_kodlama.csv` dosyalarına eklendi:
+
+- Brunson: Vakıf Katılım Bankası sitesindeki döviz kurlarının değiştirilmesi (10.09.2018, saldırgan belirsiz, sayım
+  dışı). "Türk hacker grubu Yunanistan Cumhurbaşkanlığı sitesini hackledi" (25.08.2018) haberinin sayfası artık
+  açılmıyor ve başka kaynakta doğrulanamadı; eklenmedi. Yeni sayılan olay yok.
+- Doğu Akdeniz: Ayyıldız Tim → Yunanistan Ekonomi ve Kalkınma Bakanlığı (03.09.2020, kriz ikilisi), RedHack →
+  Güzelyurt ve Susuz belediyeleri (01.07.2020, Türkiye içi), Güney Ege Bölge Başkanlığı sitesi (12.06.2020, saldırgan
+  adlandırılmamış, sayım dışı). "Türk hackerlar Yunanistan Çevre ve Enerji Bakanlığı'nı hackledi" (06.09.2020) haberi
+  doğrulanamadı; eklenmedi.
+
+Sonuçlar (`tirmanan_sonuc.csv`, `h4_*_bes_kriz.csv`, `h4_catisma_*.csv`; önceki değer parantez içinde):
+- Doğu Akdeniz H1 tüm olaylar 3→7, p = 0,18; karşı tarafla ilgili 1→7, p = 0,037; H2 0/2 → 5/5, p = 0,048.
+  Brunson değişmedi (1→7, p = 0,037; karşı tarafla ilgili 0→5, p = 0,033).
+- Havuzlanmış H4, Goldstein–ton endeksi, beş kriz: IRR 2,65, p = 0,002; yalnız tırmanan (Brunson) 5,24, p = 0,018;
+  yalnız ani 1,93, p = 0,15.
+- Çatışma yoğunluğu ölçüsü: etkileşim (gecikmeli gerginlik × tırmanan) 4,45, p = 0,005 (8,28, p = 0,001); yalnız
+  tırmanan krizler 2,78, p = 0,074 (5,02, p = 0,015); yalnız ani krizler 0,86, p = 0,72. Tırmanan krizlerdeki etki
+  Hollanda'ya kriz öncesi eklenen Turkz saldırısı (20.02.2017) nedeniyle zayıfladı; ani ve tırmanan krizler arasındaki
+  fark anlamlı kalıyor.
+
+**Hedef 1 durumu:** Önerideki üç kriz için 63 kayıt (37'si sayıma dahil); hedef en az 80 olay. İki tırmanan krizle
+birlikte toplam 86 kayıt var. Öneri metnine göre tek kaynakta geçen olaylar yalnızca duyarlılık analizinde
+kullanılacak; şu ana kadar tek kaynaklı hacktivist olaylar notla sayıma alındı (ör. AsparTim, Hammer Films, Laos).
+Bu tutarsızlığın giderilmesi gerekiyor (aşağıda).
+
+### Tek kaynaklı olaylar ve duyarlılık analizi (18.11.2026)
+Öneri metni tek kaynakta geçen olayların yalnızca duyarlılık analizinde kullanılacağını söylüyor; kodlamada ise
+tek kaynaklı hacktivist olaylar notla sayıma alınmıştı. Tutarlılık için kural kılavuza yazıldı (bölüm 6.1):
+tek kaynaklı olaylar ana analizde kalıyor, `tek_kaynak.csv` dosyasında gerekçeleriyle listeleniyor ve sağlamlık
+analizinde dışarıda bırakılıyor. Sayıma dahil haber kaynaklı olaylar Türkçe ve İngilizce aday listelerinde
+olay başına aranarak kaç farklı sitede geçtiği sayıldı; 10 olay tek kaynaklı çıktı (üç ana krizde 5: Laos,
+Turkz → PKK yanlısı hesaplar, Hammer Films, Turkz → İran, Turkz → Ermenistan Parlamentosu; Brunson'da AsparTim;
+Doğu Akdeniz'de ANT → American Federal Bank ve Greek City Times'ın tek kaynak olduğu üç Anonymous Greece saldırısı).
+
+| Senaryo (±60 gün, üç ana kriz) | Tüm olaylar | Karşı tarafla ilgili | H2 |
+|---|---|---|---|
+| Ana analiz | 13→24, IRR 1,82, p = 0,083 | 2→16, IRR 7,87, p = 0,006 | 2/12 → 16/22, p = 0,002 |
+| Tek kaynaklılar hariç | 9→23, IRR 2,51, p = 0,019 | 2→15, IRR 7,38, p = 0,008 | 2/8 → 15/21, p = 0,033 |
+
+Tek kaynaklı olayların çoğu kriz öncesine düştüğü için bunlar çıkarılınca toplam artış yeniden anlamlı oluyor;
+karşı tarafa yönelik artış ve hedef kayması her iki durumda da anlamlı. Tırmanan krizlerde (`tirmanan_sonuc.csv`):
+Brunson karşı tarafla ilgili 0→4, p = 0,065 (ana analizde 0→5, p = 0,033); Doğu Akdeniz 0→5, p = 0,033 (1→7,
+p = 0,037). H4 serileri bu senaryoda yeniden hesaplanmadı.
+
 ## Henüz yapılmayanlar
 
-- Brunson ve Doğu Akdeniz krizlerinde Türkçe taramanın ±60 güne genişletilmesi (tarama betiği hazır)
+- H4 için tek kaynaklı olaylar hariç duyarlılık analizi
 - H3 için kriz dışı dönemlerde de haber taraması
 - H4 bulgusunu önceden belirlenmiş ölçüyle yeni tırmanan krizlerde sınamak
 - İkinci kodlayıcının (danışman) formu doldurması ve Kappa'nın hesaplanması

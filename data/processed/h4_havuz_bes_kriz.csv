@@ -1,6 +1,6 @@
 model,katsayi,irr,ga_alt,ga_ust,p,n_gun,saldiri
-gecikmeli + kriz sabit etkisi,gecikme_1_3,2.57,1.35,4.9,0.004,590,27
-+ aynı gün + kriz sonrası,gecikme_1_3,2.04,0.89,4.67,0.0933,590,27
-+ etkileşim: gecikmeli × tırmanan,gecikme_1_3:tirmanan,3.53,0.71,17.6,0.124,590,27
+gecikmeli + kriz sabit etkisi,gecikme_1_3,2.65,1.44,4.87,0.0017,590,31
++ aynı gün + kriz sonrası,gecikme_1_3,2.55,1.18,5.52,0.0174,590,31
++ etkileşim: gecikmeli × tırmanan,gecikme_1_3:tirmanan,2.98,0.65,13.72,0.162,590,31
 yalnız tırmanan krizler (+ aynı gün + kriz sonrası),gecikme_1_3,5.24,1.33,20.61,0.0177,118,5
-yalnız ani krizler (+ aynı gün + kriz sonrası),gecikme_1_3,1.33,0.5,3.53,0.5723,472,22
+yalnız ani krizler (+ aynı gün + kriz sonrası),gecikme_1_3,1.93,0.79,4.7,0.149,472,26

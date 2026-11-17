@@ -1,0 +1,11 @@
+olay_id,kriz,kaynak_url,gerekce
+BAR-13,barispinari_2019,http://www.habervitrini.com/turk-hackerden-komunist-ulkeye-sok/979709,Yalnızca habervitrini.com; Türkçe ve İngilizce taramada başka haber yok
+BAR-06,barispinari_2019,http://www.habervitrini.com/pkkya-turk-hacker-soku-hesaplari-ele-gecirildi/985783,Yalnızca habervitrini.com
+HOL-29,hollanda_2017,https://www.tgrthaber.com/teknoloji/ayyildiz-tim-hammer-filmsi-hackledi-159888,Yalnızca TGRT Haber
+HOL-30,hollanda_2017,http://www.yeniakit.com.tr/haber/turkz-hacker-grubundan-irana-sok-belgeleri-ele-gecirdiler-268260.html,Yalnızca Yeni Akit; bilgiler grubun iddiasına dayanıyor
+HOL-16,hollanda_2017,http://www.yeniakit.com.tr/haber/turk-hackerlardan-ermenistana-hocali-soku-bilgi-ve-yazismalari-ele-gecirildi-283890.html,Yalnızca Yeni Akit
+B07,brunson_2018,https://www.yeniakit.com.tr/haber/abdli-finans-kurulusuna-turk-hacker-imzasi-508775.html,Yalnızca Yeni Akit (kodlama notunda da tek kaynak olarak işaretli)
+D03,dogu_akdeniz_2020,https://greekcitytimes.com/2020/06/14/greece-hires-80-new-hackers-as-cyberwar-with-turkey-intensifies/,Yalnızca Greek City Times
+D05,dogu_akdeniz_2020,https://www.yeniakit.com.tr/haber/turk-hackerler-pydpkk-ile-abdnin-finansal-islemleri-sagladigi-bankayi-vurdu-1352354.html,Yalnızca Yeni Akit; grubun sosyal medya iddiası
+D08,dogu_akdeniz_2020,https://greekcitytimes.com/2020/08/18/cyberwar-resumes-as-anonymous-greece-brings-down-several-turkish-websites/,Yalnızca Greek City Times
+D12,dogu_akdeniz_2020,https://greekcitytimes.com/2020/10/08/anonymous-greece-hacks-into-turkish-parliament/,Yalnızca Greek City Times

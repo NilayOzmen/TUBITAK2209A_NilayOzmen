@@ -1,179 +1,897 @@
 gun,n,dil,baslik,url
--14,1,tur,Garmin Hacker saldırısı altında mı?,https://www.mynet.com/garmin-hacker-saldirisi-altinda-mi-110106559198
--14,2,deu,Erfindung: Es gibt jetzt Katzenfutter aus zerhackten Mäusen,https://www.hellwegeranzeiger.de/nachrichten/erfindung-es-gibt-jetzt-katzenfutter-aus-zerhackten-maeusen-1540858.html
--14,1,tur,"Rus Playboy, dünyaca ünlü şirketi hackledi, 10 milyon dolar istiyor",http://www.bursahakimiyet.com.tr/haber/rus-playboy-dunyaca-unlu-sirketi-hackledi-10-milyon-dolar-istiyor-396538.html
+-60,2,tur,Türk hacker'lar Yunanistan İçişleri Bakanlığı'nın sitesini hackledi,https://www.kibrispostasi.com/c37-DUNYA/n331385-turk-hackerlar-yunanistan-icisleri-bakanliginin-sitesini-hackledi
+-60,2,tur,"Türk hacker'lar Yunanistan'ý hackledi: Türkiye'ye laf uzatýrken, bir daha düþünün",https://www.star.com.tr/guncel/turk-hackerlar-yunanistani-hackledi-haber-1547892/
+-60,3,tur,Türk hacker'lar Yunanistan'ı hackledi,http://www.bursadabugun.com/haber/turk-hacker-lar-yunanistan-i-hackledi-1300301.html
+-60,1,tur,Türk hackerlar Yunanistan'ı fena salladı: Türkiye'ye laf uzatırken bir daha düşünün,https://www.yeniakit.com.tr/haber/turk-hackerlar-yunanistani-fena-salladi-turkiyeye-laf-uzatirken-bir-daha-dusunun-1288717.html
+-60,1,tur,Türk hacker'lar Yunanistan'ı hackledi - Internet Haber,https://www.internethaber.com/turk-hackerlar-yunanistani-hackledi-2107579h.htm
+-60,1,tur,Türk hacker'lar Yunanistan'ı hackledi - Haberler,https://www.sabah.com.tr/teknokulis/haberler/2020/06/11/turk-hackerlar-yunanistani-hackledi
+-59,1,tur,Türk hacker'lar Yunanistan'ý ikinci kez hackledi,https://www.dha.com.tr/dunya/turk-hackerlar-yunanistani-ikinci-kez-hackledi/haber-1776392
+-59,8,tur,Türk hacker'lar Yunanistan'ı ikinci kez hackledi,https://www.sondakika.com/haber/haber-turk-hacker-lar-yunanistan-i-ikinci-kez-hackledi-13318716/
+-59,2,tur,Türk hackerlar Yunanistan'ı yine hackledi,https://www.f5haber.com/hurriyet/turk-hackerlar-yunanistani-yine-hackledi-5584188
+-59,1,tur,"Johnson, Churchill heykelinin tahrif edilmesi hakkında: ""Saçma ve utanç verici""",https://www.kibrispostasi.com/c42-INGILTERE/n331566-johnson-churchill-heykelinin-tahrif-edilmesi-hakkinda-sacma-ve-utanc-verici
+-59,1,tur,"Johnson, ırkçılık karşıtı protestolarda Churchill heykelinin tahrif edilmesine dayanamadı: Saçma ve utanç verici",https://tr.sputniknews.com/avrupa/202006121042238471-johnson-irkcilik-karsiti-protestolarda-churchill-heykelinin-tahrif-edilmesine-dayanamadi-sacma-ve/
+-59,1,axe,"""Virtual Hackathon – 2020"" müsabiqəsinin qalibləri mükafatlandırılıb",http://www.yeniazerbaycan.com/SonXeber_e65639_az.html
+-59,1,tur,Yunan medyası Türk hackerları konuşuyor!,http://www.bursahakimiyet.com.tr/haber/yunan-medyasi-turk-hackerlari-konusuyor-377203.html
+-59,2,tur,Yunan medyası konuşuyor! Türk hackerlar bu kez...,https://www.f5haber.com/milliyet/yunan-medyasi-konusuyor-turk-hackerlar-bu-kez-5584178
+-59,1,tur,Habervitrini.com | Yunan medyası Türk hackerları konuşuyor,http://www.habervitrini.com/yunan-medyasi-turk-hackerlari-konusuyor/1009743
+-59,1,ita,"Honda, riparte la produzione dopo attacco hacker - Mondo Auto",https://www.formulapassion.it/automoto/mondoauto/honda-riparte-la-produzione-dopo-attacco-hacker-498696.html
+-59,1,tur,Yunanistan'da Türk hacker şoku: Bir gece ansızın gelebiliriz,https://www.borsagundem.com/haber/yunanistanda-turk-hacker-soku-bir-gece-ansizin-gelebiliriz/1498017
+-59,2,tur,Yunanistan Türk hackerları konuşuyor,https://www.yeniakit.com.tr/haber/yunanistan-turk-hackerlari-konusuyor-1291321.html
+-58,2,tur,Yunan bunu konuþuyor! Türk hacker'lar Yunanistan'ý ikinci kez hackledi: Bir gece ansýzýn gelebiliriz,http://www.star.com.tr/guncel/yunan-bunu-konusuyor-turk-hackerlar-yunanistani-ikinci-kez-hackledi-bir-gece-ansizin-gelebiliriz-haber-1548417/
+-57,1,tur,Siber saldırılardan korunmak için Türkiye'de ilk konferans yapıldı,https://donanimgunlugu.com/siber-saldirilardan-korunmak-icin-turkiyede-ilk-konferans-yapildi-244994
+-57,1,tur,"Önümüzdeki 12 Ay, Siber Saldırılar Açısından Bu Geçen 6 Ayı Aratabilir",https://www.chip.com.tr/haber/onumuzdeki-12-ay-siber-saldirilar-acisindan-bu-gecen-6-ayi-aratabilir_88514.html
+-56,1,tur,"Bir Şirket, Mac Pro Benzeri Hackintosh Bilgisayar Duyurdu",https://www.webtekno.com/opencore-computer-hackintosh-bilgisayar-duyurdu-h94874.html
+-56,1,zho,UPnP協定漏洞波及數十億連網裝置，可造成DDoS攻擊,https://www.ithome.com.tw/news/138230
+-55,2,tur,Yok Artık Dedirten Hack Yöntemi! Konuşmaları Böyle Dinliyorlar,https://www.tamindir.com/haber/hack-konusma-dinleme_58503/
+-55,1,tur,Siber saldırıları önlemek zor değil,https://www.cnnturk.com/teknoloji/siber-saldirilari-onlemek-zor-degil
+-55,1,tur,İş arayanlar siber saldırganların hedefinde,https://www.hurriyet.com.tr/teknoloji/is-arayanlar-siber-saldirganlarin-hedefinde-41542759
+-55,1,tur,Dilipak: Uzay işgal edildi! Siber ordular geliyor,https://www.yeniakit.com.tr/haber/dilipak-uzay-isgal-edildi-siber-ordular-geliyor-1297106.html
+-54,1,zho,UPnP 安全漏洞危及數十億裝置　資料外洩 + DDoS 攻擊 - 香港 unwire.hk,https://unwire.hk/2020/06/17/upnp-attack/tech-secure/
+-54,1,tur,Her tercüme tahrif ise,https://www.yenisafak.com/yazarlar/yasinaktay/her-tercume-tahrif-ise-2055415
+-54,3,tur,"Vodafone'un düzenlediği ""Digital Pioneers TOBi Hack"" sonuçlandı",http://www.ardahanhaberi.com/vodafone-un-duzenledigi-digital-pioneers-tobi-hack-sonuclandi/35537/
+-54,1,tur,Uzay ve havacılık şirketlerine siber saldırı! Haberler,https://www.haberturk.com/uzay-ve-havacilik-sirketlerine-siber-saldiri-haberler-2715370-teknoloji
+-53,1,swe,Chef på Combitech: Skydda företaget mot nästa cyberattack,https://www.di.se/nyheter/expertens-tre-tips-sa-skyddar-du-foretaget-mot-nasta-cyberattack/
+-53,1,tur,Google Chrome kullanıcılarının hesapları Chrome Web mağazasından indirilen uzantılarla ele geçirildi,https://tr.euronews.com/2020/06/18/google-chrome-kullanicilarinin-hesaplari-chrome-web-magazasindan-indirilen-uzantilarla
+-53,4,tur,Amazon: Tarihin en büyük siber saldırısını püskürttük,https://www.haberler.com/amazon-tarihin-en-buyuk-siber-saldirisini-13339015-haberi/
+-53,1,tur,Rusya Bağlantılı Hacker Grubunun Hedefinde Türkiye Var,https://www.haksozhaber.net/rusya-baglantili-hacker-grubunun-hedefinde-turkiye-var-128452h.htm
+-53,1,tur,"Hackerlar, Klasik Şifreleri 1 Saniyeden Kısa Sürede Kırıyor",https://www.webtekno.com/1-saniyeden-kisa-surede-kirilan-sifreler-h95136.html
+-53,1,tur,Amazon: Tarihin en büyük siber saldırısını püskürttük -  HABERDAR - Gerçekler Sadece Gerçekler,http://www.haberdar.com/dunya/amazon-tarihin-en-buyuk-siber-saldirisini-puskurttuk-h176844.html
+-53,1,tur,Google Chrome tarayıcı kullananlar dikkat! Hesaplar ele geçirildi,https://www.yeniakit.com.tr/haber/google-chrome-tarayici-kullananlar-dikkat-hesaplar-ele-gecirildi-1301530.html
+-52,14,tur,Avustralya'da kurumlar kapsamlı bir siber saldırı altında,https://www.brtk.net/avustralyada-kurumlar-kapsamli-bir-siber-saldiri-altinda/
+-52,2,tur,Avustralya Başbakanı Morrison: Başka bir ülke bize siber saldırı düzenliyor -  HABERDAR,http://www.haberdar.com/dunya/avustralya-basbakani-morrison-baska-bir-ulke-bize-siber-saldiri-duzenliyor-h176865.html
+-52,1,tur,Avustralya Başbakanı açıkladı: Kurumlar kapsamlı bir siber saldırı altında,https://www.yenisafak.com/dunya/avustralya-basbakani-acikladi-kurumlar-kapsamli-bir-siber-saldiri-altinda-3545657
+-52,1,tur,Avustralya Başbakanı: Özel ve kamu kurumlarımız kapsamlı bir siber saldırı altında,https://tr.sputniknews.com/asya/202006191042283559-avustralyada-kurumlar-kapsamli-bir-siber-saldiri-altinda/
+-52,1,tur,Chrome kullanıcılarının bilgilerini ele geçirdiler,https://www.haber7.com/teknoloji/haber/2986985-chrome-kullanicilarinin-bilgilerini-ele-gecirdiler
+-52,1,tur,Sörfçü Blaze Angel Roberts'ın hesabı hacklendi... Cinsel içerikli paylaşım yapıldı,https://www.mynet.com/sorfcu-blaze-angel-roberts-in-hesabi-hacklendi-cinsel-icerikli-paylasim-yapildi-284426-myspor
+-52,1,tur,En popüler şifreler belli oldu (Hacker'lar 1 saniyede kırabiliyor),"https://www.ntv.com.tr/galeri/teknoloji/en-populer-sifreler-belli-oldu-hackerlar-1-saniyede-kirabiliyor,63NxzmIwSESlgzWjEu3FKg"
+-52,2,tur,"Sörfçü Blaze Angel Roberts'ın hesabını ele geçiren Türk hacker'lar, cinsel içerikli videolarını paylaştı",https://www.sondakika.com/haber/haber-sorfcu-blaze-angel-roberts-in-hesabini-ele-13341825/
+-52,1,tur,Bolu'da başlayan hacker operasyonu Konya'ya sıçradı,https://www.memleket.com.tr/boluda-baslayan-hacker-operasyonu-konyaya-sicradi-2074953h.htm
+-52,1,tur,Avustralya'daki kurumlar siber saldırı altında,https://www.trthaber.com/haber/dunya/avustralyadaki-kurumlar-siber-saldiri-altinda-494167.html
+-52,1,tur,Avustralya: Bir ülke tarafından siber saldırı altındayız,https://www.ensonhaber.com/teknoloji/avustralya-bir-ulke-tarafindan-siber-saldiri-altindayiz
+-52,2,tur,Avustralya'da kurumlara siber saldırı,https://www.turkiyegazetesi.com.tr/dunya/712017.aspx
+-51,1,tur,Sörfçü Blaze Angel Robert Türk hackerların kurbanı mı oldu? -,https://donanimgunlugu.com/sorfcu-blaze-angel-robert-turk-hackerlarin-kurbani-mi-oldu-245559
+-51,1,tur,Şifrelerinizi böyle yaparsanız hackerlar kıramıyor! Yapmazsanız sonucu ağır olabilir...,https://www.mynet.com/sifrelerinizi-boyle-yaparsaniz-hackerlar-kiramiyor-yapmazsaniz-sonucu-agir-olabilir-110106536509
+-51,1,tur,"Hackerlar, normal bir ampulle konuşmalarınızı nasıl dinleyebilir?","https://t24.com.tr/haber/hackerlar-normal-bir-ampulle-konusmalarinizi-nasil-dinleyebilir,885539"
+-51,1,tur,Türk hackerlardan Yunanistan'a tarihi ayar,https://www.internethaber.com/turk-hackerlardan-yunanistana-tarihi-ayar-2109472h.htm
+-51,1,tur,Türk hackerlar Yunanistan'a ayar verdi!,https://www.haber7.com/teknoloji/haber/2987384-turk-hackerlar-yunanistana-ayar-verdi
+-51,1,tur,Türk hackerlar Yunanistan'ı kilitledi! Çaresiz kaldılar,https://www.memurhaber.com/turk-hackerlar-yunanistani-kilitledi-caresiz-kaldilar-2000741h.htm
+-50,1,deu,Juliane Seyfarth: Hacker machten eine arabische Prinzessin aus ihr,https://www.gala.de/stars/news/juliane-seyfarth--hacker-machten-eine-arabische-prinzessin-aus-ihr-22284562.html
+-50,2,tur,Siber Saldırganlar Havacılık ve Uzay Sektörünü Hedef Aldı,https://www.haberler.com/siber-saldirganlar-havacilik-ve-uzay-sektorunu-13348060-haberi/
+-50,1,tur,"Hackerlar, normal bir ampulle bile konuşmaları dinleyebiliyor...Peki nasıl?",http://www.detaykibris.com/hackerlar-normal-bir-ampulle-bile-konusmalari-dinleyebiliyor-peki-nasil-221478h.htm
+-49,1,tur,"Hacker'lar, Windows'u Bu Garip Yöntemle Hedef Aldı",https://www.chip.com.tr/haber/hacker-windows-bu-garip-yontemle-hedef-aldi_88717.html
+-49,1,tur,Hacker'lar Windows'u bu yeni yöntemi ile hedef aldı,https://www.cumhuriyet.com.tr/haber/hackerlar-windowsu-bu-yeni-yontemi-ile-hedef-aldi-1746705
+-49,1,tur,Sörfçü Blaze Angel Roberts hacker kurbanı oldu,https://www.cnnturk.com/teknoloji/sorfcu-blaze-angel-roberts-hacker-kurbani-oldu
+-49,1,deu,Spionage per Handy: Hack gegen Investigativjournalisten,https://www.sueddeutsche.de/digital/nso-ueberwachung-pegasus-omar-radi-1.4943316
+-47,2,tur,Siber saldırganlardan ödeme bilgilerini çalmaya yönelik yeni yöntem,https://www.mavikocaeli.com.tr/2020/guncel/siber-saldirganlardan-odeme-bilgilerini-calmaya-yonelik-yeni-yontem/21001/
+-47,3,tur,Ulusal Siber Güvenlik Kriz Masası salgında siber saldırıya uğrayan yüzlerce şirkete destek verdi,https://www.tgrthaber.com.tr/teknoloji/ulusal-siber-guvenlik-kriz-masasi-salginda-siber-saldiriya-ugrayan-yuzlerce-sirkete-destek-verdi-2719926
+-47,2,tur,Hacker Saldırıları Çok İlginç Boyutlara Ulaştı! Yaratıcılıkta Sınır Tanımıyorlar,https://www.tamindir.com/haber/hacker-saldirilari-cok-ilginc-boyutlara-ulasti_58746/
+-46,1,tur,6 gazetecinin yargılandığı Redhack davası 15 Aralık'a ertelendi,https://www.evrensel.net/haber/407924/6-gazetecinin-yargilandigi-redhack-davasi-15-aralika-ertelendi
+-46,1,tur,Ulusal Siber Güvenlik Kriz Masası siber saldırıya uğrayan şirketlere destek verdi,https://www.risalehaber.com/ulusal-siber-guvenlik-kriz-masasi-siber-saldiriya-ugrayan-sirketlere-destek-verdi-382005h.htm
+-46,1,tur,Mobil Bankacılık Siber Saldırıları Artabilir!,https://www.tamindir.com/haber/mobil-bankacilik-siber-saldirilari_58792/
+-46,1,tur,"Dünyaca Ünlü Fidye Yazılım Grubu, LG'yi Hackledi",https://www.webtekno.com/maze-group-lg-hackledi-h95662.html
+-46,3,tur,"Coca-Cola'dan ""Yeni Normalde İnovatif Çözümler Hackathonu""",https://www.haberler.com/coca-cola-dan-yeni-normalde-inovatif-cozumler-13360675-haberi/
+-46,1,tur,İnternette kobileri tehdit eden siber saldırılara önlem,https://www.yenisafak.com/teknoloji/ulusal-siber-guvenlik-kriz-masasi-yuzlerce-kobiye-destek-verdi-3546611
+-45,1,tur,Nurların tahrif edildiği iddiası şeni bir bühtandır! (2),https://www.risalehaber.com/nurlarin-tahrif-edildigi-iddiasi-seni-bir-buhtandir-2-22160yy.htm
+-45,1,tur,Nurların tahrif edildiği iddiası şeni bir bühtandır! (1),https://www.risalehaber.com/nurlarin-tahrif-edildigi-iddiasi-seni-bir-buhtandir-1-22158yy.htm
+-45,1,tur,Rusya Merkez Seçim Komitesi'nin internet sitesine DDoS saldırısı,https://tr.sputniknews.com/rusya/202006261042330621-rusya-merkez-secim-komitesinin-internet-sitesine-ddos-saldirisi/
+-45,1,tur,"Rus hacker'lar, evden çalışan Amerikalıları hedef alıyor",https://www.ensonhaber.com/dunya/rus-hackerlar-evden-calisan-amerikalilari-hedef-aliyor
+-44,1,tur,Beşiktaş'ın yeni transferine hacker şoku!,https://www.cnnturk.com/spor/futbol/besiktasin-yeni-transferine-hacker-soku
+-44,1,tur,Beşiktaş'ın anlaştığı iddia edilen Ninua'ya hacker şoku!,https://www.milliyet.com.tr/skorer/besiktasin-anlastigi-iddia-edilen-ninuaya-hacker-soku-6245668
+-44,1,tur,Nurların tahrif edildiği iddiası şeni bir bühtandır! (3),https://www.risalehaber.com/nurlarin-tahrif-edildigi-iddiasi-seni-bir-buhtandir-3-22164yy.htm
+-43,1,tur,Rusya'da oylama sırasında anayasa reformlarının internet sitesine DDoS saldırısı,https://tr.sputniknews.com/rusya/202006281042340945-rusyada-oylama-sirasinda-anayasa-reformlarinin-internet-sitesine-ddos-saldirisi-yapildi/
+-43,1,dan,Tyrkiets minareter blev hacket: Bella Ciao i stedet for Allahu Akbar,https://www.berlingske.dk/internationalt/tyrkiets-minareter-blev-hacket-bella-ciao-i-stedet-for-allahu-akbar
+-43,1,tur,Rus hacker 9 yıl hapis cezası aldı - Donanım Günlüğü,https://donanimgunlugu.com/rus-hacker-9-yil-hapis-cezasi-ladi-246455
+-42,7,tur,"Hackerlar California Üniversitesi'nden 1,1 milyon dolar fidye aldı",https://www.haberler.com/hackerlar-california-universitesi-nden-1-1-milyon-13373503-haberi/
+-42,1,tur,"Hackerlar California Üniversitesi'nden 1,1 milyon dolar fidye aldı -  HABERDAR",http://www.haberdar.com/dunya/hackerlar-california-universitesi-nden-1-1-milyon-dolar-fidye-aldi-h178037.html
+-42,1,tur,Nurların tahrif edildiği iddiası şeni bir bühtandır! (4),https://www.risalehaber.com/nurlarin-tahrif-edildigi-iddiasi-seni-bir-buhtandir-4-22170yy.htm
+-41,1,tur,Rus hacker Rus devletinden destek mi görüyordu?,https://www.cnnturk.com/teknoloji/rus-hacker-rus-devletinden-destek-mi-goruyordu
+-41,2,tur,Kaliforniya Üniversitesi hackerlara rekor fidye ödedi,https://www.ensonhaber.com/teknoloji/kaliforniya-universitesi-hackerlara-rekor-fidye-odedi
+-41,1,tur,"Bir Üniversite, Hackerlara 1.14 Milyon Dolar Fidye Ödedi",https://www.webtekno.com/kaliforniya-universitesi-hackerlara-fidye-odedi-h95936.html
+-41,1,tur,UCSF Hacklendi: Hackerlar ile Pazarlık Masasına Oturdular,https://www.tamindir.com/haber/ucsf-hacklendi_58960/
+-41,1,tur,Şirketler Neden Sürekli Hackleniyor? İşte Araştırma Sonuçları,https://www.tamindir.com/haber/sirketler-neden-surekli-hackleniyor_59011/
+-41,1,tur,Hackerlara 1.1 milyon dolar fidye ödediler,https://www.sabah.com.tr/teknokulis/haberler/2020/06/30/hackerlara-11-milyon-dolar-fidye-odediler
+-41,2,tur,Türkiye'de akıllı telefonlara yönelik siber saldırı sayısı arttı,https://www.takvim.com.tr/teknoloji/2020/06/30/turkiyede-akilli-telefonlara-yonelik-siber-saldiri-sayisi-artti
+-41,1,tur,Üniversitenin bilgisayarlarına sızıp milyon dolar kazanan hackerlar,https://www.yenisafak.com/teknoloji/universitenin-bilgisayarlarina-sizip-milyon-dolar-kazanan-hackerlar-3547317
+-41,1,tur,"California Üniversitesi açıkladı: Hackerlara 1,14 milyon dolar fidye verdik",https://www.chip.com.tr/haber/california-universitesi-acikladi-hackerlara-114-milyon-dolar-fidye-verdik_88901.html
+-41,1,tur,"Hacker'lar, o üniversiteden 1,1 milyon dolar fidye aldı",http://www.bursahakimiyet.com.tr/haber/hacker-lar-o-universiteden-1-1-milyon-dolar-fidye-aldi-384477.html
+-40,1,spa,"Toshack: ""Este Liverpool será recordado y Klopp también, por supuesto""",https://www.elperiodico.com/es/futbol/20200701/toschak-shankly-debe-estar-removiendose-en-su-tumba-viendo-a-un-aleman-en-el-banquillo-8016405
+-40,1,swe,Efter degraderingen – de ryktas bli Saman Ghoddos nya klubb,https://www.ltz.se/artikel/efter-degraderingen-de-ryktas-bli-saman-ghoddos-nya-klubb
+-40,1,tur,"Redhack, kayyumlara karşı belediyelerin internet sitelerini hackledi",https://www.evrensel.net/haber/408351/redhack-kayyumlara-karsi-belediyelerin-internet-sitelerini-hackledi
+-40,1,tur,Redhack AKP'li belediyelerin internet sitelerini hackledi,http://bianet.org/bianet/diger/226658-redhack-akp-li-belediyelerin-internet-sitelerini-hackledi
+-40,1,tur,Dünyaca ünlü en tehlikeli 10 hacker - ShiftDelete.Net,https://shiftdelete.net/dunyaca-unlu-en-tehlikeli-10-hacker
+-40,1,tur,Neden Hack'leniyoruz? İşte Hack'lenmenin Arkasındaki 4 Kritik Neden!,https://www.chip.com.tr/haber/neden-hack-iste-hack-arkasindaki-4-kritik-neden_88898.html
+-40,1,tur,"Kaliforniya Üniversitesi'nden hackerlara 1,1 milyon dolar fidye",http://www.detaykibris.com/kaliforniya-universitesinden-hackerlara-11-milyon-dolar-fidye-222618h.htm
+-39,1,tur,StrongPity isimli hacker grubu Türkiye'ye saldırıyor,https://www.ensonhaber.com/teknoloji/strongpity-isimli-hacker-grubu-turkiyeye-saldiriyor
+-39,1,tur,Beþiktaþ transferde aradýðý ismi buldu! Fransa'dan Ghoddos geliyor,https://www.fotomac.com.tr/besiktas/2020/07/02/besiktas-transferde-aradigi-ismi-buldu-fransadan-ghoddos-geliyor
+-39,1,tur,Şirketlere düzenlenen hacker saldırıları büyük artış gösterdi!,https://donanimgunlugu.com/sirketlere-duzenlenen-hacker-saldirilari-buyuk-artis-gosterdi-246920
+-39,1,tur,"Redhack, kayyumlara karşı belediyelerin internet sitelerini hacklemeyi sürdürüyor",https://www.evrensel.net/haber/408453/redhack-kayyumlara-karsi-belediyelerin-internet-sitelerini-hacklemeyi-surduruyor
+-38,1,ind,"Nindy Ayunda, Kalina hingga Luna Maya, Selebritas yang Instagramnya Diretas, Siapa Hacker-nya?",https://bangka.tribunnews.com/2020/07/03/nindy-ayunda-kalina-hingga-luna-maya-selebritas-yang-instagramnya-diretas-siapa-hacker-nya
+-37,1,tur,"İran: ""Nükleer Tesislerimize Yönelik Siber Saldırılara Karşılık Vereceğiz""",https://www.mynet.com/iran-nukleer-tesislerimize-yonelik-siber-saldirilara-karsilik-verecegiz-110106546132
+-36,1,tur,Şirketlere düzenlenen hacker saldırıları arttı,https://www.mynet.com/sirketlere-duzenlenen-hacker-saldirilari-artti-110106546418
+-36,1,tur,Hackerların Anında Kırabildikleri Şifreler - Kırılması En Kolay Şifreler,http://www.kamuajans.com/bilgi-bankasi/hackerlarin-aninda-kirabildikleri-sifreler-kirilmasi-en-kolay-sifreler-h550966.html
+-36,1,tur,Hackerlar Türkiye'ye saldırırken bu programları kullanıyor.,https://dogruhaber.com.tr/haber/677062-hackerlar-turkiyeye-saldirirken-bu-programlari-kullaniyor/
+-35,1,tur,İran: Nükleer tesisimize siber saldırı olduysa misilleme yapacağız,https://www.kibrispostasi.com/c37-DUNYA/n335742-iran-nukleer-tesisimize-siber-saldiri-olduysa-misilleme-yapacagiz
+-35,1,spa,Alajuelense sufre 'hackeo' de su página de Instagram,https://www.nacion.com/puro-deporte/futbol-nacional/alajuelense-sufre-hackeo-de-su-pagina-de/A62TXDHMMVFTXNJ4TLODYU6SEM/story/
+-35,1,tur,Kuzey Kore hacker ordusu online mağazalara saldırıyor -,https://donanimgunlugu.com/kuzey-kore-hacker-ordusu-online-magazalara-saldiriyor-247281
+-35,1,spa,Hackean cuenta de Instagram de Alajuelense,https://www.crhoy.com/deportes/hackean-cuenta-de-instagram-de-alajuelense/
+-35,1,spa,Turcos hacen de las suyas y hackean la cuenta de Instagram del Alajuelense - Diez,https://www.diez.hn/centroamerica/1391897-498/alajuelense-turcos-hackers-instagram-costa-rica-redes-sociales
+-35,1,tur,"BM Genel Sekreteri : Pandemi, siber saldırı ve biyolojik terörü beraberinde getirebilir",https://www.haberx.com/post/555585/bm-genel-sekreteri-pandemi-siber-saldiri-ve-biyolojik-teroru-beraberinde-getirebilir
+-35,1,tur,"BM: Pandemi, siber saldırı ve biyolojik terörü beraberinde getirebilir","https://t24.com.tr/haber/bm-pandemi-siber-saldiri-ve-biyolojik-teroru-beraberinde-getirebilir,889008"
+-35,1,spa,Alajuelense recupera el control de su cuenta de Instagram tras hackeo turco,https://www.larepublica.net/noticia/alajuelense-recupera-el-control-de-su-cuenta-de-instagram-tras-hackeo-turco
+-35,1,tur,"""Pandemi, siber saldırıları beraberinde getirebilir"" - Dünyadan Haberler",http://www.bursadabugun.com/haber/pandemi-siber-saldirilari-beraberinde-getirebilir-1309959.html
+-35,1,tur,ebebek internet sitesi siber saldırıya uğradı,https://www.f5haber.com/teknolojioku/ebebek-internet-sitesi-siber-saldiriya-ugradi-5619743
+-35,1,tur,Nasıl Hacker Olunur? - Ücretsiz Etik Hacker Eğitimleri,https://www.webtekno.com/nasil-hacker-olunur-hacker-egitimleri-h96173.html
+-35,1,tur,İddia: E-Bebek Hacklendi ve Saldırganlar Fidye İstiyor,https://www.tamindir.com/haber/e-bebek-hacklendi-iddiasi_59204/
+-35,1,tur,e-bebek hacklendi! Resmi açıklama yapıldı!,https://shiftdelete.net/e-bebek-hacklendi
+-35,1,tur,"ebebek, yaşadığı siber saldırıyla ilgili açıklama yaptı",https://webrazzi.com/2020/07/06/anne-bebek-markasi-ebebek-yasadigi-siber-saldiriyla-ilgili-aciklama-yapti/
+-35,1,tur,E-Bebek'in Hacklendiği İddia Ediliyor,https://www.webtekno.com/e-bebek-hack-bitcoin-fidye-iddia-h96267.html
+-34,1,tur,e-bebek hackendi,https://www.yenisafak.com/teknoloji/e-bebekin-sitesine-siber-saldiri-gerceklesti-3548270
+-34,2,tur,Aslışah Alkoçlar hacker mağduru,http://www.bursadabugun.com/haber/aslisah-alkoclar-hacker-magduru-1310038.html
+-34,1,tur,"Ünlü isim hacker mağduru oldu! – Güncel Haberler, Son Dakika Haberleri, Turktime Haber Portalı",http://www.turktime.com/haber/unlu-isim-hacker-magduru-oldu/547615
+-34,1,tur,E-bebek siber saldırıya uğradığını doğruladı,https://www.borsamatik.com.tr/e-bebek-siber-saldiriya-ugradigini-dogruladi-haber-134256
+-34,1,tur,Aslışah Alkoçlar hacker kurbanı oldu,https://www.haber3.com/magazin/aslisah-alkoclar-hacker-kurbani-oldu-haberi-5523873
+-34,1,tur,Aslışah Alkoçlar hacker mağduru oldu!,https://www.medyatava.com/haber/aslisah-alkoclar-hacker-magduru-oldu_209479
+-34,1,tur,e-bebek: Siber saldırıya uğradık,https://www.dunya.com/gundem/e-bebek-siber-saldiriya-ugradik-haberi-474532
+-34,1,tur,Kuzey Kore hacker saldırısı ile kredi kartı bilgilerinin peşine düştü,https://www.mynet.com/kuzey-kore-hacker-saldirisi-ile-kredi-karti-bilgilerinin-pesine-dustu-110106547540
+-34,1,tur,E-bebek siber saldırıyı doğruladı,https://www.donanimhaber.com/e-bebek-siber-saldiriyi-dogruladi--123234
+-33,1,tur,79279171 sakaryada 56 parca tarihi eser ve 35 tup kobra zehri ele gecirildisakarya emniyeti 6 ayda,https://www.haberturk.com/sakarya-haberleri/79279171-sakaryada-56-parca-tarihi-eser-ve-35-tup-kobra-zehri-ele-gecirildisakarya-emniyeti-6-ayda
+-33,1,tur,Son dakika haberi: Sakarya'da 56 parça tarihi eser ve 35 tüp kobra zehri ele geçirildi,https://www.haberler.com/son-dakika-haberi-sakarya-da-56-parca-tarihi-eser-ve-35-tup-kobra-13401270-haberi/
+-33,1,tur,Sakarya'da 56 parça tarihi eser ve 35 tüp kobra zehri ele geçirildi - HaberFlash internet haber sitesi,https://haberflash.com/2020/07/08/sakaryada-56-parca-tarihi-eser-ve-35-tup-kobra-zehri-ele-gecirildi/
+-33,1,tur,CWH (Certified White Hat Hacker),https://www.haberx.com/post/556330/cwh-certified-white-hat-hacker
+-33,1,tur,MNG Kargo 'hackathon' düzenliyor,https://www.haberturk.com/mng-kargo-hackathon-duzenliyor-2737428-ekonomi
+-33,5,tur,Sakarya'da 56 parça tarihi eser ve 35 tüp kobra zehri ele geçirildi,https://www.turkiyegazetesi.com.tr/yasam/716601.aspx
+-32,1,tur,"MNG Kargo'nun düzenlediği Hackathon'da yaratıcılığını göster, ödülün sahibi ol!",https://webrazzi.com/2020/07/09/mng-kargo-hackathon-davet/
+-32,1,tur,Hacker'lar e-bebek'i kaçırdı! - Son Haberler,https://www.milliyet.com.tr/ekonomi/hackerlar-e-bebeki-kacirdi-6254988
+-32,1,tur,Hacker'lar e-bebek'i kaçırdı!,https://www.mavikocaeli.com.tr/2020/guncel/hackerlar-e-bebeki-kacirdi/33590/
+-32,1,tur,"Şanlıurfa'da Operasyon! Örgüt Lideri, 3 Hacker Toplam 17 Göaltı",https://www.urfa.com/sanliurfada-operasyon-orgut-lideri-3-hacker-toplam-17-goalti/
+-32,1,tur,Hacker'lar e-bebek'i kaçýrdý!,https://www.memurlar.net/haber/915364/hacker-lar-e-bebek-i-kacirdi.html
+-31,1,tur,Milyarlarca şifre hacker'ların elinde - Donanım Günlüğü,https://donanimgunlugu.com/milyarlarca-sifre-hackerlarin-elinde-247578
+-31,1,tur,Ünlü markaya hacker saldırısı!,https://www.bursa.com/unlu-markaya-hacker-saldirisi-n433375/
+-31,1,tur,Ünlü firma e-bebek'e hacker şoku! Kullanıcılar tedirgin,http://www.gazetevatan.com/unlu-firma-e-bebek-e-hacker-soku-kullanicilar-tedirgin-1329942-ekonomi/
+-31,1,tur,Ünlü firma e-bebek'e hacker şoku!,http://www.objektifhaber.com/unlu-firma-e-bebeke-hacker-soku-399286-haber/
+-31,2,tur,e-bebek'e hacker saldırısı! Müşteriler kredi kartı bilgilerinin çalınmasından endişeli,https://www.haberler.com/e-bebek-e-hacker-saldirisi-musteriler-kredi-13405462-haberi/
+-31,1,tur,E-Bebek markasına hacker saldırısı! Müşterilerin kart bilgileri çalındı mı? Gündem,https://www.egehaber.com/e-bebek-markasina-hacker-saldirisi-musterilerin-kart-bilgileri-calindi-mi-338913/
+-31,1,tur,Dikkat...Türkiye'de siber saldırı %273 oranında arttı !,https://www.medyaloji.net/son-haber/dikkatturkiyede-siber-saldiri-273-oraninda-artti-_23675143.html
+-31,3,tur,"Doktoru hack'lediler, 10 bin kişinin kimlik ve sağlık bilgilerini çaldılar!",http://www.detaykibris.com/doktoru-hacklediler-10-bin-kisinin-kimlik-ve-saglik-bilgilerini-caldilar-223673h.htm
+-30,1,tur,Benan Kocadereli'den Ece Erken'e gönderme: Hackerlara vereceğiniz parayı daha hayırlı işlere kullanın,https://www.takvim.com.tr/saklambac/2020/07/11/benan-kocadereliden-ece-erkene-gonderme-hackerlara-vereceginiz-parayi-daha-hayirli-islere-kullanin
+-30,1,tur,Dünyada kaç kişi hacker'ların eline düşmüş durumda? - Teknoloji Haberleri,https://www.mynet.com/dunyada-kac-kisi-hacker-larin-eline-dusmus-durumda-110106549784
+-30,3,tur,Korona ile birlikte siber saldırılar üç kat arttı,http://www.turkiyegazetesi.com.tr/ekonomi/717193.aspx
+-29,1,tur,"Rus hacker Dropbox, LinkedIn ve Formspring'i hackledi, hapis cezası aldı -",https://donanimgunlugu.com/rus-hacker-dropbox-linkedin-ve-formspringi-hackledi-hapis-cezasi-aldi-247746
+-28,1,tur,Donald Trump'tan siber saldırı itirafı geldi,https://shiftdelete.net/donald-trump-siber-saldiri-itirafi-geldi
+-28,1,tur,"BASİAD'dan üyelerine ""siber saldırı"" uyarısı",https://www.haberler.com/basiad-dan-uyelerine-siber-saldiri-uyarisi-13415797-haberi/
+-28,1,tur,LinkedIn ve Dropbox saldırılarından sorumlu Rus hacker hapis cezası aldı,https://www.donanimhaber.com/linkedin-ve-dropbox-saldirilarindan-sorumlu-rus-hacker-hapis-cezasi-aldi--123373
+-28,1,tur,Ünlü hacker grubu K-POP hayranlarına çıkarları için destek veriyor,https://www.kamugundemi.com/bilim-ve-teknoloji/unlu-hacker-grubu-k-pop-hayranlarina-cikarlari-icin-destek-veriyor-h122481.html
+-28,1,tur,"Casio Hesap Makinesi Hacklendi, Her Öğrencinin Rüyası!",https://www.tamindir.com/haber/casio-hesap-makinesi-hack_59436/
+-27,1,tur,Hacker'lar 39 saniyede bir siber saldırı düzenliyor,https://www.hurriyet.com.tr/teknoloji/hackerlar-39-saniyede-bir-siber-saldiri-duzenliyor-41564252
+-27,2,tur,Kaspersky EDR ile şirketlerin yüzde 28'i siber saldırıları kısa sürede tespit ediyor,http://www.ogunhaber.com/ekonomi/kaspersky-edr-ile-sirketlerin-yuzde-28i-siber-saldirilari-kisa-surede-tespit-ediyor-2041386h.html
+-27,1,tur,DDoS Korumalı Hosting Hizmeti,http://www.malatyaguncel.com/ddos-korumali-hosting-hizmeti-1562604h.htm
+-27,2,tur,Guardian: Bağımsızlık yanlısı Katalan siyasetçilere siber saldırı yapıldı -  HABERDAR,http://www.haberdar.com/dunya/guardian-bagimsizlik-yanlisi-katalan-siyasetcilere-siber-saldiri-yapildi-h179503.html
+-27,1,tur,Rus hacker'ın cezası ağır oldu - Teknoloji Haberleri,https://www.mynet.com/rus-hacker-in-cezasi-agir-oldu-110106551113
+-27,1,spa,Este es el perfil de los hackers que atacaron las redes de la Liga,https://www.crhoy.com/tecnologia/este-es-el-perfil-de-los-hackers-que-atacaron-las-redes-de-la-liga/
+-27,1,por,"Hacker tipo exportação: cibercriminosos brasileiros expandem fraudes para EUA, países europeus e até China",https://oglobo.globo.com/economia/tecnologia/hacker-tipo-exportacao-cibercriminosos-brasileiros-expandem-fraudes-para-eua-paises-europeus-ate-china-24531044
+-27,1,tur,Her 39 saniyede bir siber saldırı düzenliyorlar,https://www.haberturk.com/her-39-saniyede-bir-siber-saldiri-duzenliyorlar-2743230-teknoloji
+-26,1,tur,Twitter'da hacker skandalı yaşanıyor,https://www.f5haber.com/dunya/twitterda-hacker-skandali-yasaniyor-5630118
+-26,1,tur,Elon Musk ve Apple Dahil Pek Çok Twitter Hesabı Hacklendi! Bitcoin Dolandırıcılığı Yapılıyor!,https://www.tamindir.com/haber/twitter-hesaplari-hacklendi-bitcoin-dolandiriciligi-yapiliyor_59501/
+-26,1,tur,"Elon Musk, Bill Gates ve Kanye West'in Twitter hesaplarını ele geçiren hackerlar Bitcoin sahiplerini dolandırdı",https://tr.sputniknews.com/yasam/202007161042464757-apple-elon-musk-ve-bill-gatesin-ardindan-kanye-Westin-twitter-hesabi-da-ele-gecirildi/
+-26,1,tur,Bitcoin Elon Musk Bill Gates Jeff Bezos ve Apple hacklendi!,https://www.f5haber.com/haberturk/bitcoin-elon-musk-bill-gates-jeff-bezos-ve-apple-hacklendi-5630130
+-26,1,tur,Bitcoin Elon Musk Bill Gates Jeff Bezos ve Apple Twitter hesabı hacklendi! Twitter'dan açıklama!,https://www.haberturk.com/bitcoin-elon-musk-bill-gates-jeff-bezos-ve-apple-twitter-hesabi-hacklendi-twitter-dan-aciklama-2745459
+-26,1,tur,Bill Gates ve Elon Musk'ınkiler dahil çok sayıda hesap dolandırıcılık için hacklendi,https://www.evrensel.net/haber/409480/bill-gates-ve-elon-muskinkiler-dahil-cok-sayida-hesap-dolandiricilik-icin-hacklendi
+-26,1,tur,Bill Gates ve Elon Musk'ın hesaplarına 'Bitcoin' hacklemesi,http://www.samanyoluhaber.com/bill-gates-ve-elon-muskin-hesaplarina-bitcoin-hacklemesi-haberi/1350142/
+-26,2,tur,"Apple, Elon Musk, Bill Gates, Barack Obama ve Kanye West'in Twitter hesabı ele geçirildi",http://www.bursadabugun.com/haber/apple-elon-musk-bill-gates-barack-obama-ve-kanye-west-in-twitter-hesabi-ele-gecirildi-1313298.html
+-26,2,tur,Dünya devlerine büyük şok! Hesapları hacklendi,https://www.sozcu.com.tr/2020/teknoloji/dunya-devlerine-buyuk-sok-hesaplari-hacklendi-5933579/
+-26,2,tur,"Twitter'da hack skandalı! Ünlülerin hesaplarını ele geçiren hackerlar, bitcoin sahiplerini dolandırdı",https://www.haberler.com/twitter-da-hack-skandali-unlulerin-hesaplarini-13424321-haberi/
+-26,1,tur,Twitter'da ünlülerin hesaplarına saldırı: Çok sayıda ünlü ve siyasi ismin hesapları ele geçirildi,https://www.yenisafak.com/teknoloji/twitterda-unlulerin-hesaplarina-saldiri-cok-sayida-unlu-ve-siyasi-ismin-hesaplari-ele-gecirildi-3549397
+-26,5,tur,"Twitter'da siber saldırı: Ünlüler, büyük şirketler ve siyasilerin hesapları ele geçirildi",https://www.f5haber.com/fanatik/twitterda-siber-saldiri-unluler-buyuk-sirketler-ve-siyasilerin-hesaplari-ele-gecirildi-5630134
+-26,1,tur,Devler hacklendi,https://www.f5haber.com/haberturk/devler-hacklendi-5630113
+-26,1,tur,"SON DAKİKA! Elon Musk, Bill Gates, Barack Obama ve birçok markanın Twitter hesapları hacklendi",https://www.sabah.com.tr/dunya/2020/07/15/son-dakika-elon-musk-bill-gates-barack-obama-ve-bircok-markanin-twitter-hesaplari-hacklendi
+-26,1,tur,SON DAKİKA! Elon Musk ve Bill Gates'in Twitter hesapları hacklendi mi?,https://www.sabah.com.tr/dunya/2020/07/15/son-dakika-elon-musk-ve-bill-gatesin-twitter-hesaplari-hacklendi-mi
+-26,1,tur,"SON DAKİKA HABERİ! Bill Gates, Elon Musk, Jeff Bezos, Obama, Uber ve Apple'ın Twitter hesapları hacklendi!",https://www.haberturk.com/uber-ve-apple-in-twitter-hesaplari-hacklendi-2745424-teknoloji
+-26,1,tur,SON DAKİKA! Elon Musk ve Bill Gates'in Twitter hesabı hacklendi mi? Bitcoin Borsalarının Twitter ...,https://www.sabah.com.tr/yasam/2020/07/15/son-dakika-elon-musk-ve-bill-gatesin-twitter-hesabi-hacklendi-mi-bitcoin-borsasina-siber-saldiri
+-26,2,tur,Son dakika haberi: Twitter'da Bitcoin depremi! Ünlü hesaplar ele geçirildi,https://www.hurriyet.com.tr/dunya/son-dakika-haberi-twitterda-bitcoin-depremi-unlu-hesaplar-ele-gecirildi-41565640
+-26,1,tur,"Bitcoin dolandırıcıları, Apple, Elon Musk, Bill Gates ve Jeff Bezos dahil çok sayıda şirket ve ünlü ismin Twitter hesabını hackledi!","https://t24.com.tr/haber/bitcoin-dolandiricilari-elon-musk-ve-bill-gates-in-twitter-hesaplarini-hackledi,890964"
+-26,1,tur,"SON DAKİKA! Twitter hacklendi! Elon Musk, Kim Kardashian, Bill Gates, Obama...",https://www.sabah.com.tr/dunya/2020/07/15/son-dakika-twitter-hacklendi-elon-musk-kim-kardashian-bill-gates-obama
+-26,1,tur,Twitter'a siber saldırı mı? Neden paylaşım yapılmıyor?,https://www.takvim.com.tr/guncel/2020/07/15/twittera-siber-saldiri-mi-neden-paylasim-yapilmiyor
+-26,1,tur,Ünlü isimlere büyük şok! Hesapları ele geçirildi,http://www.gazetevatan.com/unlu-isimlere-buyuk-sok-hesaplari-ele-gecirildi-1331112-dunya/
+-26,1,tur,Türk hackerlar Azerbaycan için harekete geçti,https://www.yeniakit.com.tr/haber/turk-hackerlar-azerbaycan-icin-harekete-gecti-1332456.html
+-26,1,tur,Uber ve Apple'ın Twitter hesapları hacklendi,https://www.haberturk.com/uber-ve-apple-in-twitter-hesaplari-hacklendi-2745424-ekonomi
+-26,1,tur,Türkiye'deki Kurumların %79'u Siber Saldırıların Kurbanı Oldu!,https://www.chip.com.tr/haber/turkiye-kurumlarin-yzde79-siber-saldirilarin-kurbani-oldu_89185.html
+-26,1,tur,ELON MUSK VE BİLL GATES'İN  TWİTTER HESABI HACKLENDİ!,https://www.ucankus.com/detay/442189/elon-musk-ve-bill-gates-in-twitter-hesabi-hacklendi
+-25,1,tur,Ünlülerin Twitter hesapları hacklendi! İşte nedeni,https://shiftdelete.net/unlulerin-twitter-hesaplari-hacklendi-iste-nedeni
+-25,2,tur,Ünlülerin Twitter hesaplarına siber saldırı,https://www.ilkehaber.com/haber/unlulerin-twitter-hesaplarina-siber-saldiri-55114.htm
+-25,1,tur,Ünlülerin Twitter hesaplarına siber saldırı | DÜNYA | DW,https://www.dw.com/tr/%C3%BCnl%C3%BClerin-twitter-hesaplar%C4%B1na-siber-sald%C4%B1r%C4%B1/a-54193727
+-25,1,tur,"Ünlülerin Twitter hesaplarını ele geçiren hacker, Twitter'ın yönetici panelini kullandı",https://webrazzi.com/2020/07/16/unlulerin-twitter-hesaplarini-ele-geciren-hacker-twitter-in-yonetici-panelini-kullandi/
+-25,2,tur,"ABD ve Ýsrailli eski ajanlarýn desteðiyle ''siber ordu'' kurma peþinde olan BAE, ülkelere ait hassas bilgileri elde etmeyi amaçlýyor",http://www.star.com.tr/dunya/abd-ve-israilli-eski-ajanlarin-destegini-alan-baeden-sinsi-plan-haber-1558423/
+-25,1,tur,Ünlü isimlerin hesaplarý hacklenmiþti! Merak edilen o soruyu uzmanlar yanýtladý: 'Hesaplarýn kontrolü gerçekte kimde?' - Ýstanbul,https://www.dha.com.tr/istanbul/unlu-isimlerin-hesaplari-hacklenmisti-merak-edilen-o-soruyu-uzmanlar-yanitladi-hesaplarin-kontrolu-gercekte-kimde/haber-1782477
+-25,1,tur,Ünlü Twitter hesapları nasıl ele geçirildi? İşte gerçekler,https://shiftdelete.net/unlu-twitter-hesaplari-nasil-ele-gecirildi-iste-gercekler
+-25,1,tur,Ünlülerin Twitter hesapları ele geçirildi,https://www.medyatava.com/haber/unlulerin-twitter-hesaplari-ele-gecirildi_209725
+-25,1,deu,Medien -  Hacker-Angriff auf Twitter-Konten von prominenten Persönlichkeiten und US-Firmen,http://unternehmen-heute.de/news.php?newsid=654444
+-25,1,tur,Ünlülerin Twitter hesapları hacklendi! Hesaplardan bitcoin üzerinden dolandırdılar,https://www.memleket.com.tr/unlulerin-twitter-hesaplari-hacklendi-hesaplardan-bitcoin-uzerinden-dolandirdilar-2076308h.htm
+-25,1,deu,Massiver Hackerangriff auf Twitter-Konten von Prominenten - Nachrichten,"http://www.dtoday.de/startseite/nachrichten_artikel,-Massiver-Hackerangriff-auf-Twitter-Konten-von-Prominenten-_arid,735747.html"
+-25,1,deu,Massiver Hackerangriff auf Twitter-Konten von Prominenten - Wirtschaft,"http://www.dtoday.de/startseite/wirtschaft_artikel,-Massiver-Hackerangriff-auf-Twitter-Konten-von-Prominenten-_arid,735746.html"
+-25,1,tur,"Obama'dan Musk'a, Bezos'tan Gates'e birçok ünlünün Twitter hesabı 'hack'lendi -  HABERDAR",http://www.haberdar.com/sosyal-medya-ve-teknoloji/obama-dan-musk-a-bezos-tan-gates-e-bircok-unlunun-twitter-hesabi-hack-lendi-h179689.html
+-25,1,tur,"ABD ve İsrailli eski ajanların desteğini alan BAE, siber saldırılar ile hassas bilgilerin peşinde",https://www.trthaber.com/haber/dunya/abd-ve-israilli-eski-ajanlarin-destegini-alan-bae-siber-saldirilar-ile-hassas-bilgilerin-pesinde-502160.html
+-25,1,tur,Twitter'ın hacklenmesiyle ilgili Türkiye'den resmi açıklama geldi,https://www.donanimhaber.com/twitter-in-hacklenmesiyle-ilgili-turkiye-den-resmi-aciklama-geldi--123442
+-25,1,ita,La grande truffa dei Bitcoin del 2020 su Twitter: quali sono stati gli hack più imbarazzanti?,https://it.sputniknews.com/scienza-e-tech/202007169317081-la-grande-truffa-dei-bitcoin-del-2020-su-twitter-quali-sono-stati-gli-hack-piu-imbarazzanti/
+-25,2,deu,Hacker-Angriff auf Twitter-Konten von prominenten Persönlichkeiten und US-Firmen - Nachrichten,"http://www.dtoday.de/startseite/nachrichten_artikel,-Hacker-Angriff-auf-Twitter-Konten-von-prominenten-Persoenlichkeiten-und-US-Firmen-_arid,735747.html"
+-25,1,tur,Twitter hackerları durdurmak için adım attı,https://www.haber7.com/teknoloji/haber/2995598-twitter-hackerlari-durdurmak-icin-adim-atti
+-25,1,tur,Twitter'ın kara günü: Obama'yı hackleyen Twitter çalışanları,https://www.yenisafak.com/teknoloji/twitterin-kara-gunu-obamayi-hackleyen-twitter-calisanlari-3549486
+-25,1,tur,Yeni Mesaj: Twitter'in ünlülerini hack'ladýlar!,http://www.yenimesaj.com.tr/twitterin-unlulerini-hackladilar-H1346569.htm
+-25,1,tur,Twitter hack saldırısı sonrasında hangi hesapların akışını durdurdu?,https://www.yeniakit.com.tr/haber/twitter-hack-saldirisi-sonrasinda-hangi-hesaplarin-akisini-durdurdu-1333473.html
+-25,1,tur,Twitter hack saldırısı nasıl yaşandı?,https://www.mynet.com/twitter-hack-saldirisi-nasil-yasandi-110106552319
+-25,1,tur,Twitter dün geceki siber saldırının nasıl gerçekleştiğini açıkladı,https://www.donanimhaber.com/twitter-dun-geceki-siber-saldirinin-nasil-gerceklestigini-acikladi--123437
+-25,1,tur,Twitter Bitcoin dolandırıcılığı en son haberler: Kaç dolar toplandı? Kimlerin hesapları hacklendi?,https://www.takvim.com.tr/ekonomi/2020/07/16/twitter-bitcoin-dolandiriciligi-en-son-haberler-kac-dolar-toplandi-kimlerin-hesaplari-hacklendi
+-25,2,deu,"Hacker-Angriff auf Twitter: Konten von Jeff Bezos, Bill Gates betroffen - Twitter-Insider im Visier",https://www.op-online.de/wirtschaft/twitter-hacker-angriff-apple-bitcoins-jeff-bezos-elon-musk-bill-gates-uber-barack-obama-joe-biden-zr-13834213.html
+-25,8,deu,"Hacker-Angriff auf Twitter: Konten von Jeff Bezos, Bill Gates und vielen weiteren betroffen",https://www.hna.de/wirtschaft/twitter-hacker-angriff-apple-bitcoins-jeff-bezos-elon-musk-bill-gates-uber-barack-obama-joe-biden-zr-13834213.html
+-25,1,tur,Hacker Açıkladı: Twitter'da Bitcoin Dolandırıcılığı Nasıl Yapıldı?,https://www.tamindir.com/haber/twitter-bitcoin-dolandiriciligi-nasil-yapildi_59517/
+-25,1,deu,hacker angriff auf twitter konten von promis und us firmen li.93397,https://www.berliner-kurier.de/panorama/hacker-angriff-auf-twitter-konten-von-promis-und-us-firmen-li.93397
+-25,1,spa,Hackeo en Twitter: Las cuentas de Bill Gates y Obam...,https://www.pagina12.com.ar/278800-hackeo-en-twitter-las-cuentas-de-bill-gates-y-obama-victimas
+-25,1,spa,Hackeo masivo en Twitter: utilizaron cuentas de famosos para realizar una millonaria estafa,https://www.mdzol.com/mundo/2020/7/16/hackeo-masivo-en-twitter-utilizaron-cuentas-de-famosos-para-realizar-una-millonaria-estafa-92341.html
+-25,1,tur,Twitter bitcoin depremi ile sallandı! Ünlü isimler bir bir hacklendi,http://www.gazetevatan.com/twitter-bitcoin-depremi-ile-sallandi-unlu-isimler-bir-bir-hackle-1331134-dunya-galeri-haber/
+-25,1,deu,Hacker-Attacke auf Twitter-Accounts von US-Promis,https://www.pnp.de/nachrichten/panorama/Hacker-Attacke-auf-Twitter-Accounts-von-US-Promis-3732911.html
+-25,1,tur,"Twitter Hacklendi, Ne Olacak / Bilişim / Milliyet Blog",http://blog.milliyet.com.tr/twitter-hacklendi--ne-olacak/Blog/?BlogNo=622551
+-25,4,spa,Twitter investiga hackeo de cuentas dirigido a personalidades y empresas de EU,https://www.24-horas.mx/2020/07/16/twitter-investiga-hackeo-de-cuentas-dirigido-a-personalidades-y-empresas-de-eu/
+-25,1,spa,Twitter investiga hackeo dirigido a personalidades y empresas de EU,https://www.informador.mx/internacional/Twitter-investiga-hackeo-dirigido-a-personalidades-y-empresas-de-EU-20200716-0039.html
+-25,2,tur,"Twitter, iç sistemleri 'hack'lenince bazı üst düzey hesapları 'sessiz'e aldı",http://www.detaykibris.com/twitter-ic-sistemleri-hacklenince-bazi-ust-duzey-hesaplari-sessize-aldi-224213h.htm
+-25,1,tur,"Twitter hacklendi mi? Twitter'da bitcoin dolandırıcılığı! Uber, Apple, Elon Musk, Jeff Bezos, Joe Biden ve Bill Gates'in twitter hesapları mı hacklendi?",http://www.gazetevatan.com/twitter-hacklendi-mi-twitter-da-bitcoin-dolandiriciligi-uber-a-1331156-gundem/
+-25,1,spa,Twitter investiga hackeo de cuentas de empresas de EU,https://contenido.com.mx/2020/07/twitter-investiga-hackeo-de-cuentas-de-empresas-de-eu/
+-25,1,spa,Twitter investiga el hackeo de cuentas dirigido a personalidades y empresas de EEUU,https://www.deperu.com/noticias/twitter-investiga-el-hackeo-de-cuentas-dirigido-a-personalidades-y-empresas-de-eeuu-105109.html
+-25,1,tur,"Twitter, tarihinin en büyük siber saldırısını yaşadı",https://www.ensonhaber.com/teknoloji/twitter-tarihinin-en-buyuk-siber-saldirisini-yasadi
+-25,1,tur,Twitter'a siber saldırı: Çok sayıda onaylı twitter hesabı hacklendi,https://sol.org.tr/haber/twittera-siber-saldiri-cok-sayida-onayli-twitter-hesabi-hacklendi-9708
+-25,1,tur,Hack ile Bitcoin topladılar: Kripto paranın değeri 10 bin doların altına düştü,https://www.yenisafak.com/teknoloji/hack-ile-bitcoin-topladilar-kripto-paranin-degeri-10-bin-dolarin-altina-dustu-3549432
+-25,1,tur,Twitter'a siber saldırı! Hesaplar ele geçirildi,https://www.yeniakit.com.tr/haber/twittera-siber-saldiri-hesaplar-ele-gecirildi-1333078.html
+-25,1,spa,Twitter inicia investigaci贸n por hackeo a cuentas de celebridades y empresas | Tecnolog铆a,https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2020/07/16/twitter-inicia-investigacion-hackeo-cuentas-celebridades-empresas.shtml
+-25,1,tur,Twitter'a Siber Saldırı Güvenlik Kaygılarını Arttırdı,https://www.mynet.com/twittera-siber-saldiri-guvenlik-kaygilarini-arttirdi-110106552627
+-25,1,tur,Twitter'a siber saldırı,https://www.haberler.com/twitter-a-siber-saldiri-13425367-haberi/
+-25,1,tur,Twitter'a büyük şok! Hack olayından sonra düşüşe geçti,https://www.sabah.com.tr/teknokulis/haberler/2020/07/16/twittera-buyuk-sok-hack-olayindan-sonra-dususe-gecti
+-25,1,tur,Twitter'daki hack skandalının ardından Beyaz Saray'dan flaş açıklama: Trump Twitter'da kalacak,https://www.takvim.com.tr/dunya/2020/07/16/twitterdaki-hack-skandalinin-ardindan-beyaz-saraydan-flas-aciklama-trump-kullanmaya-devam-edecek
+-25,1,tur,"Twitter hacklendi, mavi tık'lı hesaplar ele geçirildi",http://zamanamerika.com/haberler/gundem/twitter-hacklendi-mavi-tikli-hesaplar-ele-gecirildi/
+-25,1,tur,Elon Musk Bill Gates Jeff Bezos ve Apple Twitter hesabı hacklendi mi? Kimleirn Twitter hesapları hacklenid?,https://www.haberler.com/elon-musk-bill-gates-jeff-bezos-ve-apple-twitter-13424737-haberi/
+-25,1,tur,"Elon Musk, Bill Gates ve Barack Obama gibi ünlülerin Twitter hesapları hack'lendi",https://www.posta.com.tr/elon-musk-bill-gates-ve-barack-obama-gibi-unlulerin-twitter-hesaplari-hacklendi-2267004
+-25,1,tur,"Elon Musk, Bill Gates ve Jeff Bezos'un Twitter hesapları hacklendi",https://www.haber7.com/teknoloji/haber/2995589-elon-musk-bill-gates-ve-jeff-bezosun-twitter-hesaplari-hacklendi
+-25,1,tur,Elon Musk kimdir? Elon Musk twitter hesabı hacklendi mi?,http://www.gazetevatan.com/elon-musk-kimdir-elon-musk-kac-yasinda-elon-musk-un-kariyeri-1331271-gundem/
+-25,1,tur,"Elon Musk kimdir, kaç yaşındadır? Elon Musk'ın hesabı neden hacklendi? - Teknolojiden Son Dakika Haberler",https://www.sozcu.com.tr/2020/teknoloji/elon-musk-kimdir-kac-yasindadir-elon-muskin-hesabi-neden-hacklendi-5933913/
+-25,2,tur,Sosyal Medyayı ve Hatta İnternet'i sarsan büyük Twitter Hack'i,https://www.chip.com.tr/haber/sosyal-medyayi-ve-hatta-interneti-sarsan-buyuk-twitter-hack_89206.html
+-25,1,deu,"Soziale Netzwerke: Obama , Gates, Musk - Hacker-Angriff auf Twitter-Konten (neues-deutschland.de)",https://www.neues-deutschland.de/artikel/1139212.soziale-netzwerke-obama-gates-musk-hacker-angriff-auf-twitter-konten.html
+-25,1,tur,Hacklenen Twitter hesapları için USOM'dan açıklama!,https://shiftdelete.net/hacklenen-twitter-hesaplari-usom-dan-aciklama
+-25,1,tur,"Twitter hacklendi! Apple, Bill Gates ve Barack Obama'nın hesapları çalındı!",https://donanimgunlugu.com/twitter-hacklendi-apple-bill-gates-ve-barack-obama-gibi-isimlerin-hesaplari-calindi-248048
+-25,1,tur,Elon Musk ve Bill Gates'in Twitter hesapları hacklendi,http://www.samanyoluhaber.com/elon-musk-ve-bill-gates-in-twitter-hesaplari-hacklendi-haberi/1350151/
+-25,1,spa,Empresas: Twitter investiga hackeo de cuentas dirigido a personalidades y empres,https://gestion.pe/economia/empresas/twitter-investiga-hackeo-de-cuentas-dirigido-a-personalidades-y-empresas-de-eeuu-noticia/
+-25,1,tur,Elon Musk ve Bill Gates'e büyük şok! Twitter hesapları hacklendi,https://www.ahaber.com.tr/dunya/2020/07/16/elon-musk-ve-bill-gatese-buyuk-sok-twitter-hesaplari-hacklendi
+-25,1,tur,Twitter hesapları nasıl ele geçirildi? -  HABERDAR - Gerçekler Sadece Gerçekler,http://www.haberdar.com/sosyal-medya-ve-teknoloji/twitter-hesaplari-nasil-ele-gecirildi-h179741.html
+-25,4,tur,Twitter hesapları nasıl ele geçirildi?,https://www.bbc.com/turkce/haberler-dunya-53429592
+-25,1,tur,"Twitter hesapları ele geçirildi, mavi tık yalan oldu",https://www.haberturk.com/twitter-hesaplari-ele-gecirildi-mavi-tik-yalan-oldu-2745945-teknoloji
+-25,1,tur,Son dakika: Bitcoin dolandırıcılığı için Twitter'a siber saldırı yapıldı!,https://www.ahaber.com.tr/gundem/2020/07/16/son-dakika-bitcoin-dolandiriciligi-icin-twittera-siber-saldiri-yapildi
+-25,1,tur,Twitter'ın 'hack'lenmesi gözleri Bitcoin'e çevirdi,https://www.borsagundem.com/haber/twitterin-hacklenmesi-gozleri-bitcoine-cevirdi/1506074
+-25,1,tur,"Rus hackerlar, İngiltere'nin aşı çalışmalarına saldırdı",https://www.ensonhaber.com/dunya/rus-hackerlar-ingilterenin-asi-calismalarina-saldirdi
+-25,1,spa,Qué se sabe hasta ahora de la estafa hacker con cuentas de Twitter de famosos,https://www.ambito.com/negocios/twitter/que-se-sabe-ahora-la-estafa-hacker-cuentas-famosos-n5117589
+-25,1,tur,"Siber saldırı nedir? Barrack Obama, Bill Gates, Elon Musk gibi isimlerin Twitter hesabı hacklendi",https://www.hurriyet.com.tr/teknoloji/siber-saldiri-nedir-barrack-obama-bill-gates-elon-musk-gibi-isimlerin-twitter-hesabi-hacklendi-41565657
+-25,1,tur,İNGİLTERE: RUS HACKERLAR AŞI ÇALIŞMALARIMIZA SIZIYOR,https://www.ucankus.com/detay/442299/ingiltere-rus-hackerlar-asi-calismalarimiza-siziyor
+-25,1,tur,Rusya'dan İngiltere'nin 'siber saldırı' iddiasına tepki,"https://t24.com.tr/haber/rusya-dan-ingiltere-nin-siber-saldiri-iddiasina-tepki,891135"
+-25,1,tur,Son dakika haberi: Twitter'da Bitcoin depremi! Ünlü isimlerin hesapları hacklendi,https://www.hurriyet.com.tr/teknoloji/son-dakika-haberi-twitterda-bitcoin-depremi-unlu-hesaplar-ele-gecirildi-41565640
+-25,1,tur,Dünya devlerine Twitter şoku! Hesapları hacklendi,https://www.gercekgundem.com/dunya/197405/dunya-devlerine-twitter-soku-hesaplari-hacklendi
+-25,2,por,Contas do Twitter de empresários e companhias dos EUA são hackeadas,"https://www.em.com.br/app/noticia/internacional/2020/07/16/interna_internacional,1167372/contas-do-twitter-de-empresarios-e-companhias-dos-eua-sao-hackeadas.shtml"
+-25,1,tur,"Dikkat: Apple, Elon Musk, Uber, Binance gibi pek çok Twitter hesabı hacklendi",https://www.donanimhaber.com/dikkat-apple-elon-musk-uber-binance-gibi-pek-cok-twitter-hesabi-hacklendi--123430
+-25,1,tur,Twitter'ı hackleyenler 110 bin dolar topladı,https://www.haberler.com/twitter-i-hackleyenler-110-bin-dolar-topladi-13426862-haberi/
+-25,1,tur,Twitter'ı kim nasıl hack'ledi?,https://www.borsagundem.com/haber/twitteri-kim-nasil-hackledi/1506010
+-25,1,tur,Twitter'ı kim hackledi? Yoksa Trump laneti mi?,"https://t24.com.tr/yazarlar/fusun-sarp-nebil/twitter-i-kim-hackledi-yoksa-trump-laneti-mi,27400"
+-25,1,tur,Twitter'ı nasıl hacklediler?,https://www.gazeteciler.com/haber/twitteri-nasil-hacklediler/406079
+-25,1,tur,Twitter'ı Türkler mi hack'ledi? - ShiftDelete.Net,https://shiftdelete.net/twitter-turkler-tarafindan-mi-hackledi
+-25,4,tur,İngiltere'den kritik iddia: Rus hackerlar aşı çalışmalarımıza sızıyor,https://www.haberler.com/ingiltere-den-kritik-iddia-rus-hackerlar-asi-13426795-haberi/
+-25,1,tur,Twitter'da çok sayıda onaylı hesap bitcoin dolandırıcıları tarafından hacklendi,https://tr.euronews.com/2020/07/16/twitter-da-cok-say-da-onayl-hesap-bitcoin-doland-r-c-lar-taraf-ndan-hacklendi
+-25,2,tur,"Twitter'da ünlüler, büyük şirketler ve siyasilerin hesapları ele geçirildi",https://www.f5haber.com/haber3/twitterda-unluler-buyuk-sirketler-ve-siyasilerin-hesaplari-ele-gecirildi-5630238
+-25,1,tur,Twitter'da ünlülerin hesapları nasıl ele geçirildi? Dünyayı sarsan skandalda içeriden yardım iddiası,https://www.haberler.com/twitter-hesaplari-nasil-ele-gecirildi-13425635-haberi/
+-25,1,tur,Twitter'da kimlerin hesabı hacklendi? Neden kim hackledi?,https://www.ajansspor.com/haber/twitterda-kimlerin-hesabi-hacklendi-379610
+-25,2,tur,Twitter'da hacker şoku! Ünlü isimlerin hesapları etkilendi,https://www.sozcu.com.tr/2020/dunya/twitterda-hacker-soku-unlu-isimlerin-hesaplari-etkilendi-5933828/
+-25,1,tur,"Twitter'da siber saldırı: Ünlülerin hesaplarını ele geçiren hackerlar, bitcoin sahiplerini dolandırdı",https://www.f5haber.com/dunya/twitterda-siber-saldiri-unlulerin-hesaplarini-ele-geciren-hackerlar-bitcoin-sahiplerini-dolandirdi-5630118
+-25,1,tur,"Twitter'da siber saldırı:Ünlüler, büyük şirketler ve siyasilerin hesapları ele geçirildi",https://www.brtk.net/twitterda-siber-saldiriunluler-buyuk-sirketler-ve-siyasilerin-hesaplari-ele-gecirildi/
+-25,1,tur,Twitter'da hack skandalı!  Hangi ünlülerin hesapları hacklendi?,https://www.hurriyet.com.tr/teknoloji/twitterda-hack-skandali-hangi-unlulerin-hesaplari-hacklendi-41565730
+-25,1,tur,Twitter'da hack skandalı!,http://www.objektifhaber.com/twitterda-hack-skandali-399323-haber/
+-25,2,tur,Twitter'da hack dalgası!,https://www.gazeteciler.com/haber/twitterda-hack-dalgasi/406067
+-25,1,tur,Twitter'da güvenlik açığı skandalı! Ünlülerin hesapları ele geçirildi: Dünyayı sarsan olayda içeriden yardım iddiası!,https://www.takvim.com.tr/teknoloji/2020/07/16/twitterda-guvenlik-acigi-skandali-unlulerin-hesaplari-ele-gecirildi-dunyayi-sarsan-olayda-iceriden-yardim-iddiasi
+-25,1,tur,Twitter'da birçok ünlü kişi ve kurumun hesabı hacklendi,https://www.ensonhaber.com/teknoloji/twitterda-bircok-unlu-ikisi-ve-kurumun-hesabi-hacklendi
+-25,1,tur,"Twitter'da Apple, Uber, Jeff Bezos, Elon Musk ve Bill Gates'in hesaplarını ele geçiren hackerlar, Bitcoin sahiplerini dolandırdı",https://webrazzi.com/2020/07/16/twitterda-elon-musk-ve-bill-gatesin-hesaplarini-ele-geciren-hackerlar/
+-25,1,tur,Twitter'da siber saldırı! Elon Musk ve birçok ünlünün hesabı çalındı,https://www.internethaber.com/twitterda-siber-saldiri-elon-musk-ve-bircok-unlunun-hesabi-calindi-2114853h.htm
+-25,1,tur,Twitter'da onaylı hesapları ele geçiren dolandırıcıların kullandığı Bitcoin nedir?,https://tr.euronews.com/2020/07/16/onuncu-yilina-girmeye-hazirlanan-bitcoin-hakkinda-bilmeniz-gerekenler
+-25,1,deu,"News des Tages: Twitter-Hack, Corona-Schulden, Deniz Yücel",https://www.spiegel.de/politik/deutschland/news-des-tages-twitter-hack-corona-schulden-deniz-yuecel-a-88d6018f-4707-4055-a192-335edc7cfb82
+-25,1,deu,News von heute: London: Russische Hacker wollen Infos zu Corona-Impfstoffen stehlen,https://www.stern.de/panorama/weltgeschehen/news-von-heute--london--russische-hacker-wollen-infos-zu-corona-impfstoffen-stehlen-9339898.html
+-25,1,tur,Ýngiltere'den kritik iddia: Rus hackerlar aþý çalýþmalarýmýza sýzýyor,https://www.star.com.tr/dunya/ingiltereden-kritik-iddia-rus-hackerlar-asi-calismalarimiza-siziyor-haber-1558509/
+-25,1,tur,Ýngiltere'den kritik iddia: Rus hackerlar aþý çalýþmalarýmýza sýzýyor - Dünya,https://www.dha.com.tr/dunya/ingiltereden-kritik-iddia-rus-hackerlar-asi-calismalarimiza-siziyor/haber-1782473
+-25,1,tur,Pandemi döneminde siber saldırılar yüzde 40 arttı,https://www.dunya.com/sirketler/pandemi-doneminde-siber-saldirilar-yuzde-40-artti-haberi-475356
+-25,1,tur,Pandemide siber saldırılar iki katına çıktı,https://www.sozcu.com.tr/2020/ekonomi/pandemide-siber-saldirilar-iki-katina-cikti-5934735/
+-25,1,spa,"Pegasus, el programa que ha hackeado a políticos catalanes y espió a periodistas y activistas por todo el mundo",https://www.eldiario.es/tecnologia/pegasus-programa-hackeado-politicos-catalanes-espio-periodistas-activistas-mundo_1_6106611.html
+-25,1,tur,Bill Gates ve Elon Musk'ınkiler dahil çok sayıda Twitter hesabı ele geçirildi,https://www.evrensel.net/haber/409480/bill-gates-ve-elon-muskinkiler-dahil-cok-sayida-twitter-hesabi-ele-gecirildi
+-25,1,tur,Twitter'dan Hack Girişimi ile İlgili Açıklama,https://www.webtekno.com/twitter-bitcoin-saldiri-sonrasi-atilan-adimlar-h96731.html
+-25,2,tur,Birçok ünlü ismin Twitter hesabı hacklendi,https://www.trthaber.com/haber/bilim-teknoloji/bircok-unlu-ismin-twitter-hesabi-hacklendi-501982.html
+-25,4,tur,"BAE, ABD ve İsrailli Eski Ajanların Desteğiyle 'Siber Ordu' Kurma Peşinde",https://www.haksozhaber.net/bae-abd-ve-israilli-eski-ajanlarin-destegiyle-siber-ordu-kurma-pesinde-130669h.htm
+-25,1,tur,ABD'li Siyasetçi ve İşadamlarının Twitter Hesapları Hacklendi,https://www.mynet.com/abdli-siyasetci-ve-isadamlarinin-twitter-hesaplari-hacklendi-110106552087
+-25,1,tur,"BAE, üst düzey ABD ve İsrailli ajanların desteğiyle 'siber ordu' kurmayı amaçlıyor",https://www.takvim.com.tr/dunya/2020/07/16/bae-ust-duzey-abd-ve-israilli-ajanlarin-destegiyle-siber-ordu-kurmayi-amacliyor
+-25,1,deu,Besorgniserregende Attacke: Twitter-Insider halfen Hackern offenbar,https://www.n-tv.de/technik/Twitter-Insider-halfen-Hackern-offenbar-article21914075.html
+-25,1,tur,"BAE, ABD ve İsrailli ajanlarla siber ordu kurdu",https://www.ensonhaber.com/dunya/bae-abd-ve-israilli-ajanlarla-siber-ordu-kurdu
+-25,2,tur,Apple'ın Twitter'daki İlk Paylaşımını Hackerlar Yaptı,https://www.tamindir.com/haber/apple-twitter-paylasimi_59511/
+-25,1,deu,Bill Gates und Barack Obama betroffen: Hacker-Angriff auf Twitter-Konten von Promis,https://www.mopo.de/news/panorama/bill-gates-und-barack-obama-betroffen-hacker-angriff-auf-twitter-konten-von-promis-37024670
+-25,1,tur,Twitter'dan Büyük Hack'lenme Sonrasında Açıklama!,https://www.chip.com.tr/haber/twitter-buyuk-hack-sonrasinda-aciklama_89228.html
+-25,1,spa,"Bill Gates, Barack Obama, Jeff Bezos y más millonarios sufrieron un hackeo masivo en Twitter: aparente estafa",https://www.ciudad.com.ar/espectaculos/bill-gates-barack-obama-jeff-bezos-mas-millonarios-sufrieron-hackeo-masivo_142625
+-25,1,tur,Birçok ünlü kişinin Twitter hesabı hacklendi,http://www.haber888.com/haber/102062/bircok-unlu-kisinin-twitter-hesabi-hacklendi.html
+-25,2,tur,TWİTTER'I HACKLEYENLER 110 BİN DOLAR TOPLADI,https://www.haberler.com/twitter-i-hackleyenler-110-bin-dolar-topladi-13426850-haberi/
+-25,1,tur,Twitter'dan siber saldırı açıklaması! - Teknolojiden Son Dakika Haberler,https://www.sozcu.com.tr/2020/teknoloji/twitterdan-siber-saldiri-aciklamasi-5935574/
+-24,1,tur,Twitter Korsan Saldırıda 130 Civarında Hesabın Ele Geçirildiğini Açıkladı,https://www.mynet.com/twitter-korsan-saldirida-130-civarinda-hesabin-ele-gecirildigini-acikladi-110106552921
+-24,2,tur,Twitter Siber Saldırı Hakkında Ne Açıklama Yaptı?,https://www.f5haber.com/paradurumu/twitter-siber-saldiri-hakkinda-ne-aciklama-yapti-5631769
+-24,1,tur,Twitter bilançoyu açıkladı: Yaklaşık 130 hesap ele geçirildi,https://tr.sputniknews.com/dunya/202007171042473026-twitter-bilancoyu-acikladi-yaklasik-130-hesap-ele-gecirildi/
+-24,1,tur,Ünlü isimlerin hesapları 'hack'lenmişti: Twitter bilançoyu açıkladı,https://www.gercekgundem.com/medya/197768/unlu-isimlerin-hesaplari-hacklenmisti-twitter-bilancoyu-acikladi
+-24,2,tur,"Twitter tarihinin en kötü ""hacklenme"" olayıyla çalkalanıyor",https://www.bloomberght.com/twitter-tarihinin-en-kotu-hacklenme-olayiyla-calkalaniyor-2260284
+-24,1,tur,Twitter bilançoyu açıkladı: Yaklaşık 130 hesap ele geçirildi -  HABERDAR,http://www.haberdar.com/sosyal-medya-ve-teknoloji/twitter-bilancoyu-acikladi-yaklasik-130-hesap-ele-gecirildi-h179839.html
+-24,1,tur,Twitter'a yapılan siber saldırıyla ilgili Türkiye'den açıklama,https://www.hurriyet.com.tr/teknoloji/twittera-yapilan-siber-saldiriyla-ilgili-turkiyeden-aciklama-41566482
+-24,1,tur,Hack skandalı ile çalkalanmıştı! FBI Twitter hakkında soruşturma başlattı,https://www.takvim.com.tr/dunya/2020/07/17/hacklenme-skandali-ile-calkalanmisti-fbi-twitter-hakkinda-sorusturma-baslatti
+-24,1,spa,Hackearon los Twitter de varios millonarios para hacer una estafa descomunal,https://www.tiempodesanjuan.com/elmundo/2020/7/16/hackearon-los-twitter-de-varios-millonarios-para-hacer-una-estafa-descomunal-290490.html
+-24,1,tur,Twitter skandalı büyüyor! 130 hesap hacklendi,https://www.internethaber.com/twitter-skandali-buyuyor-130-hesap-hacklendi-2115033h.htm
+-24,4,tur,Twitter'dan hack'lenme açıklaması: 130 hesap hack'lendi,http://www.mansethaber.com/twitter-dan-hack-lenme-aciklamasi-130-hesap-hack-lendi/12314/
+-24,1,tur,Twitter'dan hack'lenme açýklamasý: 130 hesap hack'lendi - Dünya,https://www.dha.com.tr/dunya/twitterdan-hacklenme-aciklamasi-130-hesap-hacklendi/haber-1782549
+-24,1,tur,İngiltere: Rus hackerlar aşı çalışmalarımıza sızıyor,http://www.mansethaber.com/ingiltere-rus-hackerlar-asi-calismalarimiza-siziyor/12316/
+-24,1,tur,Rus hacker'lar Kovid-19 aþý bilgilerini çalacak iddiasý,https://www.memurlar.net/haber/916854/rus-hacker-lar-kovid-19-asi-bilgilerini-calacak-iddiasi.html
+-24,1,tur,Sanal saldırının boyutları netleşmeye başladı: Twitter hack'lenen hesap sayısını açıkladı!,https://www.f5haber.com/teknoloji/sanal-saldirinin-boyutlari-netlesmeye-basladi-twitter-hacklenen-hesap-sayisini-acikladi-5631524
+-24,1,tur,Twitter'ın hacklenmesini FBI soruşturacak,https://www.donanimhaber.com/twitter-in-hacklenmesini-fbi-sorusturacak--123464
+-24,1,tur,Dikkat! Hackerlar milyonlarca kişinin kamerasını ele geçirdi! Kendinizi korumak için...,https://www.mynet.com/dikkat-hackerlar-milyonlarca-kisinin-kamerasini-ele-gecirdi-kendinizi-korumak-icin-190101213484
+-24,1,tur,Twitter'da hesabı hacklenen kullanıcılar tazminat alabilir mi?,https://www.mavikocaeli.com.tr/2020/ekonomi/twitterda-hesabi-hacklenen-kullanicilar-tazminat-alabilir-mi/38744/
+-24,1,tur,Hackerlar maratonda yarışacak,https://www.haberler.com/hackerlar-maratonda-yarisacak-13428663-haberi/
+-24,1,tur,"FBI, Twitter'ın hacklenmesi hakkında soruşturma başlattı -  HABERDAR",http://www.haberdar.com/dunya/fbi-twitter-in-hacklenmesi-hakkinda-sorusturma-baslatti-h179881.html
+-24,1,tur,Tarihin en büyük hacker'lığı - Dünya Haberleri,https://www.sabah.com.tr/dunya/2020/07/17/tarihin-en-buyuk-hackerligi
+-24,1,tur,Son dakika! Twitter'dan hack'lenme açıklaması yapıldı! Ünlülerin Twitter hesapları hack'lenmişti...,https://www.sabah.com.tr/gundem/2020/07/17/son-dakika-twitterdan-hacklenme-aciklamasi-yapildi-unlulerin-twitter-hesaplari-hacklenmisti
+-24,4,tur,Twitter hack'lenen hesap sayısını açıkladı,http://www.haberalkibrisli.net/kktc/twitter-hack-lenen-hesap-sayisini-acikladi-h35913.html
+-24,8,tur,FBI Twitter'ın hacklenmesi hakkında soruşturma başlattı,https://www.cumhuriyet.com.tr/haber/fbi-twitterin-hacklenmesi-hakkinda-sorusturma-baslatti-1752132
+-24,1,tur,"Elon Musk kimdir, kaç yaşındadır? Elon Musk'ın hesabı neden hacklendi?",https://www.mavikocaeli.com.tr/2020/teknoloji/elon-musk-kimdir-kac-yasindadir-elon-muskin-hesabi-neden-hacklendi/37584/
+-24,1,tur,130 HESAP  HACK'LENDİ  - Uçankuş,https://www.ucankus.com/detay/442395/130-hesap-hack-lendi
+-24,1,tur,Twitter: Hackerlar Siber Saldırıda 130 Hesabı Hedef Aldı,https://www.webtekno.com/twitter-siber-saldiri-130-hesabi-hedef-aldi-h96760.html
+-24,1,tur,Twitter hack olayı sonrasında bilanço belli oldu,https://shiftdelete.net/twitter-hack-olayi-sonrasinda-bilanco-belli-oldu
+-24,1,tur,Çin'den ABD'nin aşısını çalmak için siber saldırı düzenlediği iddialarına yanıt,https://www.cumhuriyet.com.tr/haber/cinden-abdnin-asisini-calmak-icin-siber-saldiri-duzenledigi-iddialarina-yanit-1752227
+-24,1,tur,"Twitter Bitcoin dolandırıcılığı amacıyla hacklendi, FBI konuyla ilgili soruşturma başlattı",https://www.haberler.com/twitter-bitcoin-dolandiriciligi-amaciyla-13429426-haberi/
+-24,1,tur,Twitter'ın hacklenmesinin ardından FBI harekete geçti,https://www.yeniakit.com.tr/haber/twitterin-hacklenmesinin-ardindan-fbi-harekete-gecti-1334876.html
+-24,1,tur,Twitter'ın Wayfair hakkındaki yorumları perdelemek için kendini hacklediği iddia edildi,https://www.takvim.com.tr/dunya/2020/07/17/twitterin-wayfair-hakkindaki-yorumlari-perdelemek-icin-kendini-hackledigi-iddia-edildi
+-24,1,tur,Twitter'dan dünyayı sarsan siber saldırıyla ilgili yeni açıklama: 130 hesap etkilendi,https://www.mavikocaeli.com.tr/2020/dunya/twitterdan-dunyayi-sarsan-siber-saldiriyla-ilgili-yeni-aciklama-130-hesap-etkilendi/38663/
+-24,2,tur,Twitter'dan siber saldırıyla ilgili yeni açıklama,https://www.hurriyet.com.tr/teknoloji/twitterdan-siber-saldiriyla-ilgili-yeni-aciklama-41566494
+-24,1,tur,Twitter'dan hack açıklaması: 130 hesap saldırıya uğradı,https://www.evrensel.net/haber/409630/twitterdan-hack-aciklamasi-130-hesap-saldiriya-ugradi
+-24,1,tur,Twitter'dan 'hack'lenen hesap sayısıyla ilgili açıklama,https://www.dunya.com/dunya/twitterdan-hacklenen-hesap-sayisiyla-ilgili-aciklama-haberi-475423
+-24,1,tur,"Twitter'e siber saldırı: Endişelenmemiz gerekiyor mu, hesabımızı nasıl güvence altına alabiliriz?",https://tr.euronews.com/2020/07/17/twitter-e-siber-sald-r-endiselenmemiz-gerekiyor-mu-hesab-m-z-nas-l-guvence-alt-na-alabilir
+-24,1,tur,Twitter'dan siber saldırıyla ilgili açıklama!,https://www.medyaloji.net/son-haber/twitterdan-siber-saldiriyla-ilgili-aciklama_23675190.html
+-24,1,tur,Twitter'dan yeni açıklama geldi! Hangi ünlü isimlerin hesapları hacklendi?,https://www.sabah.com.tr/dunya/2020/07/17/twitterdan-yeni-aciklama-geldi-hangi-unlu-isimlerin-hesaplari-hacklendi
+-24,1,tur,Oray Eğin: Twitter'in hack'lenmesi Amerikan seçimlerini etkileyecek,https://www.gazeteciler.com/haber/oray-egin-twitterin-hacklenmesi-amerikan-secimlerini-etkileyecek/406103
+-24,1,tur,Rus hacker'lar Kovid-19 aşı bilgilerini çalacak iddiası,https://www.mavikocaeli.com.tr/2020/dunya/rus-hackerlar-kovid-19-asi-bilgilerini-calacak-iddiasi/38140/
+-24,1,tur,İnsan Yeteneği ve Son Teknoloji Siber Saldırılara Karşı Bir Arada,https://www.chip.com.tr/haber/insan-yetenegi-ve-son-teknoloji-siber-saldirilara-karsi-bir-arada_89223.html
+-23,1,tur,TWITTER: HACKERLAR KULLANICILARIN ÖZEL VERİLERİNİ İNDİRDİ,https://www.ucankus.com/detay/442655/twitter-hackerlar-kullanicilarin-ozel-verilerini-indirdi
+-23,6,tur,Twitter: Hackerlar kullanıcıların özel verilerini indirdi,https://www.bbc.com/turkce/haberler-dunya-53459308
+-23,1,tur,Hacker'lar Twitter'ı komple ele geçirmiş!,https://www.medyaloji.net/son-haber/hackerlar-twitteri-komple-ele-gecirmis_23675210.html
+-23,1,tur,Twitter güvenli mi? Yüksek güvenlikli hesaplar nasıl hackleniyor?,https://www.sozcu.com.tr/2020/ekonomi/twitter-guvenli-mi-yuksek-guvenlikli-hesaplar-nasil-hackleniyor-5937306/
+-23,1,tur,"Hackerlar, Twitter'a gerçekleştirdikleri saldırıyı tüm detaylarıyla anlattı",https://www.yenisafak.com/teknoloji/hackerlar-twittera-gerceklestirdikleri-saldiriyi-tum-detaylariyla-anlatti-3549776
+-23,1,tur,Twitter 'hack'lenen hesap sayýsýný açýkladý,https://www.memurlar.net/haber/917096/twitter-hack-lenen-hesap-sayisini-acikladi.html
+-23,1,tur,Twitter: Hacklenen Hesaplardan Birkaçının Verisi Kopyalandı,https://www.webtekno.com/twitter-bitcoin-hacklenen-hesaplarin-verisi-kopyalandi-h96802.html
+-23,1,deu,"""Gruppe junger Menschen"" soll hinter Hackerangriff auf...",https://www.diepresse.com/5841257/gruppe-junger-menschen-soll-hinter-hackerangriff-auf-twitter-stecken
+-23,1,tur,Twitter'da 130 hesap hacklendi,https://www.risalehaber.com/twitterda-130-hesap-hacklendi-383662h.htm
+-23,2,tur,"Siparişler eve geldi, siber saldırılar arttı",https://www.turkiyegazetesi.com.tr/teknoloji/719052.aspx
+-23,1,deu,Medien: Hackerangriff auf Twitter-Konten nicht vom Ausland,https://www.sn.at/panorama/international/medien-hackerangriff-auf-twitter-konten-nicht-vom-ausland-90333064
+-22,1,tur,Twitter'dan hack olayı hakkında açıklama - ShiftDelete.Net,https://shiftdelete.net/twitter-hack-olayi-hakkinda-aciklama
+-22,1,tur,Rusya aşı çalışmalarının hacklandiği iddialarını reddetti,https://www.borsagundem.com/haber/rusya-asi-calismalarinin-hacklandigi-iddialarini-reddetti/1506626
+-22,2,tur,BAE destekli güçlerin tahrifatý sonucu Yemen hükümetine baðlý birlikler Sokotra Limaný'ndan çekildi,http://www.star.com.tr/dunya/bae-destekli-guclerin-tahrifati-sonucu-yemen-hukumetine-bagli-birlikler-sokotra-limanindan-cekildi-haber-1559252/
+-22,1,tur,Twitter'ı sarsan hack skandalında özel veriler de çalındı,http://www.samanyoluhaber.com/twitteri-sarsan-hack-skandalinda-ozel-veriler-de-calindi-haberi/1350334/
+-22,2,tur,Twitter'a yapılan siber saldırının detayları ortaya çıktı!,https://www.f5haber.com/haber3/twittera-yapilan-siber-saldirinin-detaylari-ortaya-cikti-5633670
+-22,1,tur,Twitter'da yaşanan siber saldırıya ilişkin soruşturma başlatıldı,https://www.yeniakit.com.tr/haber/twitterda-yasanan-siber-saldiriya-iliskin-sorusturma-baslatildi-1335987.html
+-22,1,tur,"Hackerlar Twitter'a gerçekleştirdikleri saldırıyı anlattı – Güncel Haberler, Son Dakika Haberleri, Turktime Haber Portalı",http://www.turktime.com/haber/hackerlar-twitter-a-gerceklestirdikleri-saldiriyi-anlatti/548935
+-22,1,tur,Twitter'ın hack'lenmesi neyi ortaya çıkardı?,https://www.milliyet.com.tr/twitter-in-hack-lenmesi-neyi-ortaya-cikardi--molatik-16320/
+-21,1,tur,Hackerlar maratonda yarýþacak  - Teknoloji,https://www.dha.com.tr/teknoloji/hackerlar-maratonda-yarisacak/haber-1782598
+-21,1,swe,Facebook stämmer israeliskt cyberföretag för hackning,https://www.dn.se/nyheter/varlden/facebook-stammer-israeliskt-cyberforetag-for-hackning-av-privata-mobiler/
+-21,1,tur,Dikkat! Bu alışkanlıklar bağışıklığı çökertiyor!,https://www.cnnturk.com/saglik/dikkat-bu-aliskanliklar-bagisikligi-cokertiyor
+-21,1,tur,Hackerlar Türkiye'de en çok hangi gün saldırıyor?,https://www.haberturk.com/hackerlar-turkiye-de-en-cok-hangi-gun-saldiriyor-2749402-teknoloji
+-21,1,tur,"Sosyal medyada hacker şoku! Joe Biden, Barack Obama, Elon Musk, Bill Gates ve Kim Kardashian'ın Twitter hesabı çalındı",https://www.takvim.com.tr/guncel/2020/07/20/sosyal-medyada-hacker-soku-joe-biden-barack-obama-elon-musk-bill-gates-ve-kim-kardashianin-twitter-hesabi-calindi
+-21,1,tur,Siber saldırılar Twitter'ın güvenilirliğini nasıl etkileyecek?,https://www.hurriyet.com.tr/teknoloji/siber-saldirilar-twitterin-guvenilirligini-nasil-etkileyecek-41568187
+-21,1,tur,"Hackerlar, ülkemize en çok çarşamba günü saldırıyor",https://www.ensonhaber.com/teknoloji/hackerlar-ulkemize-en-cok-carsamba-gunu-saldiriyor
+-21,1,deu,Was koche ich heute: Köttbullar – die feinen schwedischen Hackbällchen,https://www.op-online.de/leben/genuss/rezept-koettbullar-feinen-schwedischen-hackbaellchen-zr-13531548.html
+-21,1,tur,Uzmandan Türkiye için uyarı! Hackerlar Çarşamba günü saldırıyor,https://www.ahaber.com.tr/teknoloji/2020/07/20/uzmandan-turkiye-icin-uyari-hackerlar-carsamba-gunu-saldiriyor
+-21,1,spa,Juan Osorio sale en defensa de Livia Brito y la actriz denuncia que gente de Turquía le hackeó una cuenta de Instagram – El Diario de Coahuila,https://eldiariodecoahuila.com.mx/2020/07/20/juan-osorio-sale-en-defensa-de-livia-brito-y-la-actriz-denuncia-que-gente-de-turquia-lehackeo-una-cuenta-de-instagram/
+-20,1,tur,Twitter hack saldırısının zararı sandığımızdan büyük olabilir!,https://www.mynet.com/twitter-hack-saldirisinin-zarari-sandigimizdan-buyuk-olabilir-110106554920
+-20,1,tur,"Rum Hacker, ABD'ye teslim edildi",https://www.gundemkibris.com/rum-basini/rum-hacker-abd-ye-teslim-edildi-h297408.html
+-20,1,spa,"Hackers chinos intentan robar datos de empresas, dice Estados Unidos",https://www.critica.com.pa/mundo/hackers-chinos-intentan-robar-datos-de-empresas-dice-estados-unidos-583849
+-20,1,tur,Siber saldırganlar finans teknolojilerini hedef alıyor!,https://donanimgunlugu.com/siber-saldirganlar-finans-teknolojilerini-hedef-aliyor-248529
+-20,1,tur,ABD'den İki Çin Vatandaşına Siber Saldırı Davası,https://www.mynet.com/abdden-iki-cin-vatandasina-siber-saldiri-davasi-110106555246
+-20,2,tur,"ABD, Çinli hackerların hedefini açıkladı",https://www.cnnturk.com/dunya/abd-cinli-hackerlarin-hedefini-acikladi
+-20,1,tur,Twitter'da yapılan siber saldırı ile toplanan Bitcoin'ler bloke edildi,https://www.internethaber.com/twitterda-yapilan-siber-saldiri-ile-toplanan-bitcoinler-bloke-edildi-2115899h.htm
+-20,1,tur,Aman 'hack'lanmayalım! - Dünya Gazetesi,https://www.dunya.com/kose-yazisi/aman-hacklanmayalim/475679
+-20,1,tur,Siber saldırganlar Netflix ile nasıl tuzak kuruyor?,https://www.haberturk.com/siber-saldirganlar-netflix-ile-nasil-tuzak-kuruyor-2750606-teknoloji
+-20,2,tur,ABD ile Çin arasýnda hacker gerilimi! Kovid-19 aþýlarýný hedef alýyorlar,http://www.star.com.tr/dunya/abd-ile-cin-arasinda-hacker-gerilimi-kovid-19-asilarini-hedef-aliyorlar-haber-1559772/
+-20,8,tur,ABD iki Çinli hackerı Kovid-19 aşısı üzerine çalışan şirketleri hedef almakla suçladı,https://www.ogunhaber.com/dunya/abd-iki-cinli-hackeri-kovid-19-asisi-uzerine-calisan-sirketleri-hedef-almakla-sucladi-2044596h.html
+-20,2,tur,"""Kıbrıslı hacker"" ABD'ye teslim edildi",https://www.kibrisgazetesi.com/kibris/kibrisli-hacker-abdye-teslim-edildi-h93241.html
+-20,1,tur,Twitter'dan yeni açıklama: Bazı hesaplar ele geçirildi,https://www.yeniakit.com.tr/haber/twitterdan-yeni-aciklama-bazi-hesaplar-ele-gecirildi-1337700.html
+-19,4,deu,"„Biohackers"" auf Netflix: Start, Trailer, Inhalt, Schauspieler, Drehort - Neuigkeiten nach Corona-Verschiebung",https://www.op-online.de/film-tv-musik/netflix-biohackers-start-trailer-inhalt-schauspieler-drehort-giessen-freiburg-zr-12165725.html
+-19,1,tur,"ABD, iki Çin vatandaşına siber saldırı davası açtı",https://www.dunya.com/dunya/abd-iki-cin-vatandasina-siber-saldiri-davasi-acti-haberi-475828
+-19,1,tur,Son dakika: Siber polisten dev operasyon! Bahis çetesi çökertildi: 38 gözaltı,https://www.ahaber.com.tr/gundem/2020/07/22/son-dakika-siber-polisten-dev-operasyon-bahis-cetesi-cokertildi-38-gozalti
+-19,1,spa,Cumpleaños agridulce para Livia Brito: le hackearon su cuenta de Instagram,https://peopleenespanol.com/celebridades/livia-brito-hackearon-cuenta-instagram-livitips/
+-18,3,tur,"""İran'daki yangınların siber saldırı ile alakası yok""",https://www.haberler.com/iran-daki-yanginlarin-siber-saldiri-ile-alakasi-13444084-haberi/
+-18,1,tur,İngiltere'de spor sektörü siber saldırı tehdidi altında - İngiltere Premier Lig Haberleri,https://www.fanatik.com.tr/ingilterede-spor-sektoru-siber-saldiri-tehdidi-altinda-2159963
+-18,1,tur,Twitter'dan yeni hacker açıklaması,https://www.cumhuriyet.com.tr/haber/twitterdan-yeni-hacker-aciklamasi-1753488
+-18,1,tur,Twitter Hacklenen Hesaplar Hakkında Yeni Açıklama Yaptı,https://www.tamindir.com/haber/twitter-hacklenen-hesaplar-yeni-aciklama_59813/
+-18,1,tur,Pandemi döneminde siber saldırılar yüzde 542 arttı,https://www.ensonhaber.com/teknoloji/pandemi-doneminde-siber-saldirilar-yuzde-542-artti
+-18,4,tur,Twitter'dan yeni 'hack' açıklaması,http://www.bursadabugun.com/haber/twitter-dan-yeni-hack-aciklamasi-1316116.html
+-18,4,tur,İngiltere'de spor sektörü siber saldırı tehdidi altında,https://www.trthaber.com/haber/spor/ingilterede-spor-sektoru-siber-saldiri-tehdidi-altinda-504075.html
+-18,1,tur,İran: Yangınlar siber saldırıyla alakalı değil,https://dogruhaber.com.tr/haber/680866-iran-yanginlar-siber-saldiriyla-alakali-degil/
+-18,1,spa,Kaspersky Lab alerta que un grupo hacker norcoreano activa sus ataques en Rusia,https://mundo.sputniknews.com/seguridad/202007231092183362-kaspersky-lab-alerta-que-un-grupo-hacker-norcoreano-activa-sus-ataques-en-rusia-alerta-/
+-18,1,deu,"In Freiburg gedrehte Netflix-Serie ""Biohackers"" startet im August - Freiburg",https://fudder.de/in-freiburg-gedrehte-netflix-serie-biohackers-startet-im-august
+-18,1,tur,İran: Son günlerdeki yangınlar siber saldırıyla alakalı değil,https://www.gercekgundem.com/dunya/199411/iran-son-gunlerdeki-yanginlar-siber-saldiriyla-alakali-degil
+-18,1,tur,"""İran'daki yangınların siber saldırı ile alakası yok""  - Dünyadan Haberler",http://www.bursadabugun.com/haber/iran-daki-yanginlarin-siber-saldiri-ile-alakasi-yok-1315870.html
+-18,3,tur,"İran Dışişleri Sözcüsü Musevi, ""İran'daki yangınların siber saldırı ile alakası yok""",http://www.haberlermersin.com/politika/iran-disisleri-sozcusu-musevi-irandaki-yanginlarin-siber-saldiri-ile-alakasi-yok-h114263.html
+-18,5,tur,İran'dan 'Son Günlerdeki Yangınlar Siber Saldırıyla Alakalı Değil' Açıklaması,http://beyazgazete.com/haber/2020/7/23/iran-dan-son-gunlerdeki-yanginlar-siber-saldiriyla-alakali-degil-aciklamasi-5659530.html
+-18,2,spa,"""Estoy tratando de recuperarla"": hackean Instagram de Livia Brito",http://puentelibre.mx/noticia/livia_brito_hackeo_cuenta_alterna_instagram_liviatips/
+-18,1,tur,Premier League kulüpleri siber saldırının hedefinde! 1 milyon Pound hackerların eline geçti,https://skor.sozcu.com.tr/2020/07/23/premier-league-kulupleri-siber-saldirinin-hedefinde-1-milyon-pound-hackerlarin-eline-gecti-1512107/
+-18,1,tur,Twitter: Hacker'lar 36 hesabın özel mesajlarına erişti,https://www.f5haber.com/posta/twitter-hackerlar-36-hesabin-ozel-mesajlarina-eristi-5639379
+-18,1,tur,Twitter: Hacker'lar 36 hesabın özel mesajlarına erişti - Bilim Teknoloji Haberleri,https://www.posta.com.tr/twitter-hackerlar-36-hesabin-ozel-mesajlarina-eristi-2268259
+-18,4,tur,Twitter'dan saldırıya dair yeni açıklama: Hackerlar 36 hesabın özel mesajlarına erişti,http://www.ogunhaber.com/dunya/twitterdan-saldiriya-dair-yeni-aciklama-hackerlar-36-hesabin-ozel-mesajlarina-eristi-2045557h.html
+-18,1,tur,"Netflix'in yeni Alman yapımı Biohackers, Dark etkisi yaratabilir mi?",https://webrazzi.com/2020/07/23/netflix-in-yeni-alman-yapimi-biohackers-dark-etkisi-yaratabilir-mi/
+-18,1,tur,Hackerlar Twitter'da 36 hesabın özel mesajlarına eriştiler,https://www.haberturk.com/hackerlar-twitter-da-36-hesabin-ozel-mesajlarina-eristiler-2752658-teknoloji
+-18,1,tur,Twitter hack krizinde yeni gelişme! Aralarında bir siyasetçi var,https://www.haber3.com/teknoloji/internet/twitter-hack-krizinde-yeni-gelisme-aralarinda-bir-siyasetci-var-haberi-5530752
+-18,1,tur,Apple Hackerlar İçin iPhone Geliştirdi,https://www.tamindir.com/haber/apple-hackerlar-icin-iphone_59789/
+-18,1,tur,"Twitter hackleme skandalında, aralarında Hollandalı bir siyasetçinin de olduğu 36 kullanıcının özel mesajları ele geçirildi","https://t24.com.tr/haber/twitter-hackleme-skandalinda-aralarinda-hollandali-bir-siyasetcinin-de-oldugu-36-kullanicinin-ozel-mesajlari-ele-gecirildi,892567"
+-18,2,tur,Çinli hacker'lar aşı araştırmalarını çalmaya çalışıyor,https://www.turkiyegazetesi.com.tr/dunya/720059.aspx
+-18,1,spa,¡Le llueve sobre mojado! Hackean cuenta de Instagram de Livia Brito,https://www.radioformula.com.mx/entretenimiento/20200723/livia-brito-hackeada-actriz-livitips-ataque-hackers-turquia-instagram-2020/
+-18,1,spa,Hackean y extorsionan a Livia Brito; le exigen 3 mil pesos,https://www.sdpnoticias.com/enelshow/famosos/hackean-livia-brito-instagram-cuenta-secuestrada-pago-rescate.html
+-17,1,tur,Siber savaşlar 5G ile başlayacak!,https://www.haberturk.com/yazarlar/guntay-simsek-1019/2754131-siber-savaslar-5g-ile-baslayacak
+-17,1,tur,Twitter çalışanları hesapların hack'lenmesine yardımcı olmuş olabilir,https://www.cumhuriyet.com.tr/haber/twitter-calisanlari-hesaplarin-hacklenmesine-yardimci-olmus-olabilir-1753685
+-17,1,tur,Garmin Hack'lendi mi?,https://www.tamindir.com/haber/garmin-hack-ransomware_59855/
+-17,1,tur,"788 kişiye ""Beyaz Şapkalı Hacker"" belgesi",https://dogruhaber.com.tr/haber/681020-788-kisiye-beyaz-sapkali-hacker-belgesi/
+-16,1,tur,Twitter hack olayının perde arkası ne?,https://www.yenisafak.com/teknoloji/twitter-hack-olayinin-perde-arkasi-ne-3550579
+-16,1,tur,'Neredeyse Hacklenemeyen' Kuantum İnternet,https://www.webtekno.com/hacklenemeyen-kuantum-internet-detaylar-h97111.html
+-16,1,tur,"Büyük Twitter Hack'inde, Yüzlerce Twitter Çalışanının Parmağı Olabilir",https://www.chip.com.tr/haber/buyuk-twitter-hack-yuzlerce-twitter-calisaninin-parmagi-olabilir_89413.html
+-15,1,tur,Siber Saldırılar Hakkında Çok İlginç Bir Detay Ortaya Çıktı!,https://www.tamindir.com/haber/siber-saldirilar-hakkinda-cok-ilginc-bir-detay_59911/
+-15,1,tur,"83 kilometrelik kuantum ağı kuran ABD, ""hacklenemez"" internet planını açıkladı -  HABERDAR",http://www.haberdar.com/bilim-teknoloji-2/83-kilometrelik-kuantum-agi-kuran-abd-hacklenemez-internet-planini-acikladi-h180733.html
+-15,1,tur,"ABD, hacklenemez internet planını açıkladı",https://www.kibrispostasi.com/c39-BILIM_TEKNOLOJI/n339651-abd-hacklenemez-internet-planini-acikladi
+-15,5,deu,Erfindung: Es gibt jetzt Katzenfutter aus zerhackten Mäusen,https://www.rnd.de/panorama/erfindung-es-gibt-jetzt-katzenfutter-aus-zerhackten-mausen-Q3NRYSFHLBERZJIM7R65JWGVRM.html
+-15,1,tur,Garmin servisler kapandı. Firma Hacker saldırısı altında mı?,https://donanimgunlugu.com/garmin-servisler-kapandi-firma-hacker-saldirisi-altinda-mi-248841
 -14,1,tur,"Son dakika… Rus Playboy, dünyaca ünlü şirketi hackledi, 10 milyon dolar istiyor",https://www.sozcu.com.tr/2020/dunya/son-dakika-rus-playboy-dunyaca-unlu-sirketi-hackledi-10-milyon-dolar-istiyor-5954979/
--13,1,deu,Düsseldorf: Katzenfutter aus Mäusehackfleisch ist eine Weltneuheit,https://www.express.de/duesseldorf/weltneuheit-aus-duesseldorf-miezen--aufgepasst--jetzt-gibt-s--maus-aus-der-dose--37084504
--13,1,tur,Evden çalışanlar siber saldırıların hedefi olmadıklarına inanıyor,https://www.hurriyet.com.tr/teknoloji/evden-calisanlar-siber-saldirilarin-hedefi-olmadiklarina-inaniyor-41574451
--13,2,tur,ABD 'hacklenemez' kuantum internet planını açıkladı,https://www.istanbulhaber.com.tr/abd-hacklenemez-kuantum-internet-planini-acikladi-haber-1553548.htm
--13,1,tur,"ABD 'hacklenemez' internet planını açıkladı – Güncel Haberler, Son Dakika Haberleri, Turktime Haber Portalı",http://www.turktime.com/haber/abd-hacklenemez-internet-planini-acikladi/549865
--13,1,deu,Katzenfutter aus Düsseldorf: Mäusehack aus der Dose ist eine Weltneuheit,https://www.express.de/duesseldorf/weltneuheit-aus-duesseldorf-katzen-duerfen-jetzt-auch-maeusehack-aus-der-dose-futtern-37084504
+-14,1,tur,"Rus Playboy, dünyaca ünlü şirketi hackledi, 10 milyon dolar istiyor",http://www.bursahakimiyet.com.tr/haber/rus-playboy-dunyaca-unlu-sirketi-hackledi-10-milyon-dolar-istiyor-396538.html
+-14,1,tur,Garmin Hacker saldırısı altında mı?,https://www.mynet.com/garmin-hacker-saldirisi-altinda-mi-110106559198
 -13,1,tur,Hackerlar Garmin'den 10 Milyon Dolar Fidye İstiyor,https://www.tamindir.com/haber/garmin-10-milyon-dolar-fidye_59951/
--13,1,tur,ABD'nin hacklenmeyen internet planı ortaya çıktı,https://www.sabah.com.tr/teknokulis/galeri/haber/abdnin-hacklenmeyen-internet-plani-ortaya-cikti
 -13,1,tur,Sosyal medya şirketlerinde iç tehditler siber saldırılara kapı aralıyor,https://www.hurriyet.com.tr/teknoloji/sosyal-medya-sirketlerinde-ic-tehditler-siber-saldirilara-kapi-araliyor-41574427
+-13,1,deu,Düsseldorf: Katzenfutter aus Mäusehackfleisch ist eine Weltneuheit,https://www.express.de/duesseldorf/weltneuheit-aus-duesseldorf-miezen--aufgepasst--jetzt-gibt-s--maus-aus-der-dose--37084504
+-13,1,deu,Katzenfutter aus Düsseldorf: Mäusehack aus der Dose ist eine Weltneuheit,https://www.express.de/duesseldorf/weltneuheit-aus-duesseldorf-katzen-duerfen-jetzt-auch-maeusehack-aus-der-dose-futtern-37084504
+-13,1,tur,Evden çalışanlar siber saldırıların hedefi olmadıklarına inanıyor,https://www.hurriyet.com.tr/teknoloji/evden-calisanlar-siber-saldirilarin-hedefi-olmadiklarina-inaniyor-41574451
+-13,1,tur,ABD'nin hacklenmeyen internet planı ortaya çıktı,https://www.sabah.com.tr/teknokulis/galeri/haber/abdnin-hacklenmeyen-internet-plani-ortaya-cikti
+-13,2,tur,ABD 'hacklenemez' kuantum internet planını açıkladı,"https://www.ntv.com.tr/galeri/teknoloji/abd-hacklenemez-kuantum-internet-planini-acikladi,vJmEPbJfzUGKIAmXWNeV3g"
+-13,1,tur,"ABD 'hacklenemez' internet planını açıkladı – Güncel Haberler, Son Dakika Haberleri, Turktime Haber Portalı",http://www.turktime.com/haber/abd-hacklenemez-internet-planini-acikladi/549865
 -13,1,tur,Wattpad hacklendi mi?,https://www.yenisafak.com/teknoloji/wattpad-hacklendi-mi-3550962
--12,2,tur,Ruhi Çenet'in ikinci YouTube kanalı dolandırıcılar tarafından hacklendi,https://www.posta.com.tr/ruhi-cenetin-ikinci-youtube-kanali-hacklendi-2269179
--12,1,tur,"""EduHack: Hacking Education Projesi"" toplantısı Samsun'da yapıldı",https://www.istanbulhaber.com.tr/eduhack-hacking-education-projesi-toplantisi-samsunda-yapildi-haber-1554546.htm
--12,2,tur,Ruhi Çenet'in ikinci YouTube kanalı hacklendi!,https://shiftdelete.net/ruhi-cenet-youtube-kanali-hack-ilk-bilgiler
--12,1,tur,Çok faktörlü kimlik doğrulama hacker'ların önünde duvar oluyor,https://www.hurriyet.com.tr/teknoloji/cok-faktorlu-kimlik-dogrulama-hackerlarin-onunde-duvar-oluyor-41573593
--12,1,ita,Una rete di hacker cinesi avrebbe violato i server del Vaticano,https://www.zazoom.it/2020-07-29/una-rete-di-hacker-cinesi-avrebbe-violato-i-server-del-vaticano/6978036/
 -12,1,tur,Twitter'da bir hack daha: Bu kez banka!,https://www.borsagundem.com/haber/twitterda-bir-hack-daha-bu-kez-banka/1508719
--11,15,tur,AB ilk kez siber saldırılar nedeniyle yaptırım uygulayacak,https://www.a24.com.tr/ab-ilk-kez-siber-saldirilar-nedeniyle-yaptirim-uygulayacak-haberi-40192020h.html
--11,1,tur,Kurban Bayramı'nda Siber Saldırılardan Nasıl Korunur? İşte Yöntemler,https://www.tamindir.com/haber/siber-saldirilardan-nasil-korunur_60070/
--11,1,tur,Avrupa Birliği ilk kez siber saldırılar nedeniyle Rusya ve Çin'e yaptırım uygulayacak,https://www.takvim.com.tr/ekonomi/2020/07/30/avrupa-birligi-ilk-kez-siber-saldirilar-nedeniyle-rusya-ve-cine-yaptirim-uygulayacak
--11,3,tur,Dünya devi ABD'li şirketin banka hesaplarına siber saldırı şoku: 1 milyon dolar Türkiye'den çıktı,https://www.takvim.com.tr/guncel/2020/07/30/dunya-devi-abdli-sirketin-banka-hesaplarina-siber-saldiri-soku-1-milyon-dolar-turkiyeden-cikti
--11,1,tur,Tahrif edilmişler - Takvim,https://www.takvim.com.tr/yazarlar/bekirhazar/2020/07/30/tahrif-edilmisler
--11,1,tur,"ABD'den AB'nin ""siber saldırılar"" gerekçesiyle aldığı yaptırım kararına  destek",https://www.haberler.com/abd-den-ab-nin-siber-saldirilar-gerekcesiyle-13468431-haberi/
--11,1,tur,AB'den siber saldırı kararı! 3 kuruluşa yaptırım,https://www.hurriyet.com.tr/dunya/abden-siber-saldiri-karari-3-kurulusa-yaptirim-41576872
--11,5,tur,"ABD'den AB'nin ""siber saldırılar"" gerekçesiyle aldığı yaptırım kararına destek",https://www.yeniakit.com.tr/haber/abdden-abnin-siber-saldirilar-gerekcesiyle-aldigi-yaptirim-kararina--destek--1347814.html
+-12,1,ita,Una rete di hacker cinesi avrebbe violato i server del Vaticano,https://www.zazoom.it/2020-07-29/una-rete-di-hacker-cinesi-avrebbe-violato-i-server-del-vaticano/6978036/
+-12,1,tur,Çok faktörlü kimlik doğrulama hacker'ların önünde duvar oluyor,https://www.hurriyet.com.tr/teknoloji/cok-faktorlu-kimlik-dogrulama-hackerlarin-onunde-duvar-oluyor-41573593
+-12,2,tur,Ruhi Çenet'in ikinci YouTube kanalı dolandırıcılar tarafından hacklendi,https://www.posta.com.tr/ruhi-cenetin-ikinci-youtube-kanali-hacklendi-2269179
+-12,2,tur,Ruhi Çenet'in ikinci YouTube kanalı hacklendi!,https://shiftdelete.net/ruhi-cenet-youtube-kanali-hack-ilk-bilgiler
+-12,1,tur,"""EduHack: Hacking Education Projesi"" toplantısı Samsun'da yapıldı",https://www.istanbulhaber.com.tr/eduhack-hacking-education-projesi-toplantisi-samsunda-yapildi-haber-1554546.htm
 -11,1,deu,Wiener Stadtrat Hacker will kostenlose Tests für alle Reiserückkehrer,https://kurier.at/politik/inland/corona-wiener-stadtrat-hacker-will-kostenlose-tests-fuer-alle-reiserueckkehrer/400987004
+-11,1,tur,Tahrif edilmişler - Takvim,https://www.takvim.com.tr/yazarlar/bekirhazar/2020/07/30/tahrif-edilmisler
+-11,3,tur,Dünya devi ABD'li şirketin banka hesaplarına siber saldırı şoku! 1 milyon dolar Türkiye'den çıktı...,https://www.sabah.com.tr/ekonomi/2020/07/30/dunya-devi-abdli-sirketin-banka-hesaplarina-siber-saldiri-soku-1-milyon-dolar-turkiyeden-cikti
+-11,1,tur,Kurban Bayramı'nda Siber Saldırılardan Nasıl Korunur? İşte Yöntemler,https://www.tamindir.com/haber/siber-saldirilardan-nasil-korunur_60070/
+-11,1,tur,AB'den siber saldırı kararı! 3 kuruluşa yaptırım,https://www.hurriyet.com.tr/dunya/abden-siber-saldiri-karari-3-kurulusa-yaptirim-41576872
+-11,1,tur,Avrupa Birliği ilk kez siber saldırılar nedeniyle Rusya ve Çin'e yaptırım uygulayacak,https://www.takvim.com.tr/ekonomi/2020/07/30/avrupa-birligi-ilk-kez-siber-saldirilar-nedeniyle-rusya-ve-cine-yaptirim-uygulayacak
+-11,1,tur,"ABD'den AB'nin ""siber saldırılar"" gerekçesiyle aldığı yaptırım kararına  destek",https://www.haberler.com/abd-den-ab-nin-siber-saldirilar-gerekcesiyle-13468431-haberi/
+-11,15,tur,AB ilk kez siber saldırılar nedeniyle yaptırım uygulayacak,https://ekonomi.haber7.com/ekonomi/haber/2999903-ab-ilk-kez-siber-saldirilar-nedeniyle-yaptirim-uygulayacak
 -11,1,tur,AB'den siber saldırı kararı!,http://www.bursahakimiyet.com.tr/haber/ab-den-siber-saldiri-karari-398511.html
+-11,5,tur,"ABD'den AB'nin ""siber saldırılar"" gerekçesiyle aldığı yaptırım kararına destek",https://www.yeniakit.com.tr/haber/abdden-abnin-siber-saldirilar-gerekcesiyle-aldigi-yaptirim-kararina--destek--1347814.html
 -11,1,ita,Accusa degli USA: hacker cinesi hanno violato i server del Vaticano,https://www.primaonline.it/2020/07/30/310679/accusa-degli-usa-hacker-cinesi-hanno-violato-server-del-vaticano/
--10,1,tur,AB'den Rusya Kuzey Kore ve Çin'e Siber Saldırı Yaptırımı,https://www.mynet.com/abden-rusya-kuzey-kore-ve-cine-siber-saldiri-yaptirimi-110106561519
--10,1,tur,En çok arananlar listesindeki hacker İstanbul'da yakalandı: 236 suçtan aranıyordu,https://www.yenisafak.com/teknoloji/en-cok-arananlar-listesindeki-hacker-istanbulda-yakalandi-236-suctan-araniyordu-3551373
--10,1,tur,İstanbul'da suç makinesi hacker yakalandı,https://www.internethaber.com/istanbulda-suc-makinesi-hacker-yakalandi-2117823h.htm
--10,1,tur,Son dakika... Milyarderleri Hack'leyen bir çocukmuş!,https://www.milliyet.com.tr/dunya/son-dakika-milyarderleri-hackleyen-bir-cocukmus-6272901
--10,1,tur,İranlı bilgisayar korsanlarından İsrail'e siber saldırı iddiası,https://www.trthaber.com/haber/dunya/iranli-bilgisayar-korsanlarindan-israile-siber-saldiri-iddiasi-505914.html
--10,3,tur,"İranlı bilgisayar korsanlarından ""İsrail'in 28 metro ve tren istasyonuna siber saldırı"" iddiası",https://www.haberler.com/iranli-bilgisayar-korsanlarindan-israil-in-28-13469018-haberi/
--10,2,tur,Sosyal ağları kim 'hack'liyor?,https://www.haberturk.com/sosyal-aglari-kim-hackliyor-2760388-teknoloji
--10,2,tur,E-ticaretteki büyüme siber saldırı artışını beraberinde getirdi,https://www.ogunhaber.com/ekonomi/e-ticaretteki-buyume-siber-saldiri-artisini-beraberinde-getirdi-2048793h.html
--10,2,tur,Ünlü isimlerin Twitter hesaplarını hackleyen kişi gözaltına alındı,https://www.haberler.com/unlu-isimlerin-twitter-hesaplarini-hackleyen-kisi-13470666-haberi/
--10,1,tur,Ve ortaya çıktı! Milyarderleri hackleyen bir çocukmuş!,http://www.gazetevatan.com/ve-ortaya-cikti-milyarderleri-hackleyen-bir-cocukmus--1334105-dunya/
--10,1,tur,Twitter'i hack'leyen grubun 17 yaşındaki elebaşısı olan genç tutuklandı,https://www.haberturk.com/twitter-i-hack-leyen-grubun-17-yasindaki-elebasisi-olan-genc-tutuklandi-2760960
--10,2,tur,Twitter'daki onlarca onaylı hesabın hacklenmesi olayıyla ilgili bir çocuk tutuklandı,http://www.bursadabugun.com/haber/twitter-daki-onlarca-onayli-hesabin-hacklenmesi-olayiyla-ilgili-bir-cocuk-tutuklandi-1318597.html
--10,1,tur,Twitter'ı hackleyen kişi 17 yaşındaymış - Teknolojiden Son Dakika Haberler,https://www.sozcu.com.tr/2020/teknoloji/twitteri-hackleyen-kisi-17-yasindaymis-5963916/
--10,1,tur,E-ticaretin büyümesiyle siber saldırılarda artış yaşandı,https://www.risalehaber.com/e-ticaretin-buyumesiyle-siber-saldirilarda-artis-yasandi-384593h.htm
--10,1,tur,ABD'de onlarca onaylı hesabın da ele geçirildiği Twitter hackleme skandalıyla ilgili 17 yaşındaki bir kişi tutuklandı,"https://t24.com.tr/haber/abd-de-twitter-hackleme-skandaliyla-ilgili-17-yasindaki-bir-kisi-tutuklandi,894119"
--10,1,tur,"AB'den Rus, Çin ve Kuzey Kore vatandaşlarına ilk siber saldırı yaptırımları geldi",https://tr.euronews.com/2020/07/31/ab-den-rus-cin-ve-kuzey-kore-vatandaslar-na-ilk-siber-sald-r-yapt-r-mlar-geldi
--10,1,deu,"Hacker-Angriff auf Twitter: Konten von Jeff Bezos, Bill Gates betroffen - Twitter-Insider im Visier",https://www.come-on.de/wirtschaft/twitter-hacker-angriff-apple-bitcoins-jeff-bezos-elon-musk-bill-gates-uber-barack-obama-joe-biden-zr-13834213.html
--10,1,tur,AB ilk defa siber saldırılar sebebiyle yaptırım uygulayacak,https://www.risalehaber.com/ab-ilk-defa-siber-saldirilar-sebebiyle-yaptirim-uygulayacak-384558h.htm
 -10,1,tur,Ünlülerin Twitter hesaplarını bir gecede ele geçiren hacker yakalandı,http://www.bursahakimiyet.com.tr/haber/unlulerin-twitter-hesaplarini-bir-gecede-ele-geciren-hacker-yakalandi-398980.html
+-10,1,tur,AB'den Rusya Kuzey Kore ve Çin'e Siber Saldırı Yaptırımı,https://www.mynet.com/abden-rusya-kuzey-kore-ve-cine-siber-saldiri-yaptirimi-110106561519
+-10,1,tur,Twitter'ı hackleyen kişi 17 yaşındaymış - Teknolojiden Son Dakika Haberler,https://www.sozcu.com.tr/2020/teknoloji/twitteri-hackleyen-kisi-17-yasindaymis-5963916/
+-10,2,tur,Sosyal ağları kim 'hack'liyor?,https://www.haberturk.com/sosyal-aglari-kim-hackliyor-2760388-teknoloji
+-10,1,tur,Twitter'i hack'leyen grubun 17 yaşındaki elebaşısı olan genç tutuklandı,https://www.haberturk.com/twitter-i-hack-leyen-grubun-17-yasindaki-elebasisi-olan-genc-tutuklandi-2760960
+-10,1,tur,Son dakika... Milyarderleri Hack'leyen bir çocukmuş!,https://www.milliyet.com.tr/dunya/son-dakika-milyarderleri-hackleyen-bir-cocukmus-6272901
+-10,2,tur,E-ticaretteki büyüme siber saldırı artışını beraberinde getirdi,https://www.ogunhaber.com/ekonomi/e-ticaretteki-buyume-siber-saldiri-artisini-beraberinde-getirdi-2048793h.html
+-10,1,tur,En çok arananlar listesindeki hacker İstanbul'da yakalandı: 236 suçtan aranıyordu,https://www.yenisafak.com/teknoloji/en-cok-arananlar-listesindeki-hacker-istanbulda-yakalandi-236-suctan-araniyordu-3551373
+-10,1,tur,"AB'den Rus, Çin ve Kuzey Kore vatandaşlarına ilk siber saldırı yaptırımları geldi",https://tr.euronews.com/2020/07/31/ab-den-rus-cin-ve-kuzey-kore-vatandaslar-na-ilk-siber-sald-r-yapt-r-mlar-geldi
+-10,2,tur,Ünlü isimlerin Twitter hesaplarını hackleyen kişi gözaltına alındı,https://www.haberler.com/unlu-isimlerin-twitter-hesaplarini-hackleyen-kisi-13470666-haberi/
 -10,1,tur,Ünlü isimlerin Twitter hesaplarını hackleyen 17 yaşındaki Graham Ivan Clark tutuklandı,https://www.mynet.com/unlu-isimlerin-twitter-hesaplarini-hackleyen-17-yasindaki-graham-ivan-clark-tutuklandi-110106561607
+-10,1,tur,İranlı bilgisayar korsanlarından İsrail'e siber saldırı iddiası,https://www.trthaber.com/haber/dunya/iranli-bilgisayar-korsanlarindan-israile-siber-saldiri-iddiasi-505914.html
 -10,3,tur,Twitter'daki onlarca onaylı hesabın ele geçirilmesi olayıyla ilgili bir çocuk tutuklandı,https://www.ogunhaber.com/dunya/twitterdaki-onlarca-onayli-hesabin-ele-gecirilmesi-olayiyla-ilgili-bir-cocuk-tutuklandi-2049004h.html
+-10,1,tur,E-ticaretin büyümesiyle siber saldırılarda artış yaşandı,https://www.risalehaber.com/e-ticaretin-buyumesiyle-siber-saldirilarda-artis-yasandi-384593h.htm
+-10,1,tur,AB ilk defa siber saldırılar sebebiyle yaptırım uygulayacak,https://www.risalehaber.com/ab-ilk-defa-siber-saldirilar-sebebiyle-yaptirim-uygulayacak-384558h.htm
+-10,2,tur,Twitter'daki onlarca onaylı hesabın hacklenmesi olayıyla ilgili bir çocuk tutuklandı,http://www.bursadabugun.com/haber/twitter-daki-onlarca-onayli-hesabin-hacklenmesi-olayiyla-ilgili-bir-cocuk-tutuklandi-1318597.html
+-10,3,tur,"İranlı bilgisayar korsanlarından ""İsrail'in 28 metro ve tren istasyonuna siber saldırı"" iddiası",https://www.a24.com.tr/iranli-bilgisayar-korsanlarindan-israilin-28-metro-ve-tren-istasyonuna-siber-saldiri-iddiasi-haberi-40192232h.html
+-10,1,tur,İstanbul'da suç makinesi hacker yakalandı,https://www.internethaber.com/istanbulda-suc-makinesi-hacker-yakalandi-2117823h.htm
 -10,1,tur,Ünlülerin Twitter hesaplarını bir gecede ele geçiren hacker tutuklandı,http://www.bursahakimiyet.com.tr/haber/unlulerin-twitter-hesaplarini-bir-gecede-ele-geciren-hacker-tutuklandi-398980.html
--9,1,tur,Twitter'da gerçekleşen Bitcoin Hack'inden 3 kişi tutuklandı,https://webrazzi.com/2020/08/01/twitter-da-gerceklesen-bitcoin-hack-inden-3-kisi-tutuklandi/
--9,1,tur,Twitter'ı hackleyenler kaç yaşında?,https://www.yenisafak.com/teknoloji/twitteri-hackleyenler-kac-yasinda-3551460
--9,1,tur,Son dakika: Ünlülerin Twitter hesaplarını ele geçiren internet korsanları tutuklandı,https://www.takvim.com.tr/dunya/2020/07/31/son-dakika-unlulerin-twitter-hesaplarini-ele-geciren-internet-korsanlari-tutuklandi
--9,1,tur,Milyarderleri hackleyen bir çocukmuş!,http://www.samanyoluhaber.com/milyarderleri-hackleyen-bir-cocukmus-haberi/1351175/
--9,1,tur,Bazı ünlü hesapları ele geçiren korsanlar yakalandı: 'Yetişkin gibi yargılanacak',https://www.yeniasya.com.tr/dunya/bazi-unlu-hesaplari-ele-geciren-korsanlar-yakalandi-yetiskin-gibi-yargilanacak_525326
--9,1,hun,Egy floridai tinédzsert és két fiatalt tartóztattak le a Twitter elleni hackertámadások miatt,https://www.blikk.hu/aktualis/kulfold/twitter-hacker-tamadas-floridai-17-eves-lany-graham-ivan-clark-letartoztatas/veh495h
--9,1,tur,ABD'de ünlülerin Twitter hesaplarını ele geçiren 17 yaşındaki bilgisayar korsanı tutuklandı,https://tr.euronews.com/2020/08/01/abd-de-unlulerin-twitter-hesaplar-n-ele-geciren-17-yas-ndaki-bilgisayar-korsan-tutukland
--9,1,tur,Son yılların en büyük Twitter operasyonunu yapan hackerlar yakalandı,https://www.milliyet.com.tr/dunya/son-yillarin-en-buyuk-twitter-operasyonunu-yapan-hackerlar-yakalandi-6272989
--9,1,tur,Twitter'a siber saldırıda 3 tutuklama,https://dogruhaber.com.tr/haber/682573-twittera-siber-saldirida-3-tutuklama/
--9,1,tur,Sıcak Gelişme: Twitter Tarihinin En Büyük Hackinin Beyni Tutuklandı!,https://kriptokoin.com/twitter-tarihinin-en-buyuk-hackinin-beyni-tutuklandi/
--9,3,tur,Ünlülerin Twitter hesaplarını ele geçiren 3 korsan tutuklandı,https://www.haksozhaber.net/unlulerin-twitter-hesaplarini-ele-geciren-3-korsan-tutuklandi-131732h.htm
--9,1,tur,"Ünlülerin Twitter hesabını 'hack'leyen, biri 17 yaşında üç korsan yakalandı -  HABERDAR",http://www.haberdar.com/dunya/unlulerin-twitter-hesabini-hack-leyen-biri-17-yasinda-uc-korsan-yakalandi-h181229.html
+-10,1,tur,Ve ortaya çıktı! Milyarderleri hackleyen bir çocukmuş!,http://www.gazetevatan.com/ve-ortaya-cikti-milyarderleri-hackleyen-bir-cocukmus--1334105-dunya/
+-10,1,tur,ABD'de onlarca onaylı hesabın da ele geçirildiği Twitter hackleme skandalıyla ilgili 17 yaşındaki bir kişi tutuklandı,"https://t24.com.tr/haber/abd-de-twitter-hackleme-skandaliyla-ilgili-17-yasindaki-bir-kisi-tutuklandi,894119"
 -9,4,tur,Ünlülerin Twitter hesaplarını ele geçiren internet korsanları yakalandı,https://ogunhaber.com/dunya/unlulerin-twitter-hesaplarini-ele-geciren-internet-korsanlari-yakalandi-2049029h.html
--9,2,tur,Ünlülerin Twitter hesaplarını ele geçiren korsanlar tutuklandı,https://www.tgrthaber.com.tr/dunya/unlulerin-twitter-hesaplarini-ele-geciren-korsanlar-tutuklandi-2728938
--9,1,tur,Ünlülerin Twitter hesaplarını ele geçirenler tutuklandı! İçlerinde çocuk da var...,https://www.milliyet.com.tr/dunya/unlulerin-twitter-hesaplarini-ele-gecirenler-tutuklandi-iclerinde-cocuk-da-var-6272901
--9,1,tur,Ünlülerin Twitter Hesaplarını Hackleyenler Yakalandı: Biri 17 Yaşında,https://www.tamindir.com/haber/unlulerin-twitter-hesaplarini-hackleyenler_60097/
--9,1,tur,TWİTTER'DAKİ HESAP HACKLEME OLAYIYLA İLGİLİ BİR ÇOCUK TUTUKLANDI,https://www.ucankus.com/detay/454339/twitter-daki-hesap-hackleme-olayiyla-ilgili-bir-cocuk-tutuklandi
 -9,7,tur,Ünlülerin Twitter hesaplarını ele geçiren 2 Amerikalı ile bir İngiliz korsan tutuklandı,https://www.haberturk.com/unlulerin-twitter-hesaplarini-ele-geciren-2-amerikali-ile-bir-ingiliz-korsan-tutuklandi-2761020
+-9,1,tur,ABD'de ünlülerin Twitter hesaplarını ele geçiren 17 yaşındaki bilgisayar korsanı tutuklandı,https://tr.euronews.com/2020/08/01/abd-de-unlulerin-twitter-hesaplar-n-ele-geciren-17-yas-ndaki-bilgisayar-korsan-tutukland
+-9,1,tur,Sıcak Gelişme: Twitter Tarihinin En Büyük Hackinin Beyni Tutuklandı!,https://kriptokoin.com/twitter-tarihinin-en-buyuk-hackinin-beyni-tutuklandi/
+-9,1,tur,Son dakika: Ünlülerin Twitter hesaplarını ele geçiren internet korsanları tutuklandı,https://www.takvim.com.tr/dunya/2020/07/31/son-dakika-unlulerin-twitter-hesaplarini-ele-geciren-internet-korsanlari-tutuklandi
+-9,1,tur,Ünlülerin Twitter hesaplarını ele geçirenler tutuklandı! İçlerinde çocuk da var...,https://www.milliyet.com.tr/dunya/unlulerin-twitter-hesaplarini-ele-gecirenler-tutuklandi-iclerinde-cocuk-da-var-6272901
+-9,1,tur,Twitter'a siber saldırıda 3 tutuklama,https://dogruhaber.com.tr/haber/682573-twittera-siber-saldirida-3-tutuklama/
+-9,1,hun,Egy floridai tinédzsert és két fiatalt tartóztattak le a Twitter elleni hackertámadások miatt,https://www.blikk.hu/aktualis/kulfold/twitter-hacker-tamadas-floridai-17-eves-lany-graham-ivan-clark-letartoztatas/veh495h
+-9,1,tur,TWİTTER'DAKİ HESAP HACKLEME OLAYIYLA İLGİLİ BİR ÇOCUK TUTUKLANDI,https://www.ucankus.com/detay/454339/twitter-daki-hesap-hackleme-olayiyla-ilgili-bir-cocuk-tutuklandi
 -9,1,tur,Twitter'ı Tampa'lı bu genç mi hack'ledi?,https://www.medyaloji.net/son-haber/twitteri-tampali-bu-genc-mi-hackledi_23675332.html
+-9,2,tur,Ünlülerin Twitter hesaplarını ele geçiren korsanlar tutuklandı,https://www.hurriyet.com.tr/teknoloji/unlulerin-twitter-hesaplarini-ele-geciren-korsanlar-tutuklandi-41577621
+-9,3,tur,Ünlülerin Twitter hesaplarını ele geçiren 3 korsan tutuklandı,https://www.haksozhaber.net/unlulerin-twitter-hesaplarini-ele-geciren-3-korsan-tutuklandi-131732h.htm
+-9,1,tur,Twitter'da gerçekleşen Bitcoin Hack'inden 3 kişi tutuklandı,https://webrazzi.com/2020/08/01/twitter-da-gerceklesen-bitcoin-hack-inden-3-kisi-tutuklandi/
+-9,1,tur,"Ünlülerin Twitter hesabını 'hack'leyen, biri 17 yaşında üç korsan yakalandı -  HABERDAR",http://www.haberdar.com/dunya/unlulerin-twitter-hesabini-hack-leyen-biri-17-yasinda-uc-korsan-yakalandi-h181229.html
+-9,1,tur,Ünlülerin Twitter Hesaplarını Hackleyenler Yakalandı: Biri 17 Yaşında,https://www.tamindir.com/haber/unlulerin-twitter-hesaplarini-hackleyenler_60097/
+-9,1,tur,Bazı ünlü hesapları ele geçiren korsanlar yakalandı: 'Yetişkin gibi yargılanacak',https://www.yeniasya.com.tr/dunya/bazi-unlu-hesaplari-ele-geciren-korsanlar-yakalandi-yetiskin-gibi-yargilanacak_525326
+-9,1,tur,Milyarderleri hackleyen bir çocukmuş!,http://www.samanyoluhaber.com/milyarderleri-hackleyen-bir-cocukmus-haberi/1351175/
+-9,1,tur,Twitter'ı hackleyenler kaç yaşında?,https://www.yenisafak.com/teknoloji/twitteri-hackleyenler-kac-yasinda-3551460
+-9,1,tur,Son yılların en büyük Twitter operasyonunu yapan hackerlar yakalandı,https://www.milliyet.com.tr/dunya/son-yillarin-en-buyuk-twitter-operasyonunu-yapan-hackerlar-yakalandi-6272989
 -8,1,tur,"FBI, Twitter'ı hackleyen bilgisayar korsanlarını sürücü ehliyeti ve IP adresi ile yakaladı",https://tr.euronews.com/2020/08/02/fbi-twitter-hackleyen-bilgisayar-korsanlar-n-surucu-ehliyeti-ve-ip-adresi-ile-yakalad
 -7,1,tur,"Kurumlar ve devletler arası siber güvenlik, siber savaş","https://t24.com.tr/yazarlar/hayri-cem-haftalik/kurumlar-ve-devletler-arasi-siber-guvenlik-siber-savas,27571"
 -6,1,tur,Garmin Hack Olayında Son Durum: Fidyecilere Milyon Dolarlık Ödeme!,https://www.tamindir.com/haber/garmin-hack-olayinda-son-durum_60159/
 -6,1,tur,Twitter'daki hack olayı neyi kanıtladı?,https://www.milliyet.com.tr/twitter-daki-hack-olayi-neyi-kanitladi--molatik-16490/
 -6,1,tur,Hackerler saldırı tekniklerini çeşitlendirmeyi sürdürüyor,https://www.haksozhaber.net/hackerler-saldiri-tekniklerini-cesitlendirmeyi-surduruyor-131888h.htm
 -5,1,tur,"Ünlü iç çamaşırı markası Penti, siber saldırıya uğradığını duyurdu",https://www.haberler.com/unlu-ic-camasiri-markasi-penti-siber-saldiriya-13480518-haberi/
--5,1,tur,"Türk hackerler, PYD/PKK ile ABD'nin finansal işlemleri sağladığı bankayı vurdu!",https://www.yeniakit.com.tr/haber/turk-hackerler-pydpkk-ile-abdnin-finansal-islemleri-sagladigi-bankayi-vurdu-1352354.html
--5,1,tur,Siber saldırıya uğrayan şirket duyurdu! Risk söz konusu değil,http://www.bursahakimiyet.com.tr/haber/siber-saldiriya-ugrayan-sirket-duyurdu-risk-soz-konusu-degil-400554.html
--5,1,tur,"Penti, siber saldırıya uğradığını açıkladı - Son Dakika Ekonomi",https://www.sondakika.com/haber/haber-unlu-ic-camasiri-markasi-penti-siber-saldiriya-13480518/
--5,1,tur,"Penti hacklendi mi, açıklama geldi! Penti'de kayıtlı kredi kartı bilgileri çalınır mı? Penti iade ve değişimler ne olacak?",https://www.mynet.com/penti-hacklendi-mi-aciklama-geldi-penti-de-kayitli-kredi-karti-bilgileri-calinir-mi-penti-iade-ve-degisimler-ne-olacak-110106563593
--5,1,tur,"31 Temmuz'da siber saldırıya uğrayan Penti, konuyla ilgili açıklama yaptı",https://webrazzi.com/2020/08/05/31-temmuzda-siber-saldiriya-ugrayan-penti-konuyla-ilgili-aciklama-yapti/
--5,1,tur,GPS teknolojileri şirketi Garmin'e siber saldırı: 10 milyon dolar fidye istendi,https://tr.euronews.com/2020/08/05/gps-teknolojileri-sirketi-garmin-e-siber-sald-r-10-milyon-dolar-fidye-istendi
--5,1,nld,Turkije: hoofdverdachte Antwerpse haven-hackers geliquideerd (UPDATE),https://www.crimesite.nl/turkije-hoofdverdachte-antwerpse-haven-hackers-geliquideerd/
 -5,2,tur,Penti'ye siber saldırı,https://www.f5haber.com/haberturk/pentiye-siber-saldiri-5652987
 -5,1,tur,Penti: Siber saldırıya uğradık,https://www.gercekgundem.com/ekonomi/202468/penti-siber-saldiriya-ugradik
+-5,1,nld,Turkije: hoofdverdachte Antwerpse haven-hackers geliquideerd (UPDATE),https://www.crimesite.nl/turkije-hoofdverdachte-antwerpse-haven-hackers-geliquideerd/
+-5,1,tur,GPS teknolojileri şirketi Garmin'e siber saldırı: 10 milyon dolar fidye istendi,https://tr.euronews.com/2020/08/05/gps-teknolojileri-sirketi-garmin-e-siber-sald-r-10-milyon-dolar-fidye-istendi
+-5,1,tur,"31 Temmuz'da siber saldırıya uğrayan Penti, konuyla ilgili açıklama yaptı",https://webrazzi.com/2020/08/05/31-temmuzda-siber-saldiriya-ugrayan-penti-konuyla-ilgili-aciklama-yapti/
+-5,1,tur,"Penti hacklendi mi, açıklama geldi! Penti'de kayıtlı kredi kartı bilgileri çalınır mı? Penti iade ve değişimler ne olacak?",https://www.mynet.com/penti-hacklendi-mi-aciklama-geldi-penti-de-kayitli-kredi-karti-bilgileri-calinir-mi-penti-iade-ve-degisimler-ne-olacak-110106563593
 -5,1,tur,"Penti, siber saldırıya uğradığını açıkladı",https://www.dunya.com/sirketler/penti-siber-saldiriya-ugradigini-acikladi-haberi-476974
+-5,1,tur,"Penti, siber saldırıya uğradığını açıkladı - Son Dakika Ekonomi",https://www.sondakika.com/haber/haber-unlu-ic-camasiri-markasi-penti-siber-saldiriya-13480518/
+-5,1,tur,Siber saldırıya uğrayan şirket duyurdu! Risk söz konusu değil,http://www.bursahakimiyet.com.tr/haber/siber-saldiriya-ugrayan-sirket-duyurdu-risk-soz-konusu-degil-400554.html
 -5,1,tur,Son dakika! Penti'ye siber saldırı,https://www.haberturk.com/son-dakika-penti-ye-siber-saldiri-2764664-teknoloji
--4,1,tur,Siber saldırıya uğrayan işletmeler kepenk indiriyor,https://www.hurriyet.com.tr/teknoloji/siber-saldiriya-ugrayan-isletmeler-kepenk-indiriyor-41580691
--4,1,tur,Twitter'da 130 ünlü ismin hesabını hackleyen korsanın duruşmasında porno yayını,https://tr.euronews.com/2020/08/06/twitter-da-130-unlu-ismin-hesab-n-hackleyen-korsan-n-durusmas-nda-porno-yay-n
+-5,1,tur,"Türk hackerler, PYD/PKK ile ABD'nin finansal işlemleri sağladığı bankayı vurdu!",https://www.yeniakit.com.tr/haber/turk-hackerler-pydpkk-ile-abdnin-finansal-islemleri-sagladigi-bankayi-vurdu-1352354.html
 -4,1,tur,Penti siber saldırı iddialarını doğruladı!,https://www.medyaloji.net/son-haber/penti-siber-saldiri-iddialarini-dogruladi_23675388.html
 -4,1,tur,ABD'li GPS şirketine 10 milyon dolarlık siber saldırı,https://www.ensonhaber.com/teknoloji/abdli-gps-sirketine-10-milyon-dolarlik-siber-saldiri
--4,1,tur,"Ford CEO'su Jim Hackett, görevi bırakma kararı aldı",https://www.ensonhaber.com/otomobil/ford-ceosu-jim-hackett-gorevi-birakma-karari-aldi
 -4,1,tur,Penti siber saldırıya uğradığını müşterilerine duyurdu!,https://www.memurhaber.com/penti-siber-saldiriya-ugradigini-musterilerine-duyurdu-2002098h.htm
+-4,1,tur,"Ford CEO'su Jim Hackett, görevi bırakma kararı aldı",https://www.ensonhaber.com/otomobil/ford-ceosu-jim-hackett-gorevi-birakma-karari-aldi
+-4,1,tur,Twitter'da 130 ünlü ismin hesabını hackleyen korsanın duruşmasında porno yayını,https://tr.euronews.com/2020/08/06/twitter-da-130-unlu-ismin-hesab-n-hackleyen-korsan-n-durusmas-nda-porno-yay-n
+-4,1,tur,Siber saldırıya uğrayan işletmeler kepenk indiriyor,https://www.hurriyet.com.tr/teknoloji/siber-saldiriya-ugrayan-isletmeler-kepenk-indiriyor-41580691
 -3,2,tur,Canon siber saldırıya uğradı: Kullanıcı verilerini çaldırdı,https://www.hurriyet.com.tr/teknoloji/canon-siber-saldiriya-ugradi-kullanici-verilerini-caldirdi-41581542
--3,1,tur,Trafiği Karıştırabilecek Siber Saldırı Tekniği Keşfedildi,https://www.webtekno.com/hackerlar-hollandada-trafik-isiklarini-kontrol-ettiler-h97694.html
 -3,1,tur,Canon'a siber saldırı nasıl gerçekleşti?,https://www.yenisafak.com/teknoloji/canona-siber-saldiri-nasil-gerceklesti-3552189
+-3,1,tur,Trafiği Karıştırabilecek Siber Saldırı Tekniği Keşfedildi,https://www.webtekno.com/hackerlar-hollandada-trafik-isiklarini-kontrol-ettiler-h97694.html
 -3,1,tur,Twitter'ı Hackleyen Hackerın Duruşmasında Porno Yayın,https://www.webtekno.com/twitter-hack-durusma-porno-yayin-h97665.html
 -2,2,deu,"Hickhack der Wiener Parteien wegen Corona, Identitären und Migranten",https://www.vol.at/hickhack-der-wiener-parteien-wegen-corona-identitaeren-und-migranten/6700964
 -1,1,tur,En iyi hacker filmleri listesi! IMDb puanına göre hacker konulu 20 film,https://www.chip.com.tr/haber/en-iyi-hacker-filmleri-listesi-imdb-puanina-gore-hacker-konulu-20-film_89710.html
-0,2,tur,Siber saldırılara karşı önlem olarak ortaya çıktı,http://www.bursahakimiyet.com.tr/haber/siber-saldirilara-karsi-onlem-olarak-ortaya-cikti-402582.html
-0,1,tur,"DDoS Saldırısı Nedir, Nasıl Gerçekleşir?",https://www.webtekno.com/ddos-nedir-h97798.html
-0,1,tur,Şirketleri ve etik hackerları buluşturdu,https://www.haberturk.com/sirketleri-ve-etik-hackerlari-bulusturdu-2769008-ekonomi
-0,1,tur,Trafik ışıkları ele geçirilebilir mi? Evet bunu da yaptılar,https://donanimgunlugu.com/trafik-isiklari-ele-gecirilebilir-mi-evet-bunu-da-yaptilar-249911
+0,2,tur,Siber saldırılara karşı önlem olarak ortaya çıktı,https://www.cnnturk.com/teknoloji/siber-saldirilara-karsi-onlem-olarak-ortaya-cikti
 0,1,spa,A Patricia Ércole le hackearon el Instagram desde Turquía,https://www.pulzo.com/entretenimiento/patricia-ercole-hackearon-instagram-desde-turquia-PP949596
-1,1,tur,Modern hackerlar her şeye ulaşabiliyorlar,https://www.cnnturk.com/teknoloji/modern-hackerlar-her-seye-ulasabiliyorlar
+0,1,tur,"DDoS Saldırısı Nedir, Nasıl Gerçekleşir?",https://www.webtekno.com/ddos-nedir-h97798.html
+0,1,tur,Trafik ışıkları ele geçirilebilir mi? Evet bunu da yaptılar,https://donanimgunlugu.com/trafik-isiklari-ele-gecirilebilir-mi-evet-bunu-da-yaptilar-249911
+0,1,tur,Şirketleri ve etik hackerları buluşturdu,https://www.haberturk.com/sirketleri-ve-etik-hackerlari-bulusturdu-2769008-ekonomi
+1,1,tur,CS:GO'da Ek Yazılıma İhtiyaç Duymayan Wallhack Keşfedildi,https://www.webtekno.com/cs-go-wallhack-kesfedildi-h97872.html
+1,5,tur,Başarılı siber saldırıların yüzde 30'u yasal araçların kötüye kullanımıyla gerçekleşiyor,https://www.diyadinnet.com/basarili-siber-saldirilarin-yuzde-30-u-yasal-araclarin-kotuye-kullanimiyla-gerceklesiyor-h129040
 1,1,tur,Başarılı siber saldırılar yasal araçların kötüye kullanımıyla gerçekleşiyor,https://www.hurriyet.com.tr/teknoloji/basarili-siber-saldirilar-yasal-araclarin-kotuye-kullanimiyla-gerceklesiyor-41584363
 1,3,tur,Ele geçirilen akıllı saatler veri kaybına zemin hazırlayabilir,https://www.hurriyet.com.tr/teknoloji/ele-gecirilen-akilli-saatler-veri-kaybina-zemin-hazirlayabilir-41584367
-1,1,tur,CS:GO'da Ek Yazılıma İhtiyaç Duymayan Wallhack Keşfedildi,https://www.webtekno.com/cs-go-wallhack-kesfedildi-h97872.html
-1,5,tur,Başarılı siber saldırıların yüzde 30'u yasal araçların kötüye kullanımıyla gerçekleşiyor,http://www.ogunhaber.com/ekonomi/basarili-siber-saldirilarin-yuzde-30u-yasal-araclarin-kotuye-kullanimiyla-gerceklesiyor-2052547h.html
 1,1,tur,Siber saldırılar mobil cihazlara yöneldi: Tehlikeye dikkat!,https://www.hurriyet.com.tr/teknoloji/siber-saldirilar-mobil-cihazlara-yoneldi-tehlikeye-dikkat-41584213
-2,2,tur,Türkiye'nin en iyi hacker'ları yarıştı,https://odatv4.com/sondakika.php?n=turkiyenin-en-iyi-hackerlari-yaristi-12082012
-2,1,tur,Türkiye'nin en iyi hacker'ları yarıştı - Bilim Teknoloji Haberleri,http://www.gazetevatan.com/turkiye-nin-en-iyi-hacker-lari-yaristi-1336177-teknoloji/
-2,3,tur,DDoS saldırıları geçen yıla göre 3 kat arttı,https://www.haber7.com/teknoloji/haber/3003312-ddos-saldirilari-gecen-yila-gore-3-kat-artti
+1,1,tur,Modern hackerlar her şeye ulaşabiliyorlar,https://www.cnnturk.com/teknoloji/modern-hackerlar-her-seye-ulasabiliyorlar
 2,1,tur,Siber saldırılar yılın ikinci çeyreğinde 3 kat arttı,https://www.haberturk.com/siber-saldirilar-yilin-ikinci-ceyreginde-3-kat-artti-2770721-teknoloji
 2,1,tur,İsrail: Devlet destekli bir grup savunma sanayimize siber saldırı düzenledi,https://tr.euronews.com/2020/08/12/israil-devlet-destekli-bir-grup-savunma-sanayimize-siber-sald-r-duzenledi
 2,2,tur,Filmlerdeki hackerlar gerçeği yansıtıyor mu?,https://donanimgunlugu.com/filmlerdeki-hackerlar-gercegi-yansitiyor-mu-250118
-2,1,tur,Ünlülerin Twitter hesaplarını ele geçirenler tutuklandı,https://www.mavikocaeli.com.tr/2020/dunya/unlulerin-twitter-hesaplarini-ele-gecirenler-tutuklandi/44328/
 2,1,tur,Türkiye'deki en iyi hacker'lar yarıştı,https://www.risalehaber.com/turkiyedeki-en-iyi-hackerlar-yaristi-385452h.htm
-3,1,ita,Hackerato il profilo Instagram di Lautaro Martinez |  postata una bandiera turca FOTO,https://www.zazoom.it/2020-08-13/hackerato-il-profilo-instagram-di-lautaro-martinez-postata-una-bandiera-turca-foto/7052862/
-3,1,spa,Deportes: Europa League: Lautaro Martínez sufrió hackeo en su cuenta de Instagra,https://trome.pe/deportes/europa-league-lautaro-martinez-sufrio-hackeo-en-su-cuenta-de-instagram-noticia/
-3,1,ita,Lautaro Martinez |  social hackerato |  ecco cosa è successo,https://www.zazoom.it/2020-08-13/lautaro-martinez-social-hackerato-ecco-cosa-e-successo/7054226/
-3,1,ita,"Lautaro, disguido social: attacco hacker al suo profilo Instagram subito sventato",https://www.fcinternews.it/news/lautaro-disguido-social-attacco-hacker-al-suo-profilo-instagram-subito-sventato-345397
-3,1,tur,NSA ve FBI: Rusya'nın siber saldırı yazılımı 'Drovorub'u deşifre ettik,https://tr.euronews.com/2020/08/13/nsa-ve-fbi-rusya-n-n-siber-sald-r-yaz-l-m-drovorub-u-desifre-ettik
-3,1,spa,Lautaro Martínez fue atacado por unos hackers en su cuenta de Instagram,https://www.lanueva.com/nota/2020-8-13-9-14-0-lautaro-martinez-fue-atacado-por-unos-hackers-en-su-cuenta-de-instagram
-3,1,spa,Hackers que le robaron la cuenta de Instagram a Lautaro Martínez,https://www.elesquiu.com/deportes/2020/8/13/hackers-que-le-robaron-la-cuenta-de-instagram-lautaro-martinez-367640.html
-3,1,spa,Hackean cuenta de Instagram de Lautaro Martínez con live incluido,https://redgol.cl/internacional/Hackean-cuenta-de-Instagram-de-Lautaro-Martinez-con-live-incluido-20200813-0005.html
-3,1,tur,Akıllı Saatiniz Ele Geçirilirse Başınız Yanabilir!,https://www.chip.com.tr/haber/akilli-saatiniz-ele-gecirilirse-basiniz-yanabilir_89760.html
+2,1,tur,Ünlülerin Twitter hesaplarını ele geçirenler tutuklandı,https://www.mavikocaeli.com.tr/2020/dunya/unlulerin-twitter-hesaplarini-ele-gecirenler-tutuklandi/44328/
+2,3,tur,DDoS saldırıları geçen yıla göre 3 kat arttı,https://www.haber7.com/teknoloji/haber/3003312-ddos-saldirilari-gecen-yila-gore-3-kat-artti
+2,1,tur,Türkiye'nin en iyi hacker'ları yarıştı - Bilim Teknoloji Haberleri,http://www.gazetevatan.com/turkiye-nin-en-iyi-hacker-lari-yaristi-1336177-teknoloji/
+2,2,tur,Türkiye'nin en iyi hacker'ları yarıştı,https://odatv4.com/sondakika.php?n=turkiyenin-en-iyi-hackerlari-yaristi-12082012
 3,1,tur,Geçen yıla oranla DDoS saldırıları 3 kat arttı,https://www.risalehaber.com/gecen-yila-oranla-ddos-saldirilari-3-kat-artti-385470h.htm
-4,1,zho,国美任命向海龙为线上平台CEO；丁磊将在抖音直播带货首秀；Shake Shack来北京开店｜消研所Ն,https://www.tmtpost.com/4625898.html
-4,2,tur,"Türk hackerlar, Yunan bakanlığın sitesini hackledi: Oruç Reis'e yaptığınız her saldırıya internet üzerinden yanıt vereceğiz",https://www.sondakika.com/haber/haber-turk-hackerlar-yunan-bakanligin-sitesini-13508758/
-4,1,tur,"Türk hacker Yunan bakanlığın sitesini hack'ledi! ""Oruç Reis'in cevabını alacaksınız""",https://www.yeniakit.com.tr/haber/turk-hacker-yunan-bakanligin-sitesini-hackledi-oruc-reisin-cevabini-alacaksiniz-1360334.html
-4,1,ron,Un grup de hackeri finanţaţi de Coreea de Nord au atacat industria israeliană de apărare,https://www.bursa.ro/un-grup-de-hackeri-finantati-de-coreea-de-nord-au-atacat-industria-israeliana-de-aparare-87733044
-4,2,tur,Türk hackerlar Yunan bakanlığın sitesini hackledi,https://www.haber7.com/dunya/haber/3004090-turk-hackerlar-yunan-bakanligin-sitesini-hackledi
-4,4,tur,"Türk hackerlar, Yunanistan Çalışma Bakanlığı'nın internet sitesini hackledi",https://www.gercekgundem.com/guncel/204845/turk-hackerlar-yunanistan-calisma-bakanliginin-internet-sitesini-hackledi
-4,1,tur,Türk hackerlardan Yunanistan'a saldırı,https://odatv4.com/turk-hackerlardan-yunanistana-saldiri-14082031.html
+3,1,spa,Hackean cuenta de Instagram de Lautaro Martínez con live incluido,https://redgol.cl/internacional/Hackean-cuenta-de-Instagram-de-Lautaro-Martinez-con-live-incluido-20200813-0005.html
+3,1,ita,"Lautaro, disguido social: attacco hacker al suo profilo Instagram subito sventato",https://www.fcinternews.it/news/lautaro-disguido-social-attacco-hacker-al-suo-profilo-instagram-subito-sventato-345397
+3,1,spa,Hackers que le robaron la cuenta de Instagram a Lautaro Martínez,https://www.elesquiu.com/deportes/2020/8/13/hackers-que-le-robaron-la-cuenta-de-instagram-lautaro-martinez-367640.html
+3,1,ita,Lautaro Martinez |  social hackerato |  ecco cosa è successo,https://www.zazoom.it/2020-08-13/lautaro-martinez-social-hackerato-ecco-cosa-e-successo/7054226/
+3,1,spa,Lautaro Martínez fue atacado por unos hackers en su cuenta de Instagram,https://www.lanueva.com/nota/2020-8-13-9-14-0-lautaro-martinez-fue-atacado-por-unos-hackers-en-su-cuenta-de-instagram
+3,1,tur,Akıllı Saatiniz Ele Geçirilirse Başınız Yanabilir!,https://www.chip.com.tr/haber/akilli-saatiniz-ele-gecirilirse-basiniz-yanabilir_89760.html
+3,1,tur,NSA ve FBI: Rusya'nın siber saldırı yazılımı 'Drovorub'u deşifre ettik,https://tr.euronews.com/2020/08/13/nsa-ve-fbi-rusya-n-n-siber-sald-r-yaz-l-m-drovorub-u-desifre-ettik
+3,1,spa,Deportes: Europa League: Lautaro Martínez sufrió hackeo en su cuenta de Instagra,https://trome.pe/deportes/europa-league-lautaro-martinez-sufrio-hackeo-en-su-cuenta-de-instagram-noticia/
+3,1,ita,Hackerato il profilo Instagram di Lautaro Martinez |  postata una bandiera turca FOTO,https://www.zazoom.it/2020-08-13/hackerato-il-profilo-instagram-di-lautaro-martinez-postata-una-bandiera-turca-foto/7052862/
 4,1,tur,Türkiye'nin en iyi hacker'larý yarýþtý - Teknoloji,https://www.dha.com.tr/teknoloji/turkiyenin-en-iyi-hackerlari-yaristi/haber-1785422
+4,1,ron,Un grup de hackeri finanţaţi de Coreea de Nord au atacat industria israeliană de apărare,https://www.bursa.ro/un-grup-de-hackeri-finantati-de-coreea-de-nord-au-atacat-industria-israeliana-de-aparare-87733044
 4,1,tur,"LTE güvenlik açığı, hackerların mobil çağrıları dinlemesine izin veriyor",https://www.donanimhaber.com/lte-guvenlik-acigi-hackerlarin-mobil-cagrilari-dinlemesine-izin-veriyor--124183
+4,1,zho,国美任命向海龙为线上平台CEO；丁磊将在抖音直播带货首秀；Shake Shack来北京开店｜消研所Ն,https://www.tmtpost.com/4625898.html
 4,2,tur,"Siber saldırının yıllık faturası 2,2 milyon dolar",http://www.turkiyegazetesi.com.tr/ekonomi/724807.aspx
+4,4,tur,"Türk hackerlar, Yunanistan Çalışma Bakanlığı'nın internet sitesini hackledi",http://www.bursahakimiyet.com.tr/haber/turk-hackerlar-yunanistan-calisma-bakanligi-nin-internet-sitesini-hackledi-404969.html
+4,1,tur,Türk hackerlardan Yunanistan'a saldırı,https://odatv4.com/turk-hackerlardan-yunanistana-saldiri-14082031.html
+4,2,tur,Türk hackerlar Yunan bakanlığın sitesini hackledi,https://www.haber7.com/dunya/haber/3004090-turk-hackerlar-yunan-bakanligin-sitesini-hackledi
+4,1,tur,"Türk hacker Yunan bakanlığın sitesini hack'ledi! ""Oruç Reis'in cevabını alacaksınız""",https://www.yeniakit.com.tr/haber/turk-hacker-yunan-bakanligin-sitesini-hackledi-oruc-reisin-cevabini-alacaksiniz-1360334.html
+4,2,tur,"Türk hackerlar, Yunan bakanlığın sitesini hackledi: Oruç Reis'e yaptığınız her saldırıya internet üzerinden yanıt vereceğiz",https://www.haberler.com/turk-hackerlar-yunan-bakanligin-sitesini-13508758-haberi/
 5,1,ron,"Industria israeliană de apărare, atacată de hackeri nord-coreeni. Informațiile ar putea fi transmise Iranului",https://www.capital.ro/industria-israeliana-de-aparare-atacata-de-hackeri-nord-coreeni-informatiile-ar-putea-fi-transmise-iranului.html
 6,1,tur,Bu alışkanlıklar bağışıklığı çökertiyor!,https://www.sozcu.com.tr/hayatim/yasam-haberleri/bu-aliskanliklar-bagisikligi-cokertiyor/
-7,1,tur,"Yapay Zekanın Oluşturduğu Blog, Hacker News'te 1. Oldu",https://www.webtekno.com/yapay-zekanin-olusturdugu-blog-hacker-newste-birinci-oldu-h98124.html
-7,1,tur,"Üniversite öğrencisi, GPT-3 kullanarak oluşturduğu sahte blog sayfası ile Hacker News'te 1. sıraya oturdu",https://webrazzi.com/2020/08/17/gpt3-blog-hacker-news/
-7,1,tur,Japonya'dan Kovid-19 aşısı geliştiren şirketlere siber saldırı uyarısı,https://www.risalehaber.com/japonyadan-kovid-19-asisi-gelistiren-sirketlere-siber-saldiri-uyarisi-385777h.htm
 7,1,tur,Son dakika: Japonya'dan Kovid-19 aşısıyla ilgili siber saldırı uyarısı,https://www.takvim.com.tr/dunya/2020/08/17/son-dakika-japonyadan-kovid-19-asisiyla-ilgili-siber-saldiri-uyarisi
 7,1,tur,"REvil Hack Grubu, Bir Şirketten 1 TB'lık Veri Çaldı",https://www.webtekno.com/revil-hack-grubu-brown-forman-sirketinden-1-tb-veri-caldi-h98147.html
-7,3,tur,İran Genelkurmay Başkanlığı: Siber saldırılara sert karşılık vereceğiz,https://www.haberler.com/iran-genelkurmay-baskanligi-siber-saldirilara-sert-13514536-haberi/
+7,1,tur,"Üniversite öğrencisi, GPT-3 kullanarak oluşturduğu sahte blog sayfası ile Hacker News'te 1. sıraya oturdu",https://webrazzi.com/2020/08/17/gpt3-blog-hacker-news/
 7,1,tur,Japonya'dan aşı geliştiren kurumlara siber saldırı uyarısı,http://www.bursahakimiyet.com.tr/haber/japonya-dan-asi-gelistiren-kurumlara-siber-saldiri-uyarisi-405638.html
-8,1,tur,"Coca Cola ismini kullanan hacker'lar, kişisel verileri çalıyor",http://www.bursahakimiyet.com.tr/haber/coca-cola-ismini-kullanan-hacker-lar-kisisel-verileri-caliyor-406322.html
-8,1,tur,"ABD'li senatörler, Putin'i 'Demokrat Parti'ye ait sunucuyu hackleme talimatı vermekle' suçladı",https://tr.sputniknews.com/abd/202008181042677505-abdli-senatorler-putini-demokrat-partiye-ait-sunucuyu-hackleme-talimati-vermekle-sucladi/
-8,1,ita,Gli hacker di Grecia e Turchia si dichiarano guerra cibernetica,https://it.sputniknews.com/mondo/202008189438937-hacker-turchi-e-greci-dichiarano-guerra-cibernetica/
+7,1,tur,Japonya'dan Kovid-19 aşısı geliştiren şirketlere siber saldırı uyarısı,https://www.risalehaber.com/japonyadan-kovid-19-asisi-gelistiren-sirketlere-siber-saldiri-uyarisi-385777h.htm
+7,3,tur,İran Genelkurmay Başkanlığı: Siber saldırılara sert karşılık vereceğiz,https://www.haberler.com/iran-genelkurmay-baskanligi-siber-saldirilara-sert-13514536-haberi/
+7,1,tur,"Yapay Zekanın Oluşturduğu Blog, Hacker News'te 1. Oldu",https://www.webtekno.com/yapay-zekanin-olusturdugu-blog-hacker-newste-birinci-oldu-h98124.html
 8,1,tur,"Sürücüsüz araç hacklenebilir mi, trafik cezasını kim öder? İşte en çok merak edilenler...",https://www.mynet.com/surucusuz-arac-hacklenebilir-mi-trafik-cezasini-kim-oder-iste-en-cok-merak-edilenler-110106569799
 8,2,tur,Zenginlerin hesaplarını boşaltan Türk hacker tutuklandı,https://www.f5haber.com/haber3/zenginlerin-hesaplarini-bosaltan-turk-hacker-tutuklandi-5667366
+8,1,tur,"ABD'li senatörler, Putin'i 'Demokrat Parti'ye ait sunucuyu hackleme talimatı vermekle' suçladı",https://tr.sputniknews.com/abd/202008181042677505-abdli-senatorler-putini-demokrat-partiye-ait-sunucuyu-hackleme-talimati-vermekle-sucladi/
+8,1,tur,"Coca Cola ismini kullanan hacker'lar, kişisel verileri çalıyor",http://www.bursahakimiyet.com.tr/haber/coca-cola-ismini-kullanan-hacker-lar-kisisel-verileri-caliyor-406322.html
+8,1,ita,Gli hacker di Grecia e Turchia si dichiarano guerra cibernetica,https://it.sputniknews.com/mondo/202008189438937-hacker-turchi-e-greci-dichiarano-guerra-cibernetica/
+9,1,deu,"Christian Ditter zur Netflix-Serie „Biohackers"": „Wissenschaftler sind die neuen Superhelden"" - Kultur",https://www.stuttgarter-zeitung.de/inhalt.christian-ditter-zur-netflix-serie-biohackers-wissenschaftler-sind-die-neuen-superhelden.070515e5-1614-417a-a373-be942f4b859d.html
 9,1,deu,"Vom Geschöpf zum Schöpfer: Netflix lässt die „Biohackers"" auf die Menschheit los - Medien - Gesellschaft",https://www.tagesspiegel.de/gesellschaft/medien/vom-geschoepf-zum-schoepfer-netflix-laesst-die-biohackers-auf-die-menschheit-los/26105908.html
 9,1,tur,Evden çalışanlara siber saldırı uyarısı,https://www.trthaber.com/haber/bilim-teknoloji/evden-calisanlara-siber-saldiri-uyarisi-509983.html
-9,1,deu,"Christian Ditter zur Netflix-Serie „Biohackers"": „Wissenschaftler sind die neuen Superhelden"" - Kultur",https://www.stuttgarter-zeitung.de/inhalt.christian-ditter-zur-netflix-serie-biohackers-wissenschaftler-sind-die-neuen-superhelden.070515e5-1614-417a-a373-be942f4b859d.html
 9,1,tur,Yeni Mesaj: DDOS saldýrýlarýnda büyük artýþ,http://www.yenimesaj.com.tr/ddos-saldirilarinda-buyuk-artis-H1349294.htm
+10,1,tur,Yunanistan'a bir şok da Türk hackerlardan geldi,https://www.yenisafak.com/teknoloji/yunanistana-bir-sok-da-turk-hackerlardan-geldi-3553898
+10,2,deu,"„Biohackers"" auf Netflix: Inhalt, Schauspieler, Drehort, Trailer - Neuigkeiten nach Corona-Verschiebung",https://www.hna.de/kultur/tv-kino/netflix-biohackers-neu-serie-trailer-inhalt-schauspieler-drehort-giessen-freiburg-christian-ditter-zr-12165725.html
+10,1,tur,"Hackerlar, Fiziksel Anahtarları Klonlamanın Yolunu Buldu",https://www.webtekno.com/hackerlar-fiziksel-anahtarlari-klonlamanin-yolunu-buldu-h98290.html
+10,1,tur,Y Kuşağı Siber Saldırganların İlgisini Çekmeyecek Kadar Sıkıcı,https://www.tamindir.com/haber/y-kusagi-siber-saldirganlarin-ilgisini-cekmiyor_60738/
 10,1,deu,"""Biohackers"" auf Netflix: Genforschung jenseits aller Ethik",https://www.n-tv.de/leute/tv/Genforschung-jenseits-aller-Ethik-article21982428.html
 10,1,tur,Kariyer. net'e siber saldırı! 50 bin kişinin verileri çalındı,https://www.f5haber.com/gundem/kariyer-nete-siber-saldiri-50-bin-kisinin-verileri-calindi-5669841
-10,1,tur,"Hackerlar, Fiziksel Anahtarları Klonlamanın Yolunu Buldu",https://www.webtekno.com/hackerlar-fiziksel-anahtarlari-klonlamanin-yolunu-buldu-h98290.html
 10,1,por,Influencer hackeada é chantageada com pedido de nude. O que diz a lei?,https://www.uol.com.br/universa/noticias/redacao/2020/08/20/influencer-hackeada-e-chantageada-com-pedido-de-nude-o-que-diz-a-lei.htm
-10,2,deu,"„Biohackers"" auf Netflix: Inhalt, Schauspieler, Drehort, Trailer - Neuigkeiten nach Corona-Verschiebung",https://www.op-online.de/film-tv-musik/netflix-biohackers-neu-serie-trailer-inhalt-schauspieler-drehort-giessen-freiburg-christian-ditter-zr-12165725.html
-10,1,tur,Y Kuşağı Siber Saldırganların İlgisini Çekmeyecek Kadar Sıkıcı,https://www.tamindir.com/haber/y-kusagi-siber-saldirganlarin-ilgisini-cekmiyor_60738/
-10,1,tur,Yunanistan'a bir şok da Türk hackerlardan geldi,https://www.yenisafak.com/teknoloji/yunanistana-bir-sok-da-turk-hackerlardan-geldi-3553898
-11,1,deu,"Streaming-Tipp zu ""Biohackers"": Netflix-Drama mit Luna Wedler & Jessica Schwarz",https://www.ok-magazin.de/people/news/streaming-tipp-zu-biohackers-netflix-drama-mit-luna-wedler-jessica-schwarz-66601.html
 11,1,tur,KOBİ'ler Siber Saldırıların En Büyük Hedefi Oldu!,https://www.tamindir.com/haber/kobi-ler-siber-saldirilarin-en-buyuk-hedefi_60826/
 11,1,deu,"""Biohackers"": Bühne frei für die böse Professorin",https://kurier.at/kultur/medien/biohackers-buehne-frei-fuer-die-boese-professorin/401006654
 11,1,deu,"Biohackers: Hurra, Deutschland kann auch mittelmäßige Netflix-Serien",https://www.mobilegeeks.de/test/biohackers-hurra-deutschland-kann-auch-mittelmaessige-netflix-serien/
+11,1,deu,"Streaming-Tipp zu ""Biohackers"": Netflix-Drama mit Luna Wedler & Jessica Schwarz",https://www.ok-magazin.de/people/news/streaming-tipp-zu-biohackers-netflix-drama-mit-luna-wedler-jessica-schwarz-66601.html
 12,1,tur,Twitter'da ünlülerin hesaplarını ele geçiren ekip 100 bin dolar para topladı.,https://www.istanbulhaber.com.tr/twitterda-unlulerin-hesaplarini-ele-geciren-ekip-100-bin-dolar-para-topladi-haber-1570069.htm
 12,1,spa,"""El idiota que me ha hackeado la cuenta me está haciendo un favor""",https://www.mundodeportivo.com/futbol/real-sociedad/20200822/482952320423/el-idiota-que-me-ha-hackeado-la-cuenta-me-esta-haciendo-un-favor.html
-13,1,tur,Hackerlar artık kapınızın kilidini de kırabilecek,https://tr.euronews.com/2020/08/23/hackerlar-art-k-kap-n-z-n-kilidini-de-k-rabilecek
 13,1,tur,"Yurtiçi Kargo veri tabanına erişim nasıl sağlandı; hacker mı, sızıntı mı?","https://t24.com.tr/yazarlar/fusun-sarp-nebil/yurtici-kargo-veri-tabanina-erisim-nasil-saglandi-hacker-mi-sizinti-mi,27778"
+13,1,tur,Hackerlar artık kapınızın kilidini de kırabilecek,https://tr.euronews.com/2020/08/23/hackerlar-art-k-kap-n-z-n-kilidini-de-k-rabilecek
 14,1,ita,Can Yaman denunciato da una collega |  multa da 12 000 |  le ha versato addosso…,https://www.zazoom.it/2020-08-24/can-yaman-denunciato-da-una-collega-multa-da-12-000-le-ha-versato-addosso/7099432/
-14,1,tur,Evden çalışırken siber saldırılara dikkat,https://www.risalehaber.com/evden-calisirken-siber-saldirilara-dikkat-386250h.htm
-14,1,tur,"Hacklenen Bir YouTuber, Başından Geçenleri Anlattı",https://www.webtekno.com/kripto-para-dolandiricilarinin-hackledigi-youtuber-anlatti-h98419.html
-14,1,tur,Online platformlardaki hacker tehlikesine dikkat! Film izleyeyim derken kişisel bilgilerinizden olmayın,https://www.takvim.com.tr/guncel/2020/08/24/online-platformlardaki-hacker-tehlikesine-dikkat-film-izleyeyim-derken-kisisel-bilgilerinizden-olmayin
-14,1,tur,Tesla Sahipleri Performans Artışı için Otomobillerini Hackliyor,https://www.tamindir.com/haber/tesla-sahipleri-performans-artisi_60871/
 14,1,tur,Siber Saldırganlar Sizi Çok Sıkıcı Buluyor Olabilir!,https://www.tamindir.com/haber/siber-saldirganlar-sizi-cok-sikici-buluyor-olabilir_60863/
+14,1,tur,Online platformlardaki hacker tehlikesine dikkat! Film izleyeyim derken kişisel bilgilerinizden olmayın,https://www.takvim.com.tr/guncel/2020/08/24/online-platformlardaki-hacker-tehlikesine-dikkat-film-izleyeyim-derken-kisisel-bilgilerinizden-olmayin
+14,1,tur,Evden çalışırken siber saldırılara dikkat,https://www.risalehaber.com/evden-calisirken-siber-saldirilara-dikkat-386250h.htm
+14,1,tur,Tesla Sahipleri Performans Artışı için Otomobillerini Hackliyor,https://www.tamindir.com/haber/tesla-sahipleri-performans-artisi_60871/
+14,1,tur,"Hacklenen Bir YouTuber, Başından Geçenleri Anlattı",https://www.webtekno.com/kripto-para-dolandiricilarinin-hackledigi-youtuber-anlatti-h98419.html
+15,1,tur,Kaspersky'dan Devlet Yetkililerini Hedef Alan Siber Saldırı Grubu Araştırması,https://www.tamindir.com/haber/devlet-yetkililerini-hedef-alan-siber-saldiri-grubu_60948/
+15,2,tur,Rusya Güvenlik Konseyi: Dünyadaki siber saldırıların yüzde 40-75'i ABD topraklarından gerçekleştiriliyor,https://tr.sputniknews.com/rusya/202008251042719384-rusya-guvenlik-konseyi-dunyadaki-siber-saldirilarin-yuzde-40-75i-abd-topraklarindan/
+15,2,tur,Siber saldırılara karşı en savunmasız sektörler belli oldu,http://www.detaykibris.com/siber-saldirilara-karsi-en-savunmasiz-sektorler-belli-oldu-228333h.htm
+16,1,tur,Nihat Kahveci: Ahmet Dursun'un hesabı hacklenmiş,https://www.ensonhaber.com/kralspor/futbol/nihat-kahveci-ahmet-dursunun-hesabi-hacklenmis
+16,2,spa,BeagleBoyz: cómo operan los hackers de Corea del Norte que roban dinero de cuentas y cajeros automáticos en todo el mundo,https://www.infobae.com/america/mundo/2020/08/26/beagleboyz-como-operan-los-hackers-de-kim-jong-un-que-roban-dinero-de-cuentas-y-cajeros-automaticos-en-todo-el-mundo/
+16,1,deu,OSTSCHWEIZER KULTUR-TICKER: Hackbrett trifft Schlagzeug im Sticklokal in Rehetobel +++ Alex Capus liest im Thurgauer Kunstmuseum +++ Appenzeller Clanx-Festival zumindest im Radio,https://www.tagblatt.ch/kultur/ostschweizerkultur/ostschweizer-kultur-ticker-hackbrett-trifft-schlagzeug-im-sticklokal-in-rehetobel-alex-capus-liest-im-thurgauer-kunstmuseum-appenzeller-clanx-festival-zumindest-im-radio-ld.1250306
+17,1,tur,"Yeni Mesaj; Feyyaz Ýnanç: Kitabý tahrif eden, dalalette olandýr",http://www.yenimesaj.com.tr/kitabi-tahrif-eden-dalalette-olandir-H1350039.htm
+17,1,deu,OSTSCHWEIZER KULTUR-TICKER: Wiler Kunstmalerin Daniela Filippelli zeigt erste Einzelausstellung  +++ Hackbrett trifft Schlagzeug im Sticklokal in Rehetobel +++ Alex Capus liest im Thurgauer Kunstmuseum,https://www.tagblatt.ch/kultur/ostschweizerkultur/ostschweizer-kultur-ticker-wiler-kunstmalerin-daniela-filippelli-zeigt-erste-einzelausstellung-hackbrett-trifft-schlagzeug-im-sticklokal-in-rehetobel-alex-capus-liest-im-thurgauer-kunstmuseum-ld.1250306
+17,1,tur,Popüler ücretsiz görsel sitesi Freepik siber saldırıya uğradı,https://www.haberturk.com/populer-ucretsiz-gorsel-sitesi-freepik-siber-saldiriya-ugradi-2785217-teknoloji
+17,1,tur,En Savunmasız Sektörler Siber Saldırıların Hedefinde: İşte O Sektörler!,https://www.tamindir.com/haber/en-savunmasiz-sektorler-siber-saldirilarin-hedefinde_61019/
+17,1,tur,Ya hack'lenirse?,https://www.f5haber.com/haberturk/ya-hacklenirse-5677711
+17,1,tur,Elektrikli scooter'lar uzaktan kolayca hack'lenebilir - Bilim Teknoloji Haberleri,https://www.posta.com.tr/elektrikli-scooterlar-uzaktan-kolayca-hacklenebilir-2274091
+17,1,tur,"Freepik siber saldırıya uğradı, 8 milyon kullanıcının şifreleri çalındı",https://www.dunya.com/sirketler/freepik-siber-saldiriya-ugradi-8-milyon-kullanicinin-sifreleri-calindi-haberi-479461
+17,1,tur,İsteyen Herkes Bir Hacker Kiralayabilir mi? Hacker Kiralamak Mümkün mü?,https://www.chip.com.tr/haber/isteyen-herkes-bir-hacker-kiralayabilir-mi-hacker-kiralamak-mumkun-mu_90057.html
+17,1,ron,"Experienţe trăite de străini în România: „Am făcut autostopul cu ambulanţa, pe gratis. Am aflat doar de Hackerville, oraşul unde urma să locuim"" FOTO",https://adevarul.ro/locale/ramnicu-valcea/experiente-traite-straini-romania-am-facut-autostopul-ambulanta-gratis-aflat-doar-hackerville-orasul-urma-locuim-foto-1_5f47c4845163ec427161580a/
+17,1,tur,"Hacker'lar, Gerçekten İnternetten Kiralanabiliyor mu?",https://www.chip.com.tr/haber/hacker-gercekten-internetten-kiralanabiliyor-mu_90057.html
+18,1,spa,tenismesista daniely rios es victima de un hacker,https://www.metro.pr/pr/entretenimiento/2020/08/28/tenismesista-daniely-rios-es-victima-de-un-hacker.html
+18,1,tur,Ücretsiz Fotoğraf İndirme Sitesi Freepik'te Siber Saldırı Gerçekleşti!,https://www.tamindir.com/haber/fotograf-indirme-sitesi-freepik-te-siber-saldiri_61080/
+18,2,tur,"Musk, Tesla'ya siber saldırının engellendiğini duyurdu",https://www.kibrispostasi.com/c39-BILIM_TEKNOLOJI/n344902-musk-teslaya-siber-saldirinin-engellendigini-duyurdu
+18,4,tur,ABD'li ünlü girişimci Elon Musk'ın Nevada'daki tesisi siber saldırıya uğradı,https://www.mynet.com/abd-li-unlu-girisimci-elon-musk-in-nevada-daki-tesisi-siber-saldiriya-ugradi-110106576205
+18,1,tur,Hackerlar Bakın Hangi Şirket Çalışanları İle İyi Anlaşıyor!,https://www.tamindir.com/haber/hackerlar-bakin-hangi-sirket-calisanlari-ile-iyi-anlasiyor_61094/
+18,1,tur,"Tesla'ya Yönelik Hack Girişimi, Çalışan Sayesinde Patladı",https://www.webtekno.com/tesla-hack-girisimi-calisanin-sadakatiyle-basarisiz-oldu-h98621.html
+18,1,tur,Elon Musk'ın tesisi siber saldırıya uğradı,https://www.yenisafak.com/teknoloji/elon-muskin-tesisi-siber-saldiriya-ugradi-3555021
+18,1,spa,EE UU: Los hackers podrían estar robando los bancos de todo el mundo para financiar al régimen de Kim,https://www.elnacional.com/mundo/ee-uu-los-hackers-podrian-estar-robando-los-bancos-de-todo-el-mundo-para-financiar-al-regimen-de-kim/
+19,1,tur,Google kadına yönelik dijital şiddete karşı Women's Safety Hackathon'a dair detaylar,https://webrazzi.com/2020/08/29/google-kadina-yonelik-dijital-siddete-karsi-women-s-safety-hackathon-duzenliyor/
+19,1,tur,Hacker filmi konusu nedir? Hacker oyuncuları kim? Hacker filmi fragmanı,https://www.haberler.com/hacker-filmi-konusu-nedir-hacker-oyunculari-kim-13551944-haberi/
+19,1,tur,Tehlikenin Farkında Mısınız: DeathStalker Siber Saldırıları Giderek Artış Gösteriyor!,https://www.tamindir.com/haber/deathstalker-siber-saldirilari-artiyor_61134/
+20,1,tur,"ELON MUSK, ÇALIŞAN BEYİN HACKLEME CİHAZINI GÖSTERECEK",https://www.numberone.com.tr/2020/08/30/elon-musk-calisan-beyin-hackleme-cihazini-gosterecek/
+20,1,tur,134 milyar dolarlık borsa siber saldırıların hedefinde,https://www.sozcu.com.tr/2020/ekonomi/134-milyar-dolarlik-borsa-siber-saldirilarin-hedefinde-6014254/
+20,1,tur,İnsanların beynine çip takmak isteyen Elon Musk'a 'hack' şoku!,https://www.yeniakit.com.tr/haber/insanlarin-beynine-cip-takmak-isteyen-elon-muska-hack-soku-1373323.html
+20,1,tur,"Tesla, Hacker'lar Karşısında Zor Duruma Düşmekten Son Anda Kurtulmuş",https://www.chip.com.tr/haber/tesla-hacker-karsisinda-zor-duruma-dusmekten-son-anda-kurtulmus_90127.html
+21,1,tur,Siber saldırılar en çok onları vuruyor,https://www.chip.com.tr/haber/siber-saldirilar-en-cok-onlari-vuruyor_90157.html
+21,1,tur,Slack Masaüstü Uygulaması Büyük Tehlike Saçıyor: Hackerlar Müdahale Etti!,https://www.tamindir.com/haber/slack-masaustu-uygulamasi-buyuk-tehlike_61203/
+22,2,tur,Norveç milletvekillerinin e-mail hesaplarına siber saldırı,http://www.gazetevatan.com/norvec-milletvekillerinin-e-mail-hesaplarina-siber-saldiri-1340018-dunya/
+22,2,tur,Elon Musk insan beynini ''hack''leyecek,https://www.kamugundemi.com/bilim-ve-teknoloji/elon-musk-insan-beynini-hack-leyecek-h123363.html
+22,2,tur,PKK/KCK adına siber saldırılarla örgüt propagandası yaptıkları tespit edilen 21 kişi hakkında gözaltı kararı,https://www.yenisafak.com/gundem/pkk-kck-adina-siber-saldirilarla-orgut-propagandasi-yaptiklari-tespit-edilen-21-kisi-hakkinda-gozalti-karari-3555415
+22,2,tur,Terör örgütü talimatýyla faaliyet yürüten hacker grubu üyesi 1 kiþi yakalandý,http://www.star.com.tr/guncel/teror-orgutu-talimatiyla-faaliyet-yuruten-hacker-grubu-uyesi-1-kisi-yakalandi-haber-1569516/
+22,1,tur,Son dakika... MEZOPOTAMIA HACKERS'a operasyon! 21 kişiye yakalama kararı,https://www.milliyet.com.tr/gundem/son-dakika-mezopotamia-hackersa-operasyon-21-kisiye-yakalama-karari-6294826
+22,1,tur,PKK'nın hacker grubu üyesi yakalandı,https://www.ensonhaber.com/ic-haber/pkknin-hacker-grubu-uyesi-yakalandi
+22,1,tur,ABD siber saldırıda çalınan 29 milyonun peşinde,https://www.finansgundem.com/haber/abd-siber-saldirida-calinan-29-milyonun-pesinde/1516005
+22,1,tur,Neuralink üzerinden insan beyni hack'lenebilir mi?,https://www.hurriyet.com.tr/teknoloji/neuralink-uzerinden-insan-beyni-hacklenebilir-mi-41600415
+22,1,tur,Musk'ın Neuralink projesiyle insan beyni hack'lenebilir!,https://www.haberturk.com/musk-in-neuralink-projesiyle-insan-beyni-hacklenebilir-2789949-teknoloji
+22,1,tur,PKK/KCK'nın 'hacker'larına yönelik operasyon,https://dogruhaber.com.tr/haber/688961-pkkkcknin-hackerlarina-yonelik-operasyon/
+22,1,tur,Cihazlarınız hacker'ların cebini doldurmak için çalışıyor olabilir,https://www.hurriyet.com.tr/teknoloji/cihazlariniz-hackerlarin-cebini-doldurmak-icin-calisiyor-olabilir-41600257
+22,9,tur,"​Terör örgütü PKK/KCK'nın ""hacker""larına yönelik operasyon",http://www.yenikonya.com.tr/guncel/%e2%80%8bteror_orgutu_pkk_kcknin_hackerlarina_yonelik_operasyon-1428854
+22,10,tur,Terör örgütü talimatıyla faaliyet yürüten hacker grubu üyesi 1 kişi yakalandı,https://www.haberler.com/teror-orgutu-talimatiyla-faaliyet-yuruten-hacker-13562203-haberi/
+22,1,tur,Terör örgütünün 'hacker'larına operasyon: 21 gözaltı kararı,https://www.haberler.com/teror-orgutunun-hacker-larina-operasyon-21-gozalti-13559808-haberi/
+22,1,tur,Terör örgütünün 'hacker'larına operasyon: 21 gözaltı kararı (2),https://www.haberler.com/teror-orgutunun-hacker-larina-operasyon-21-gozalti-13560893-haberi/
+22,1,tur,Son dakika: Ankara'da Mezopotamia Hackers grubuna operasyon! Çok sayıda gözaltı kararı var,https://www.takvim.com.tr/guncel/2020/09/01/son-dakika-ankarada-pkkkck-operasyonu-cok-sayida-gozalti-karari-var
+22,1,tur,Mezopotamia Hackers grubu üyesi 1 kişi yakalandı,http://www.bursadabugun.com/haber/mezopotamia-hackers-grubu-uyesi-1-kisi-yakalandi-1327827.html
+22,1,tur,Son dakika haberleri... Terör örgütünün 'hacker'larına operasyon: 21 gözaltı kararı (2),https://www.haberler.com/son-dakika-haberleri-teror-orgutunun-hacker-larina-operasyon-21-gozalti-13560898-haberi/
+22,1,tur,Son dakika haberleri! TERÖR ÖRGÜTÜ PKK'NIN HACKER YAPILANMASI ÇÖKERTİLDİ... KAMU KURUMLARINI HEDEF ALMIŞLAR,https://www.haberler.com/son-dakika-haberleri-teror-orgutu-pkk-nin-hacker-yapilanmasi-cokertildi-13559926-haberi/
+22,1,tur,"GÜNCELLEME - Terör örgütü PKK/KCK'nın ""hacker""larına yönelik operasyon",https://www.konhaber.com/haber-guncelleme_teror_orgutu_pkk_kck_nin_hacker_larina_yonelik_operasyon-1428981.html
+22,1,tur,Google tarafından düzenlenen Women's Safety Hackathon'da ilk 3'e giren projeler,https://webrazzi.com/2020/09/01/google-tarafindan-duzenlenen-women-s-safety-hackathon-da-ilk-3-e-giren-projeler/
+22,1,tur,Son Dakika | Terör örgütünün 'hacker'larına operasyon: 21 gözaltı kararı,https://www.haberler.com/son-dakika-teror-orgutunun-hacker-larina-operasyon-21-gozalti-13559620-haberi/
+22,1,tur,Son dakika haberi: Terör örgütü talimatıyla faaliyet yürüten hacker grubu üyesi 1 kişi yakalandı,https://www.haberler.com/son-dakika-haberi-teror-orgutu-talimatiyla-faaliyet-yuruten-hacker-13562183-haberi/
+22,1,tur,Terör örgütü PKK'nın hacker yapılanması çökertildi... Kamu kurumlarını hedef almışlar,https://www.haberler.com/teror-orgutu-pkk-nin-hacker-yapilanmasi-cokertildi-13559952-haberi/
+22,1,tur,Son dakika MEZOPOTAMIA HACKERS'a terör operasyonu! 21 kişiye yakalama kararı,https://www.internethaber.com/son-dakika-mezopotamia-hackersa-teror-operasyonu-21-kisiye-yakalama-karari-2123604h.htm
+22,1,tur,Son dakika... Mezopotamia Hackers grubuna operasyon | Video,https://www.cnnturk.com/video/turkiye/son-dakika-mezopotamia-hackers-grubuna-operasyon-video
+22,1,tur,Son dakika... Mezopotamia Hackers grubuna operasyon,https://www.cnnturk.com/turkiye/son-dakika-pkk-kcknin-siber-yapilanmasina-operasyon
+22,3,tur,Mezopotamia Hackers'a operasyon! 21 kişiye yakalama kararı,http://www.ardahanhaberi.com/mezopotamia-hackers-a-operasyon-21-kisiye-yakalama-karari/46551/
+22,1,tur,'Mezopotamia Hackers' grubuna operasyon! Çok sayda gözaltı kararı var,http://www.bursadabugun.com/haber/mezopotamia-hackers-grubuna-operasyon-cok-sayda-gozalti-karari-var-1327585.html
+22,1,ron,Alertă emisă de SUA: grupul de hackeri nord-coreeni Beagleboyz şi-a reluat activitatea,https://adevarul.ro/international/asia/alerta-emisa-sua-grupul-hackeri-nord-coreeni-beagleboyz-si-a-reluat-activitatea-1_5f4e4ef05163ec4271915155/
+22,1,tur,Ankara Cumhuriyet Baþsavcýlýðý: PKK prodogandasý yapan ''hacker''lara yönelik operasyon,http://www.star.com.tr/guncel/ankara-cumhuriyet-bassavciligi-pkk-prodogandasi-yapan-orgut-cokertildi-haber-1569346/
+22,1,tur,'Mezopotamia Hackers' grubu üyesi 21 şüpheli hakkında gözaltı kararı!,http://www.gazetevatan.com/-mezopotamia-hackers-grubu-uyesi-21-supheli-hakkinda-gozalti-kar-1339906-gundem/
+22,1,tur,"""Mezopotamia Hackers"" grubuna operasyon",https://www.bursa.com/mezopotamia-hackers-grubuna-operasyon-n439474/
+22,2,tur,Mezopotamia Hackers grubuna operasyon! 21 kişi hakkında gözaltı kararı,http://beyazgazete.com/haber/2020/9/1/mezopotamia-hackers-grubuna-operasyon-21-kisi-hakkinda-gozalti-karari-5716552.html
+22,1,tur,17 ilde PKK'nın 'hacker'larına operasyon,https://www.gercekgundem.com/magazin/209336/17-ilde-pkknin-hackerlarina-operasyon
+22,1,tur,Mezapotamia Hackers isimli gruba operasyon! Çok sayıda gözaltı kararı,https://www.mynet.com/mezapotamia-hackers-isimli-gruba-operasyon-cok-sayida-gozalti-karari-110106578959
+23,1,tur,Terör örgütü için çalışan hacker grubu üyesi 1 kişi yakalandı,https://www.pusulahaber.com.tr/teror-orgutu-icin-calisan-hacker-grubu-uyesi-1-kisi-yakalandi-1418498h.htm
+24,1,tur,Türk hackerlar Yunan bakanlığının sitesini hackledi,https://www.yenisafak.com/teknoloji/turk-hackerlar-yunan-bakanliginin-sitesini-hackledi-3555718
+24,1,tur,Ayyıldız Tim adlı hacker grubu Yunanistan Ekonomi ve Kalkınma Bakanlığı'nın sitesini hackledi,https://www.haberler.com/ayyildiz-tim-adli-hacker-grubu-yunanistan-ekonomi-13565997-haberi/
+24,1,tur,Twitter'da yine bir hackleme skandalı: Hindistan Başbakanı Modi'nin hesabı ele geçirildi,"https://t24.com.tr/haber/twitter-da-yine-bir-hackleme-skandali-hindistan-basbakani-modi-nin-hesabi-ele-gecirildi,900819"
+24,2,tur,PKK/KCK'nın 'hacker'larına yönelik operasyonda 18 gözaltı,http://www.yenikonya.com.tr/guncel/pkk_kcknin_hackerlarina_yonelik_operasyonda_18_gozalti-1430611
+24,2,tur,Modi'nin Twitter hesabı hacklendi,https://www.milliyet.com.tr/dunya/modinin-twitter-hesabi-hacklendi-6296811
+24,1,tur,PKK adına faaliyet yürütüyorlardı! Mezopotamia Hackers adlı gruba operasyon,https://www.ahaber.com.tr/yasam/2020/09/03/pkk-adina-faaliyet-yurutuyorlardi-mezopotamia-hackers-adli-gruba-operasyon
+24,1,tur,Ayyıldız Tim adlı hacker grubu Yunan Bakanlığının sitesini hackledi: Bir gece ansızın gelebiliriz,https://www.sondakika.com/haber/haber-ayyildiz-tim-adli-hacker-grubu-yunanistan-ekonomi-13565997/
+24,4,tur,Terör örgütü PKK/KCK'nın 'hacker'larına yönelik operasyonda 18 gözaltı,http://www.ogunhaber.com/asayis/teror-orgutu-pkk-kcknin-hackerlarina-yonelik-operasyonda-18-gozalti-2062730h.html
+24,1,tur,Terör örgütü PKK/KCK'nın hackerlarına yönelik operasyon! 18 kişiye gözaltı,https://www.sabah.com.tr/gundem/2020/09/03/teror-orgutu-pkkkcknin-hackerlarina-yonelik-operasyon-18-kisiye-gozalti
+24,1,tur,Türk hackerlar Ayyıldız Tim nedir? Ayyıldız Tim kurucusu kim? Ayyıldız Tim başvuru yapılır mı?,https://www.haberler.com/turk-hackerlar-ayyildiz-tim-nedir-ayyildiz-tim-13567260-haberi/
+24,1,tur,Hindistan Başbakanı Modi'nin Twitter hesabı hack'lendi -  HABERDAR - Gerçekler Sadece Gerçekler,http://www.haberdar.com/dunya/hindistan-basbakani-modi-nin-twitter-hesabi-hack-lendi-h183824.html
+24,7,tur,Hindistan Başbakanı Modi'nin Twitter hesabı hacklendi,http://www.etikhaber.com/dunya/hindistan-basbakani-modi-nin-twitter-hesabi-hacklendi-h301152.html
+24,1,tur,"Hacker'lar saldırdı, 135 milyar dolarlık borsada işlemler durdu",https://www.haberturk.com/hackerlar-saldirdi-135-milyar-dolarlik-borsada-islemler-durdu-2792031-teknoloji
+24,2,tur,Hindistan Baþbakaný Modi'nin Twitter hesabý hacklendi,http://www.star.com.tr/dunya/hindistan-basbakani-modinin-twitter-hesabi-hacklendi-haber-1569795/
+24,2,tur,Hindistan Başbakanı Narendra Modi'nin Twitter hesabı hacklendi,https://www.ensonhaber.com/teknoloji/hindistan-basbakani-narendra-modinin-twitter-hesabi-hacklendi
+24,1,tur,Siber saldırılardan korunmanın yolu güçlü altyapı,https://www.haberankara.com/siber-saldirilardan-korunmanin-yolu-guclu-altyapi/77116/
+24,1,tur,Son dakika... Hindistan Başbakanı Modi'nin Twitter hesabı hacklendi,https://www.haberler.com/son-dakika-hindistan-basbakani-modi-nin-twitter-hesabi-13566934-haberi/
+24,1,tur,Son dakika: PKK/KCK adına faaliyet yürüten Mezopotamia Hackers adlı gruba operasyonda 18 kişi gözaltına alındı,https://www.takvim.com.tr/guncel/2020/09/03/son-dakika-pkkkck-adina-faaliyet-yuruten-mezopotamia-hackers-adli-gruba-operasyonda-18-kisi-gozaltina-alindi
+24,1,tur,Türk hackerlardan Yunanistan'a büyük şok!,https://www.yeniakit.com.tr/haber/turk-hackerlardan-yunanistana-buyuk-sok-1376319.html
+24,1,tur,"Türk hacker grubundan Yunanistan'a darbe: ""Bir gece ansızın gelebiliriz""",https://www.kibrispostasi.com/c36-TURKIYE/n345816-turk-hacker-grubundan-yunanistana-darbe-bir-gece-ansizin-gelebiliriz
+24,1,tur,Yunanistan Ekonomi ve Kalkınma Bakanlığının sitesi Ayyıldız Tim tarafından hacklendi,https://www.posta.com.tr/yunanistan-ekonomi-ve-kalkinma-bakanliginin-sitesi-ayyildiz-tim-tarafindan-hacklendi-2275231
+24,1,tur,Türk hacker grubundan Yunanistan'a darbe!,https://www.bursa.com/turk-hacker-grubundan-yunanistana-darbe-n439731/
+25,1,tur,Vatandaşlara 'hacker' uyarısı! 'Açmayın' - Bilim Teknoloji Haberleri,http://www.gazetevatan.com/vatandaslara-hacker-uyarisi-acmayin--1340576-teknoloji/
+25,1,tur,"""İnsan beyni hack'lenebilir!"" - Doğruhaber",https://dogruhaber.com.tr/haber/689800-insan-beyni-hacklenebilir/
+25,4,tur,Siber saldırılara karşı siber hijyen önerisi,http://www.ogunhaber.com/ekonomi/siber-saldirilara-karsi-siber-hijyen-onerisi-2063287h.html
+25,1,tur,Siber saldırılara karşı siber hijyen önerisi - Bilim Teknoloji Haberleri,http://www.gazetevatan.com/siber-saldirilara-karsi-siber-hijyen-onerisi-1340574-teknoloji/
+25,1,tur,'Hacker'lar borsaya girdi!,http://www.bursahakimiyet.com.tr/haber/hacker-lar-borsaya-girdi-413584.html
+25,1,tur,Twitter'da yeni kriz: Bu kez Hindistan Başbakanı'nın hesabı hack'lendi,https://www.hurriyet.com.tr/teknoloji/twitterda-yeni-kriz-bu-kez-hindistan-basbakaninin-hesabi-hacklendi-41602849
+25,1,tur,'Hacker'lar borsaya girdi! - Son Haberler,https://www.milliyet.com.tr/ekonomi/hackerlar-borsaya-girdi-6297505
+25,1,tur,İnsan beynini 'hack'leme zamanı',https://www.yeniasya.com.tr/bilim-teknoloji/insan-beynini-hack-leme-zamani_527489
+25,1,tur,8 milyon kullanıcısı olan site siber saldırıya uğradı,https://www.memurhaber.com/8-milyon-kullanicisi-olan-site-siber-saldiriya-ugradi-2002973h.htm
+25,3,tur,"Tüketici Birliği Federasyonu Genel Başkan Yardımcısı Altay'dan vatandaşlara ""hacker"" uyarısı...",https://www.haberler.com/tuketici-birligi-federasyonu-genel-baskan-13570637-haberi/
+25,1,tur,Yalova Belediyesi Siber Saldırıya Uğradı!,https://www.tamindir.com/haber/yalova-belediyesi-siber-saldiri_61421/
+25,1,tur,Resmen açıklandı: Yalova Belediyesi'ne siber saldırı!,https://www.donanimhaber.com/resmen-aciklandi-yalova-belediyesi-ne-siber-saldiri--124796
+26,1,tur,Hack4Mobility Ideathon İzmir kazananları ödüllerini aldı,https://www.haberimport.com/hack4mobility-ideathon-izmir-kazananlari-odullerini-aldi-37889.html
+27,1,tur,Son dakika haber... Kovid-19 salgını döneminde her 39 saniyede bir siber saldırı,https://www.haberler.com/son-dakika-haber-kovid-19-salgini-doneminde-her-39-saniyede-bir-13575578-haberi/
+27,1,tur,Salgın döneminde 39 saniyede bir siber saldırı - Bilim Teknoloji Haberleri,http://www.gazetevatan.com/salgin-doneminde-her-39-saniyede-bir-siber-saldiri-1340915-teknoloji/
+27,1,tur,"Miami'deki Okullar, Oldukça Basit Bir Programla Hacklendi",https://www.webtekno.com/miami-okullari-onlarca-yillik-acik-kaynak-kodlu-programla-hacklendi-h99004.html
+27,1,tur,"16 yaşındaki hacker uzaktan eğitimi çökertti! – Güncel Haberler, Son Dakika Haberleri, Turktime Haber Portalı",http://www.turktime.com/haber/16-yasindaki-hacker-uzaktan-egitimi-cokertti/553855
+27,1,tur,16 Yaşındaki Genç Uzaktan Eğitim Sistemini Hackledi,https://www.tamindir.com/haber/genc-uzaktan-egitim-sistemi-hackledi_61452/
+27,5,tur,Türk hackerlar Yunanistan Çevre ve Enerji Bakanlığının sitesini hackledi - HaberFlash internet haber sitesi,https://haberflash.com/2020/09/06/turk-hackerlar-yunanistan-cevre-ve-enerji-bakanliginin-sitesini-hackledi/
+27,4,tur,Kovid-19 salgını döneminde her 39 saniyede bir siber saldırı,https://www.risalehaber.com/kovid-19-salgini-doneminde-her-39-saniyede-bir-siber-saldiri-387195h.htm
+28,1,tur,Siber saldırılar güvenlik uzmanlarını zorladı,https://www.finansgundem.com/haber/siber-saldirilar-guvenlik-uzmanlarini-zorladi/1517359
+28,1,tur,Şirketler Nasıl Hackleniyor? İşte Veri İhlali Nedenleri,https://www.tamindir.com/haber/sirketler-hack-veri-ihlali_61466/
+28,1,tur,Salgında her 39 saniyede bir siber saldırı yaşandı,https://www.yeniakit.com.tr/haber/salginda-her-39-saniyede-bir-siber-saldiri-yasandi-1379260.html
+28,5,tur,Eğitim kaynaklarına yönelik DDoS saldırıları ilkbaharda yüzde 350 arttı,https://www.haberts.com/bilim-teknoloji/egitim-kaynaklarina-yonelik-ddos-saldirilari-ilkbaharda-yuzde-350-artti-h195503.html
+29,1,tur,Korona döneminde her 39 saniyede bir siber saldırı gerçekleşiyor,https://www.ensonhaber.com/teknoloji/korona-doneminde-her-39-saniyede-bir-siber-saldiri-gerceklesiyor
+30,1,tur,Avrupa Merkezli Kripto Borsası Hacklendi: İşte Detaylar,https://kriptokoin.com/avrupa-merkezli-kripto-borsasi-hacklendi/
+31,1,deu,US-Wahlkampf: Microsoft vereitelt Hackerangriffe auf Wahlkampflager von Trump und Biden,https://www.t-online.de/nachrichten/ausland/usa/id_88418684/us-wahlkampf-microsoft-vereitelt-hackerangriffe-auf-wahlkampflager-von-trump-und-biden.html
+31,2,tur,"Microsoft'tan uyarý! Rusya, Çin ve Ýran menþeli hackerlar ABD seçimlerini hedef aldý",https://www.star.com.tr/dunya/microsofttan-uyari-rusya-cin-ve-iran-menseli-hackerlar-abd-secimlerini-hedef-aldi-haber-1571657/
+31,1,tur,'HackZeugma'daki bayrak yarışı gerçek saldırı senaryolarıyla gerçekleştirilecek,https://www.f5haber.com/gaste24/hackzeugmadaki-bayrak-yarisi-gercek-saldiri-senaryolariyla-gerceklestirilecek-5693367
+31,5,tur,"Microsoft'tan ""yabancı hackerlar ABD seçimlerini hedef aldı"" uyarısı",https://www.a24.com.tr/microsofttan-yabanci-hackerlar-abd-secimlerini-hedef-aldi-uyarisi-haberi-40211230h.html
+31,1,ron,O companie de consultanță electorală care lucrează pentru Joe Biden susține că a fost atacată de presupuși hackeri ruși,https://news.yam.md/ro/story/10905902
+31,1,tur,Microsoft: Hackerlar ABD seçimlerini hedef aldı,https://www.haber7.com/teknoloji/haber/3012419-microsoft-hackerlar-abd-secimlerini-hedef-aldi
+31,1,tur,Çocuklara kodlamayı milli platform HackerCan öğretecek,https://www.donanimhaber.com/Cocuklara-kodlamayi-milli-platform-HackerCan-ogretecek--86311
+31,1,tur,Biohackers Sevenlerin Hoşuna Gidecek 10 Dizi Önerisi,https://www.webtekno.com/netflix-biohackers-dizi-onerileri-h99196.html
+31,1,tur,Microsoft uyardı: Rusya destekli hackerlar Joe Biden'ın seçim kampanyasını hedef aldı,https://tr.euronews.com/2020/09/10/microsoft-uyard-rusya-destekli-hackerlar-joe-biden-n-secim-kampanyas-n-hedef-ald-
+31,1,tur,TEKNOFEST'te Gaziantep'e özgü hack yarışması: HackZeugma,https://www.risalehaber.com/teknofestte-gaziantepe-ozgu-hack-yarismasi-hackzeugma-387469h.htm
+32,1,tur,"Rus, Çinli ve İranlı Hackerlar ABD Seçimlerini Hedef Alıyor!",https://www.tamindir.com/haber/rus-cinli-ve-iranli-hackerlar-abd-secimleri_61665/
+32,2,tur,"Çinli hacker'ların hedefinde Biden, İran'ın ise Trump var",https://www.hurriyet.com.tr/teknoloji/cinli-hackerlarin-hedefinde-biden-iranin-ise-trump-var-41608560
+32,1,tur,Hacklediği sosyal medya hesaplarından PKK propagandası yapan Muhammet Hanefi Dursun tutuklandı,https://www.takvim.com.tr/guncel/2020/09/11/hackledigi-sosyal-medya-hesaplarindan-pkk-propagandasi-yapan-muhammet-hanefi-dursun-tutuklandi
+32,1,tur,"Rus hackerlar, Joe Biden'ın seçim kampanyalarını yürüten şirkete saldırdı",https://www.ensonhaber.com/teknoloji/rus-hackerlar-joe-bidenin-secim-kampanyalarini-yuruten-sirkete-saldirdi
+32,1,tur,Microsoft'tan ABD seçimleri için hacker uyarısı - Bilim Teknoloji Haberleri,http://www.gazetevatan.com/microsoft-tan-abd-secimleri-icin-hacker-uyarisi-1341844-teknoloji/
+32,1,tur,Microsoft uyardı: ABD başkanlık seçimleri hackerların hedefinde!,https://www.mynet.com/microsoft-uyardi-abd-baskanlik-secimleri-hackerlarin-hedefinde-110106588220
+32,1,tur,GitLab'ı Hackleyen Türk Yazılımcı Platformdan Banlandı,https://www.webtekno.com/gitlab-hackleyen-turk-yazilimci-banlandi-h99222.html
+32,1,tur,"Microsoft'tan ""hackerlar seçimleri hedef aldı"" uyarısı -",https://www.sabah.com.tr/dunya/2020/09/10/microsofttan-hackerlar-secimleri-hedef-aldi-uyarisi
+32,1,tur,Microsoft: Trump ve Biden′a hacker saldırıları yoğunlaşıyor | DÜNYA | DW,https://www.dw.com/tr/microsoft-trump-ve-bidena-hacker-sald%C4%B1r%C4%B1lar%C4%B1-yo%C4%9Funla%C5%9F%C4%B1yor/a-54891170
+32,2,tur,Microsoft: Trump ve Biden'a hacker saldırıları yoğunlaşıyor,https://www.mynet.com/microsoft-trump-ve-bidena-hacker-saldirilari-yogunlasiyor-110106588354
+32,1,tur,"Microsoft: Rus, Çin ve İranlı hacker'lar ABD seçimlerini hedef aldı",https://www.finansgundem.com/haber/microsoft-rus-cin-ve-iranli-hackerlar-abd-secimlerini-hedef-aldi/1518234
+33,1,tur,Terör örgütü PKK/KCK'ya yönelik hacker operasyonu: 11 kişi tutuklandı - HaberFlash internet haber sitesi,https://haberflash.com/2020/09/12/teror-orgutu-pkk-kckya-yonelik-hacker-operasyonu-11-kisi-tutuklandi/
+33,3,tur,"Terör örgütü PKK'nın ""hacker""larına operasyon: 11 tutuklama",https://www.konhaber.com/haber-teror_orgutu_pkk_nin_hacker_larina_operasyon_11_tutuklama-1436515.html
+33,1,tur,Son dakika: PKK/KCK'nın 'Mezopotamia Hackers' grubuna operasyon; 11 tutuklama,https://www.sabah.com.tr/gundem/2020/09/12/son-dakika-pkkkcknin-mezopotamia-hackers-grubuna-operasyon-11-tutuklama
+33,1,tur,17 ilde terör örgütü PKK/KCK'ya yönelik hacker operasyonu!,https://www.yenisafak.com/gundem/17-ilde-teror-orgutu-pkk-kckya-yonelik-hacker-operasyonu-3566850
+33,1,deu,Hacker: Instagram von Kassner (Linke) wird Fan-Seite für türkischen Schauspieler,https://www.nordkurier.de/mecklenburg-vorpommern/instagram-von-kassner-linke-wird-fan-seite-fuer-tuerkischen-schauspieler
+33,1,tur,Yeni Mesaj: Terör örgütüne hacker operasyonu,http://www.yenimesaj.com.tr/teror-orgutune-hacker-operasyonu-H1352542.htm
+33,2,tur,PKK/KCK'ya yönelik hacker operasyonu: 11 kişi tutuklandı,https://www.internethaber.com/pkkkckya-yonelik-hacker-operasyonu-11-kisi-tutuklandi-2126176h.htm
+33,1,tur,"Son dakika gündem: Terör örgütü PKK/KCK'nın ""hacker""larına yönelik operasyonda 11 tutuklama",https://www.haberler.com/son-dakika-gundem-teror-orgutu-pkk-kck-nin-hacker-larina-yonelik-13594297-haberi/
+33,4,tur,PKK/KCK'nın hacker grubuna yönelik operasyonda 11 tutuklama,https://www.mynet.com/pkkkcknin-hacker-grubuna-yonelik-operasyonda-11-tutuklama-110106589227
+33,1,tur,PKK/KCK'ya yönelik hacker operasyonu,http://www.erzurumgazetesi.com.tr/haber/PKK-KCK-ya-yonelik-hacker-operasyonu/136436
+33,1,tur,PKK/KCK'lı 'hacker'lara 17 ilde eş zamanlı operasyon,https://www.memleket.com.tr/pkkkckli-hackerlara-17-ilde-es-zamanli-operasyon-2079136h.htm
+33,1,tur,PKK propagandasý yapan terörist hacker çetesi çökertildi,https://www.memurlar.net/haber/926392/pkk-propagandasi-yapan-terorist-hacker-cetesi-cokertildi.html
+33,1,tur,PKK içerisinde faaliyet gösteren 'Mezopotamia Hackers'a yönelik operasyon: 11 kişi tutuklandı,https://tr.sputniknews.com/turkiye/202009121042831742-pkk-icerisinde-faaliyet-gosteren-mezopotamia-hackersa-yonelik-operasyon-11-kisi-tutuklandi/
+33,1,tur,PKK/KCK'nın hacker grubuna yönelik operasyon! 11 kişiye tutuklama -,https://www.sabah.com.tr/gundem/2020/09/12/pkkkcknin-hacker-grubuna-yonelik-operasyon-11-kisiye-tutuklama
+33,4,tur,Terör örgütü PKK/KCK'ya yönelik hacker operasyonu: 11 tutuklama,https://www.turkiyegazetesi.com.tr/gundem/731237.aspx
+33,1,tur,Terör destekçisi hacker grubuna operasyon,https://www.ensonhaber.com/ic-haber/teror-destekcisi-hacker-grubuna-operasyon
+33,1,tur,Uydu İnterneti Hacklemek Sandığınızdan Daha Kolay,https://www.tamindir.com/haber/uydu-interneti-hacklemek_61704/
+33,1,tur,Microsoft'tan ABD seçimleri için hacker uyarısı,http://www.bursahakimiyet.com.tr/haber/microsoft-tan-abd-secimleri-icin-hacker-uyarisi-416888.html
+33,1,tur,Terör örgütü PKK/KCK'nýn hacker'larýna operasyon: 11 tutuklama,https://www.memurlar.net/haber/926381/teror-orgutu-pkk-kck-nin-hacker-larina-operasyon-11-tutuklama.html
+33,1,tur,Terör örgütüne hacker operasyonu: 11 kişi tutuklandı,https://www.sozcu.com.tr/2020/gundem/teror-orgutune-hacker-operasyonu-11-kisi-tutuklandi-6034362/
+33,2,tur,Ankara merkezli 17 ilde PKK/KCK'ya yönelik hacker operasyonu: 11 tutuklama,https://dogruhaber.com.tr/haber/691557-ankara-merkezli-17-ilde-pkkkckya-yonelik-hacker-operasyonu-11-tutuklama/
+33,1,tur,Terör örgütü PKK/KCK'ya yönelik hacker operasyonu: 11 kişi tutuklandı - Alanya Asayiş,https://www.yenialanya.com/haber/5352892/teror-orgutu-pkkkckya-yonelik-hacker-operasyonu-11-kisi-tutuklandi
+33,1,tur,Terör örgütü PKK/KCK'nın 'hacker'larına yönelik operasyon 11 tutuklama,https://www.haberturk.com/teror-orgutu-pkkkck-nin-hacker-larina-yonelik-operasyon-11-tutuklama-2801130
+33,9,tur,Terör örgütü PKK/KCK'ya yönelik hacker operasyonu: 11 kişi tutuklandı,https://www.pusulahaber.com.tr/teror-orgutu-pkkkckya-yonelik-hacker-operasyonu-11-kisi-tutuklandi-1419117h.htm
+33,8,tur,Terör örgütü PKK/KCK'nın 'hacker'larına yönelik operasyonda 11 tutuklama,https://www.yeniakit.com.tr/haber/teror-orgutu-pkkkcknin-hackerlarina-yonelik-operasyonda-11-tutuklama-1383924.html
+33,1,tur,"ABD'nin 2020 Seçimleri, Yine Rusya, Çin ve İran'lı Hacker'ların Hedefinde",https://www.chip.com.tr/haber/abd-2020-secimleri-yine-rusya-cin-ve-irani-hackerin-hedefinde_90382.html
+33,1,tur,Terör örgütü PKK/KCK'nın hackerlarına operasyon: 11 tutuklama,https://www.milliyet.com.tr/gundem/teror-orgutu-pkk-kcknin-hackerlarina-operasyon-11-tutuklama-6304546
+33,2,tur,Terör örgütü PKK/KCK'nýn ''hacker''larýna operasyon: 18 þüpheliden 11'i tutuklandý,http://www.star.com.tr/guncel/teror-orgutu-pkkkcknin-hackerlarina-operasyon-18-supheliden-11i-tutuklandi-haber-1571982/
+34,1,ita,"Spaghettipolitics hackerato, Michela:""Ho perso il lavoro di due anni""",https://www.varesenews.it/2020/09/spaghettipolitics-hackerato-grassoho-perso-lavoro-due-anni/960464/
+35,1,ita,"L'ispiratrice antifascista della Ferragni denuncia |  ""Mio profilo hackerato dai turchi""",https://www.zazoom.it/2020-09-14/lispiratrice-antifascista-della-ferragni-denuncia-mio-profilo-hackerato-dai-turchi/7209549/
+35,1,ita,"L'ispiratrice antifascista della Ferragni denuncia: ""Mio profilo hackerato dai turchi""",https://www.ilprimatonazionale.it/cultura/ispiritarice-antifascista-ferragni-denuncia-profilo-hackerato-turchi-167775/
+36,1,tur,Terör örgütü PKK'nın dijital çetesi Mezopotamia Hackers'ın 6 üyesi itirafçı oldu!,https://www.takvim.com.tr/guncel/2020/09/15/teror-orgutu-pkknin-dijital-cetesi-mezopotamia-hackersin-6-uyesi-itirafci-oldu
+36,1,tur,Hacker'ların gözü hastanelerde!,https://www.haberturk.com/hacker-larin-gozu-hastanelerde-2803873-teknoloji
+36,3,tur,Siber saldırganlar Kovid-19 aşı çalışmalarını hedef alıyor,https://www.haberler.com/siber-saldirganlar-kovid-19-asi-calismalarini-13602284-haberi/
+36,1,tur,PKK'nın itirafçı siber korsanı: Hackerlara sözde rütbe veriyorlar,https://www.trthaber.com/haber/gundem/pkknin-itirafci-siber-korsani-hackerlara-sozde-rutbe-veriyorlar-516142.html
+36,1,ita,Spaghettipolitics ritorna su Instagram dopo l'hackeraggio,https://www.varesenews.it/2020/09/spaghettipolitics-ritorna-instagram-lhackeraggio/961200/
+36,3,tur,Terör örgütünün sözde hacker çetesine darbe!,http://www.bursadabugun.com/haber/teror-orgutunun-sozde-hacker-cetesine-darbe-1331792.html
+36,1,tur,Sağlık sektörüne yönelik siber saldırlarda artış,https://www.haberimport.com/saglik-sektorune-yonelik-siber-saldirlarda-artis-38810.html
+37,1,tur,Okullar Siber Saldırı Tehdidinde!,http://www.akasyam.com/okullar-siber-saldiri-tehdidinde-175712/
+37,1,tur,Siber Saldırı Raporu Yayımlandı: Türkiye İlk Sırada Yer Alıyor!,https://www.tamindir.com/haber/haziran-siber-saldiri-raporu_61844/
+37,1,tur,Okullara yönelik siber saldırılar 3 kat arttı,https://www.marasgundem.com.tr/ulusal/okullara-yonelik-siber-saldirilar-3-kat-artti-1485602h
+37,2,tur,Okullara yönelik siber saldırılar üç kat arttı,https://www.hurriyet.com.tr/teknoloji/okullara-yonelik-siber-saldirilar-uc-kat-artti-41612854
+38,10,tur,Almanya'da siber saldırı nedeniyle tedavisi aksayan hasta hayatını kaybetti,https://www.turkiyegazetesi.com.tr/dunya/732526.aspx
+38,1,tur,Almanya'da hastaneye yapılan siber saldırı bir hastayı öldürdü,https://www.mynet.com/almanyada-hastaneye-yapilan-siber-saldiri-bir-hastayi-oldurdu-110106594303
+38,1,tur,Almanya'da hastaneye yapılan siber saldırı can aldı!,https://www.sozcu.com.tr/2020/dunya/almanyada-hastaneye-yapilan-siber-saldiri-can-aldi-6042812/
+38,1,tur,Son dakika haberi: Almanya'da hastaneye yapılan siber saldırı bir hastayı öldürdü,https://www.haberler.com/son-dakika-haberi-almanya-da-hastaneye-yapilan-siber-saldiri-bir-13608220-haberi/
+38,2,tur,Hastaneye yapılan siber saldırı nedeniyle bir kişi hayatını kaybetti,https://www.haber3.com/dunya/hastaneye-yapilan-siber-saldiri-nedeniyle-bir-kisi-hayatini-kaybetti-haberi-5548061
+38,1,tur,Almanya'da siber saldırı can aldı,https://dogruhaber.com.tr/haber/692730-almanyada-siber-saldiri-can-aldi/
+38,1,ell,Τούρκοι hackers επιτέθηκαν σε server της Βουλής των Ελλήνων;,http://www.newsnowgr.com/article/1360265/tourkoi-hackers-epitethikan-se-server-tis-voulis-ton-ellinon.html
+38,1,tur,"Hacksaws & B?çaklar Pazar Büyüklü?ü ve Pay?, 2020 Son Trend Analizine Göre Hareketler, ?lerleme Durumu, 2025'ya Gelir Beklentisi – Haber Radikal",http://www.haberradikal.com/2020/09/17/hacksaws-bcaklar-pazar-buyukluu-ve-pay-2020-son-trend-analizine-gore-hareketler-lerleme-durumu-2025ya-gelir-beklentisi/
+38,1,tur,Son Dakika | Almanya'da siber saldırı nedeniyle tedavisi aksayan hasta hayatını kaybetti,https://www.haberler.com/son-dakika-almanya-da-siber-saldiri-nedeniyle-tedavisi-13607693-haberi/
+39,1,tur,Almanya'da bir hastaneye yapılan siber saldırı nedeniyle bir hasta yaşamını yitirdi,https://www.ensonhaber.com/teknoloji/almanyada-bir-hastaneye-yapilan-siber-saldiri-nedeniyle-bir-hasta-yasamini-yitirdi
+39,1,tur,Almanya'da hastaneye siber saldırı düzenlendi: Bir hasta yaşamını yitirdi,https://sol.org.tr/haber/almanyada-hastaneye-siber-saldiri-duzenlendi-bir-hasta-yasamini-yitirdi-14857
+39,1,tur,Twitter hack saldırısının detayları sonunda belli oldu,https://www.mynet.com/twitter-hack-saldirisinin-detaylari-sonunda-belli-oldu-110106594928
+39,1,tur,"Hacker'lar, 10 Yıllık Büyük Tehlike ile Can Yakmaya Başladı",https://www.chip.com.tr/haber/hacker-10-yillik-buyuk-tehlike-ile-can-yakmaya-basladi_90516.html
+39,2,tur,Siber saldırı bir hastayı öldürdü,https://www.turkiyegazetesi.com.tr/dunya/732681.aspx
+39,2,tur,Almanya'da hastaneye siber saldırı düzenlendi: Bir hasta hayatını kaybetti,https://tr.sputniknews.com/avrupa/202009181042870729-almanyada-hastaneye-siber-saldiri-duzenlendi-bir-hasta-hayatini-kaybetti/
+39,1,tur,Almanya'da hastaneye yapılan siber saldırı bir hastayı öldürdü - HaberFlash internet haber sitesi,https://haberflash.com/2020/09/18/almanyada-hastaneye-yapilan-siber-saldiri-bir-hastayi-oldurdu/
+39,1,tur,ABD Gizli Bilgilerini Çalan Hackerlar İran Destekli Olabilirler,https://www.tamindir.com/haber/iran-destekli-hackerlar-abd-saldirisi_61927/
+39,1,swe,"Kalle Rovanperä hack i häl på täten i Turkiets VM-rally – dammiga förhållanden retade upp förarna: ""Samma skit varje år""",https://svenska.yle.fi/artikel/2020/09/18/kalle-rovanpera-hack-i-hal-pa-taten-i-turkiets-vm-rally-dammiga-forhallanden
+39,1,tur,Siber saldırı yüzünden bir hasta hayatını kaybetti,http://www.bursahakimiyet.com.tr/haber/siber-saldiri-yuzunden-bir-hasta-hayatini-kaybetti-419030.html
+39,1,tur,Okullara yönelik siber saldirilar 3 kat artti!,https://www.kocaeligazetesi.com.tr/haber/5473175/okullara-yonelik-siber-saldirilar-3-kat-artti
+40,1,tur,Erdoğan'a hakaret eden Yunan paçavrasına büyük şok! Türk hackerlar sitelerini patlattı,https://www.yeniakit.com.tr/haber/erdogana-hakaret-eden-yunan-pacavrasina-buyuk-sok-turk-hackerlar-sitelerini-patlatti-1390463.html
+40,1,ron,"Site-ul publicaţiei greceşti „Dimokratia"" a fost spart de hackeri, după un titlu insultător la adresa lui Erdogan",https://www.mediafax.ro/cultura-media/site-ul-publicatiei-grecesti-dimokratia-a-fost-spart-de-hackeri-dupa-un-titlu-insultator-la-adresa-lui-erdogan-19552216
+40,1,tur,"Siber saldırıdan ilk ölüm – Güncel Haberler, Son Dakika Haberleri, Turktime Haber Portalı",http://www.turktime.com/haber/siber-saldiridan-ilk-olum/555076
+40,1,tur,Son dakika... Almanya'da siber saldırıdan ilk ölüm - Son Dakika Ekonomi Haberleri,https://www.cnnturk.com/dunya/son-dakika-almanyada-siber-saldiridan-ilk-olum
+40,1,tur,Almanya'da siber saldırıdan ilk ölüm,https://www.risalehaber.com/almanyada-siber-saldiridan-ilk-olum-388129h.htm
+40,1,tur,Almanya'da siber saldırıdan ilk ölüm - Dünya Haberleri,https://www.mynet.com/almanya-da-siber-saldiridan-ilk-olum-110106595912
+41,1,ron,Site-ul unei ziar grec a fost spart de hackeri după un titlu insultător la adresa lui Erdogan,https://www.stiripesurse.ro/site-ul-unei-ziar-grec-a-fost-spart-de-hackeri-dupa-un-titlu-insultator-la-adresa-lui-erdogan_1507146.html
+41,1,tur,Geniş Açı - Fikir ve tartışma - ​OKYANUS ÖTESİNDE ÇALKANTILI GÜNLER YAŞANIYOR Siber saldırılar ABD seçimlerine etki edecek mi?,https://www.turkiyegazetesi.com.tr/yazarlar/genis-aci-fikir-ve-tartisma/615386.aspx
+41,2,tur,Alçak gazetenin sitesi hack'lendi,http://www.turkiyegazetesi.com.tr/gundem/733123.aspx
+42,1,tur,İranlı siber saldırganlar 2 aşamalı onay kodlarına göz dikti,https://www.donanimhaber.com/iranli-siber-saldirganlar-2-asamali-onay-kodlarina-goz-dikti--125221
+43,1,ita,"Luca Trapanese, social hackerati e cavallo di ritorno: «Ho perso i soldi per la Casa di Matteo»",https://www.ilmattino.it/napoli/cronaca/luca_trapanese_social_hackerati-5476919.html
+44,1,tur,MEB'den EBA siber saldırı açıklaması! - ShiftDelete.Net,https://shiftdelete.net/meb-eba-siber-saldiri-aciklamasi
+44,1,tur,MEB'den EBA'da yaşanan teknik soruna ilişkin 'siber saldırı' açıklaması,https://www.evrensel.net/haber/414782/mebden-ebada-yasanan-teknik-soruna-iliskin-siber-saldiri-aciklamasi
+44,1,tur,MEB'den EBA'daki erişim sıkıntısına ilişkin açıklama: Siber saldırıya uğradık,"https://www.ntv.com.tr/egitim/mebden-ebadaki-erisim-sikintisina-iliskin-aciklama,kEsjK3BPG0OBQlUapeJK8g"
+44,1,tur,MEB'den EBA'daki erişim sıkıntısına ilişkin açıklama: Siber saldırılara anında müdahale edildi,https://tr.sputniknews.com/turkiye/202009231042901629-mebden-ebadaki-erisim-sikintisina-iliskin-aciklama/
+44,1,tur,MEB'den EBA açıklaması: Erişim sorunu siber saldırı kaynaklıydı,"https://t24.com.tr/haber/meb-den-eba-aciklamasi-erisim-sorunlari-hizla-cozume-kavusturuldu,905027"
+44,1,tur,MEB: EBA′daki sorun siber saldırı ve yoğunluk kaynaklı | TÜRKİYE | DW,https://www.dw.com/tr/meb-ebadaki-sorun-siber-sald%C4%B1r%C4%B1-ve-yo%C4%9Funluk-kaynakl%C4%B1/a-55030458
+44,1,tur,MEB: EBA'daki sorun siber saldırı ve yoğunluk kaynaklı,https://www.mynet.com/meb-ebadaki-sorun-siber-saldiri-ve-yogunluk-kaynakli-110106599514
+44,1,tur,MEB'den EBA açıklaması: Siber saldırıya uğradık,https://dogruhaber.com.tr/haber/694012-mebden-eba-aciklamasi-siber-saldiriya-ugradik/
+44,3,tur,MEB'den EBA açıklaması: Siber saldırıya uğradık,https://sol.org.tr/haber/mebden-eba-aciklamasi-siber-saldiriya-ugradik-15298
+44,1,tur,MEB'den EBA Açıklaması: Siber Saldırı Düzenlendi,https://www.webtekno.com/meb-eba-siber-saldiri-h99785.html
+44,1,tur,Sistem çökmüştü! MEB'den EBA açıklaması: Siber saldırıya uğradık,https://www.cumhuriyet.com.tr/haber/sistem-cokmustu-mebden-eba-aciklamasi-siber-saldiriya-ugradik-1768260
+44,1,tur,MEB'den EBA açıklaması:  Siber saldırıya uğradık,https://www.mynet.com/meb-den-eba-aciklamasi-siber-saldiriya-ugradik-110106599383
+44,1,tur,MEB Açıkladı: EBA Siber Saldırı Yüzünden Çöktü,https://www.tamindir.com/haber/meb-acikladi-eba-siber-saldiri_62063/
+44,1,pol,Ponad 3000 ataków DDoS na branżę gier w ciągu ostatniego roku / CD-Action,https://www.cdaction.pl/news-62075/ponad-3000-atakow-ddos-na-branze-gier-w-ciagu-ostatniego-roku.html
+44,1,tur,"Hacker'ların Yaptığı Saldırı, Bir İnsanın Ölümü ile Sonuçlandı",https://www.chip.com.tr/haber/hackerin-yaptigi-saldiri-bir-insanin-olumu-ile-sonuclandi_90559.html
+44,1,tur,Milli Eğitim Bakanlığı: EBA'daki sorun siber saldırı kaynaklıydı -  HABERDAR,http://www.haberdar.com/gundem/milli-egitim-bakanligi-eba-daki-sorun-siber-saldiri-kaynakliydi-h185767.html
+44,1,tur,Son Dakika! Siber saldırı sonucu çöken EBA'daki erişim sorunu çözüme kavuşturuldu,https://www.haberler.com/son-dakika-siber-saldiri-sonucu-coken-eba-daki-13621728-haberi/
+44,1,tur,"SAP Türkiye, ""Code4Cloud Online Hackathon"" yarışması ile kritik iş problemlerinin çözümüne odaklandı",https://www.kamugundemi.com/hayat-yasam/sap-turkiye-code4cloud-online-hackathon-yarismasi-ile-kritik-h123944.html
+44,1,tur,Siber Saldırı ve Kullanıcı Yoğunluğu Sonucu Çöken Eba'daki Erişim Sorunu Çözüme Kavuşturuldu,https://www.mersinhaber.com/haber-siber-saldiri-ve-kullanici-yogunlugu-sonucu-coken-ebadaki-erisim-sorunu-cozume-kavusturuldu/397343
+44,1,tur,EBA sisteminin çökmesine ilişkin MEB'den çarpıcı açıklama: Siber saldırıya uğradık,https://www.internethaber.com/eba-sisteminin-cokmesine-iliskin-mebden-carpici-aciklama-siber-saldiriya-ugradik-2128591h.htm
+44,1,tur,EBA sisteminin çökmesine ilişkin MEB'den açıklama: Siber saldırıya uğradık,http://www.yenimeram.com.tr/eba-sisteminin-cokmesine-iliskin-mebden-aciklama-siber-saldiriya-ugradik-437588.htm
+44,2,tur,MEB'den EBA'daki teknik sorun hakkında açıklama: Siber saldırıya uğradık,https://www.posta.com.tr/mebden-ebadaki-teknik-sorun-hakkinda-aciklama-siber-saldiriya-ugradik-2278643
+45,1,tur,Ziya Selçuk EBA TV'ye yapılan siber saldırıyı anlattı,https://www.internethaber.com/ziya-selcuk-eba-tvye-yapilan-siber-saldiriyi-anlatti-2128874h.htm
+45,1,zho,Akamai：过去一年游戏中共发生了3072次DDoS攻击 | 互联网数据资讯网-199IT | 中文互联网数据研究资讯&#,http://www.199it.com/archives/1125528.html
+45,1,tur,HackZeugma yarışmalarıyla geleceğin siber kahramanları yetişecek,https://www.f5haber.com/gaste24/hackzeugma-yarismalariyla-gelecegin-siber-kahramanlari-yetisecek-5706670
+45,1,tur,Hackerler gelişmiş ve şifrelenmiş tehditlerden yararlanıyor,https://haberlersaglik.com/hackerler-gelismis-ve-sifrelenmis-tehditlerden-yararlaniyor/
+45,2,tur,"TEKNOFEST'te ""HackZeugma"" yarışmalarıyla geleceğin siber kahramanları yetişecek",https://www.konhaber.com/haber-teknofest_te_hackzeugma_yarismalariyla_gelecegin_siber_kahramanlari_yetisecek-1445243.html
+45,1,zho,游戏玩家成目标 过去一年受到3072次DDoS攻击,https://finance.sina.com.cn/tech/2020-09-24/doc-iivhuipp6209764.shtml
+45,1,tur,MEB: EBA'da siber saldırılara anında karşılık verildi,https://www.yeniakit.com.tr/haber/meb-ebada-siber-saldirilara-aninda-karsilik-verildi-1394532.html
+47,1,ron,"O fată de 12 ani din Cehia a descoperit şapte aplicaţii înşelătoare, care au adus hackerilor din spatele lor peste 500.000 de dolari",http://www.indexstiri.ro/o-fata-de-12-ani-din-cehia-a-descoperit-sapte-aplicatii-inselatoare-care-au-adus-hackerilor-din-spatele-lor-peste-500000-de-dolari.html
+47,1,tur,Siber saldırılar yılın ilk yarısında arttı,https://www.kocaeligazetesi.com.tr/haber/5511801/siber-saldirilar-yilin-ilk-yarisinda-artti
+49,1,tur,İnsan Beyni Hack'lenebilir!,https://www.chip.com.tr/haber/insan-beyni-hack_90691.html
+49,1,tur,'Siber dolandýrýcýlýk' çetesi çökertildi,http://www.star.com.tr/guncel/siber-dolandiricilik-cetesi-cokertildi-haber-1575949/
+49,1,tur,Şanlıurfa'da sahte şampuan ele geçirildi,https://dogruhaber.com.tr/haber/695054-sanliurfada-sahte-sampuan-ele-gecirildi/
+49,1,tur,"Reddi-of-Service Da??t?lm?? (DDoS) Koruma Hizmetleri Pazar? 2020 Büyüklü?ü, Pay?, Büyüme Oran?, Gelir, Gelecek E?ilimleri ve 2026'ya Tahminiyle Önde Gelen Ülkeler – Haber Radikal",http://www.haberradikal.com/2020/09/28/reddi-of-service-datlm-ddos-koruma-hizmetleri-pazar-2020-buyukluu-pay-buyume-oran-gelir-gelecek-eilimleri-ve-2026ya-tahminiyle-onde-gelen-ulkeler/
+49,1,tur,Urfa Büyükşehir Zabıtası Binlercesini Ele Geçirdi,https://www.urfa.com/urfa-buyuksehir-zabitasi-binlercesini-ele-gecirdi/
+50,1,tur,"Küresel Bulut DDoS Azaltma Yaz?l?m Pazar Raporu 2020, Hizmet Türüne Göre Analiz, Büyüme Faktörleri, Dinamikler, Temel Bile?enler, Talep-Öngörüler ve 2025'e Kadar Rakip Analizi – Haber Radikal",http://www.haberradikal.com/2020/09/29/kuresel-bulut-ddos-azaltma-yazlm-pazar-raporu-2020-hizmet-turune-gore-analiz-buyume-faktorleri-dinamikler-temel-bileenler-talep-ongoruler-ve-2025e-kadar-rakip-analizi/
+50,1,tur,"Microsoft, Siber Saldırı Raporunu Yayınladı",https://www.webtekno.com/microsoft-siber-saldiri-raporunu-yayinladi-e-posta-sifre-avciligi-artista-h100046.html
+50,1,tur,Hacklenen kahve makinesi çok tehlikeli olabilir,https://www.mynet.com/hacklenen-kahve-makinesi-cok-tehlikeli-olabilir-110106604348
+50,1,tur,Hack'lenme davasında yeni gelişme!,http://www.bursahakimiyet.com.tr/haber/hack-lenme-davasinda-yeni-gelisme-423624.html
+51,1,tur,WhatsApp'ın otomatik medya indirme özelliği siber saldırılara davetiye çıkarıyor,https://www.ensonhaber.com/teknoloji/whatsappin-otomatik-medya-indirme-ozelligi-siber-saldirilara-davetiye-cikariyor
+51,1,tur,İstanbul Konya ve Edirne'de eş zamanlı operasyon! Siber dolandırıcılık şebekesi çökertildi: 30 gözaltı,https://www.memleket.com.tr/istanbul-konya-ve-edirnede-es-zamanli-operasyon-siber-dolandiricilik-sebekesi-coker-2083099h.htm
+51,1,tur,"Türk hackerlar, Ermenistan bankasının sitesini erişime kapattı",https://www.haberler.com/turk-hackerlar-ermenistan-bankasinin-sitesini-13636358-haberi/
+51,1,tur,Türk hackerler Ermenistan'ı vurdu!,https://www.yeniakit.com.tr/haber/turk-hackerler-ermenistani-vurdu-1400464.html
+51,1,tur,PS5 hacker'ların yeni hedefi olabilir,https://www.f5haber.com/posta/ps5-hackerlarin-yeni-hedefi-olabilir-5712089
+51,1,ita,Helen Mirren |  chi è il marito Taylor Hackford |  età |  foto,https://www.zazoom.it/2020-09-30/helen-mirren-chi-e-il-marito-taylor-hackford-eta-foto-carriera/7303053/
+51,1,tur,PS5 hacker'ların yeni hedefi olabilir - Bilim Teknoloji Haberleri,https://www.posta.com.tr/ps5-hackerlarin-yeni-hedefi-olabilir-2279741
+52,2,tur,Ülkelere yönelik siber saldırıların yarısından fazlasını Rus hackerler gerçekleştirdi,http://www.bursadabugun.com/haber/ulkelere-yonelik-siber-saldirilarin-yarisindan-fazlasini-rus-hackerler-gerceklestirdi-1338182.html
+52,1,tur,Siber saldırıların yarısından fazlası tek ülkede!,https://www.haber7.com/teknoloji/haber/3019642-siber-saldirilarin-yarisindan-fazlasi-tek-ulkede
+52,1,tur,Siber saldırıların yarısından fazlası tek ülkeden!,https://www.haber7.com/teknoloji/haber/3019642-siber-saldirilarin-yarisindan-fazlasi-tek-ulkeden
+52,1,tur,Siber saldırıların yarısından çoğu tek ülkeden!,https://www.yeniakit.com.tr/haber/siber-saldirilarin-yarisindan-cogu-tek-ulkeden-1401859.html
+52,1,tur,Microsoft: Siber saldırıların yüzde 52'si Rusya'dan,https://www.ensonhaber.com/teknoloji/microsoft-siber-saldirilarin-yuzde-52si-rusyadan
+52,1,tur,Belvan kartın hacklendi mi?,https://www.vandahaber.com/belvan-kartin-hacklendi-mi/48418/
+52,1,tur,Kuzey Kore BM Güvenlik Konseyini Hacklemeye Çalıştı İddiası,https://www.tamindir.com/haber/kuzey-kore-bm-guvenlik-konseyi-hackleme_62307/
+52,2,tur,Ülkelere yapılan siber saldırılar Rus hackerlerın işi,https://www.f5haber.com/haber3/ulkelere-yapilan-siber-saldirilar-rus-hackerlerin-isi-5713340
+54,1,tur,"PUBG Mobile, DDoS Saldırısı Altında Olduğunu Açıkladı",https://www.webtekno.com/pubg-mobile-ddos-saldirisi-acikladi-h100203.html
+55,1,tur,"PUBG Mobile,küresel DDoS saldırıları altında",https://www.donanimhaber.com/pubg-mobile-kuresel-ddos-saldirilari-altinda--125578
+56,1,tur,Ermenistan'a Türk hacker şoku! Öyle bir not düştüler ki...,https://www.yeniakit.com.tr/haber/ermenistana-turk-hacker-soku-oyle-bir-not-dustuler-ki-1405108.html
+56,1,tur,Yazın Türkiye'de Kaç Bin Siber Saldırı Gerçekleştiği Açıklandı,https://www.tamindir.com/haber/yazin-turkiye-kac-bin-siber-saldiri-gerceklesti_62393/
+57,1,tur,Hacker'ların ilgi odaklarından birisi artık otonom araçlar,https://www.finansgundem.com/haber/hackerlarin-ilgi-odaklarindan-birisi-artik-otonom-araclar/1523185
+57,1,tur,Lüks araçları hack'lediler - Otomobil Haberleri,https://otomobil.haber7.com/otomobil/haber/3021055-luks-araclari-hacklediler
+57,1,tur,Otonom araçlarda hacker tehlikesi,http://www.bursadabugun.com/haber/otonom-araclarda-hacker-tehlikesi-1339556.html
+58,1,tur,"Chrome, Hack'lenen Parolaları Artık Android ve iOS'ta da Buluyor",https://www.chip.com.tr/haber/chrome-hack-parolalari-artik-android-ve-ios-da-buluyor_90883.html
+59,1,tur,"Hacker, Tesla marka arabanın işlevi bilinmeyen özelliğini ifşa etti",https://www.yeniakit.com.tr/haber/hacker-tesla-marka-arabanin-islevi-bilinmeyen-ozelligini-ifsa-etti-1408149.html
+59,2,tur,Sosyal medyada çok paylaşım yapanlar 'hacker'ların hedefinde,http://www.bursadabugun.com/haber/sosyal-medyada-cok-paylasim-yapanlar-hacker-larin-hedefinde-1340777.html
+59,1,tur,KOBİ'lere Siber Saldırılardan Koruma Kalkanı,https://www.chip.com.tr/haber/kobi-siber-saldirilardan-koruma-kalkani_90898.html

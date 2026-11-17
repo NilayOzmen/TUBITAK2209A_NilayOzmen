@@ -6,10 +6,14 @@ kaydırılarak tekrarlanacak.
 Senaryolar
   1. Pencere uzunluğu: ±30, ±45, ±60 gün (ana veri seti olaylar_v04.csv, ±60 günü kapsar).
   2. Kriz tarihi kaydırma: −7, 0, +7 gün. Kaydırınca pencere veri dışına taşmasın diye ±53 gün kullanılır.
-  3. ±90 gün: Haber taraması yalnızca ±60 (İngilizce) ve ±14 gün (Türkçe) için yapıldığından bu senaryoda
+  3. ±90 gün: Haber taraması yalnızca ±60 gün için yapıldığından bu senaryoda
      yalnızca veri tabanı kaynakları (EuRepoC + Hackmageddon) kullanılır ve aynı kaynaklarla ±60 gün sonucu
      yanına konur. 60–90 gün arasındaki olaylar olaylar_bant_60_90.csv dosyasında elle kodlanmıştır.
   4. Krizi teker teker dışarıda bırakma (±60 gün).
+  5. Tek kaynaklı olaylar hariç (±60 gün): öneri metnine göre hedefin reddettiği ya da tek kaynakta geçen
+     olaylar yalnızca duyarlılık analizinde kullanılır. Tek kaynaklı olaylar tek_kaynak.csv dosyasında
+     gerekçeleriyle listelenir (veri tabanı kayıtları derlenmiş kaynak sayılır; haberden gelen bir olay, Türkçe ve
+     İngilizce taramada yalnızca bir haber sitesinde geçiyorsa tek kaynaklıdır).
 
 H1: Poisson GLM, günlük olay sayısı ~ kriz sonrası + kriz sabit etkisi. Kriz öncesinde hiç olay yoksa
     (tam ayrışma) kesin koşullu binom testi kullanılır.
@@ -99,6 +103,8 @@ def main():
     sonuc.append(satir_yaz("Yalnız veri tabanları ±90", vt90, 90))
     for k in KRIZLER:
         sonuc.append(satir_yaz(f"{k} hariç (±60)", s, 60, krizler=[x for x in KRIZLER if x != k]))
+    tek = set(pd.read_csv(P / "tek_kaynak.csv").olay_id)
+    sonuc.append(satir_yaz("Tek kaynaklı olaylar hariç (±60)", s[~s.olay_id.isin(tek)], 60))
     t = pd.DataFrame(sonuc)
     t.to_csv(P / "saglamlik.csv", index=False)
     pd.set_option("display.width", 250)

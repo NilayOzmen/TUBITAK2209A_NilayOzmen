@@ -10,6 +10,8 @@ Krizler
                      karşı taraf Yunanistan. Hackmageddon'ın Temmuz–Ekim 2020 zaman çizelgelerinin bir kısmı sitede
                      kaldırılmış ve EuRepoC'de dönemde Türkiye kaydı yok; olaylar neredeyse tamamen haberlerden geliyor.
 
+Duyarlılık: tirmanan_sonuc.csv'de ana tarih için tek kaynaklı olaylar (tek_kaynak.csv) hariç tutulan satır da var.
+
 Kriz türü: kriz öncesi 14 günde gerginlik eğimi anlamlı pozitifse ya da gerginlik önceki döneme göre ≥ 1 SS
 yüksekse "tırmanan", değilse "ani".
 Çıktılar: data/processed/olaylar_<kriz>.csv, tirmanan_sonuc.csv, tirmanan_h4_granger.csv,
@@ -120,6 +122,13 @@ def main():
         print(d[["olay_id", "tarih", "gun_farki", "saldirgan", "hedef_ulke", "kriz_ikilisi", "sayima_dahil"]]
               .to_string(index=False))
         sonuc += h1_h2(k, d, c)
+        # Duyarlılık: tek kaynaklı olaylar hariç (tek_kaynak.csv; olay numaraları tarih sırasına göre yeniden
+        # verildiği için eşleştirme kaynak bağlantısıyla yapılır)
+        tek = set(pd.read_csv(P / "tek_kaynak.csv").kaynak_url)
+        for r in h1_h2(k, d[~d.kaynak_url.isin(tek)], c):
+            if r["kriz_tarihi"].startswith("ana"):
+                r["kriz_tarihi"] = r["kriz_tarihi"].replace("ana", "ana, tek kaynaklılar hariç")
+                sonuc.append(r)
         h = gerginlik(k, d, c)
         tur.append(kriz_turu(h, k))
         havuz.append((k, h[["saldiri", "endeks"]]))

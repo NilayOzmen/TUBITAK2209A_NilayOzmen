@@ -58,6 +58,13 @@ Aşağıdaki kayıtlar veri setinde tutulur ama günlük/haftalık sayım analiz
   (ör. Hackmageddon'da "Researchers discover…" ile başlayan CE kayıtları).
 - **Türkiye'ye özgü olmayan:** Türkiye, onlarca hedef ülkeden yalnızca biri olarak geçiyorsa.
 - **suc** kategorisindeki olaylar (bkz. 3).
+- **Hedefin yalanladığı** ya da gerçekleştiği kesinleşmeyen olaylar (ör. Rotterdam Havalimanı, 2017).
+
+### 6.1 Tek kaynaklı olaylar (18.11.2026)
+Haberden gelen bir olay, Türkçe ve İngilizce taramalarda yalnızca bir haber sitesinde geçiyorsa **tek
+kaynaklıdır**. Veri tabanı kayıtları (EuRepoC, Hackmageddon) derlenmiş kaynak sayılır. Tek kaynaklı olaylar ana
+analizde sayılır, `data/processed/tek_kaynak.csv` dosyasında gerekçeleriyle listelenir ve sağlamlık analizinde
+dışarıda bırakılarak sonuçların değişip değişmediğine bakılır (öneri metnindeki duyarlılık analizi taahhüdü).
 
 ## 7. Güvenilirlik
 Olayların %20'si ikinci bir kodlayıcı (danışman) tarafından bağımsız kodlanır; `aktor_turu` ve `kriz_ikilisi`
